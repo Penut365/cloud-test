@@ -1,2 +1,11 @@
-# cloud-test
-testing
+#EXTM3U
+#EXTINF:0, Home Improvement 
+logo=http://www.gstatic.com/tv/thumb/tvbanners/183934/p183934_b_v8_ad.jpg stream=https://videoserver1.org/live/X3YDO47pz53jEiXDbchnKQ/1517781839/b5ee54bba2ae28a03173618f93df9835.m3u8 cat=RandomAirTime 24/7
+
+#EXTINF:0, King of the Hill 
+logo=https://www.arconaitv.me/wp-content/uploads/2015/06/13.png stream=https://videoserver2.org/live/jRDbvKALcAlvHALwsyNx_g/1517781298/fa46ec0b4924e8c2194a53ef61b94039.m3u8 cat=RandomAirTime 24/7
+#EXTINF:0, Seinfeld (RandomAirTime 24/7) (US) (English)
+logo=http://img.sharetv.com/shows/standard/seinfeld.jpg stream=https://videoserver1.org/live/t42JwSzCqaJ1qBYjs84kCg/1517780111/af1f8d9839dd6ffefedebab89761ee7e.m3u8 cat=RandomAirTime 24/7
+ 
+#EXTINF:0, Shark Tank (RandomAirTime 24/7) (US) (English)
+logo=https://www.arconaitv.me/wp-content/uploads/2015/12/shark-tank.jpg stream=https://videoserver2.org/live/YhOo1rxeDyzlA4oJtlV2Pg/1517781141/6e5c05d83065de5035a874e9ce581273.m3u8 cat=RandomAirTime 24/7
