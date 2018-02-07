@@ -9,3 +9,6 @@ https://videoserver1.org/live/t42JwSzCqaJ1qBYjs84kCg/1517780111/af1f8d9839dd6ffe
  
 #EXTINF:0, Shark Tank 
 https://videoserver2.org/live/YhOo1rxeDyzlA4oJtlV2Pg/1517781141/6e5c05d83065de5035a874e9ce581273.m3u8 cat=RandomAirTime 24/7
+
+#EXTINF:0, tvg-id="MAVTV (MAVTV)" tvg-logo="Logo N/A" tvg-name="US:MAV TV"  group-title="USA",US:MAV TV
+http://abczu.xyz:25461/live/B1dPhdjJmx/26JE0C5Sab/11004.ts
