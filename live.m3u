@@ -1,0 +1,41 @@
+#EXTM3U
+
+#EXTINF:0, http://s1.ukhdtv.com:7860/get.php?username=ml2new&password=wse1236587&type=m3u
+
+#EXTINF:0, http://zdravahrana.ydns.eu:8000/get.php?username=test&password=gele&type=m3u&output=mpegts
+
+#EXTINF:0, http://fullturkiptv.dyndns.tv:40000/get.php?username=saimtest&password=saim1971&type=m3u 
+
+#EXTINF:0, http://tv.iptvs.net:8000/get.php?username=husky&password=bayern1313131&type=m3u
+
+#EXTINF:0, http://ksportiptv.com:1557/get.php?username=ptvshqip&password=euro2016&type=m3u
+
+http://91.134.217.235:1557/get.php?username=26/06/2016&password=RZuBWZCqJl&type=m3u
+
+http://87.106.252.50:8000/get.php?username=dailydiptv&password=albaniaiptv.com&type=m3u
+
+http://orbit-iptv.com:2500/get.php?username=DeVR9SELf9&password=b4Ega2evoO&type=m3u
+
+http://151.80.99.212:35997/get.php?username=baruckiere&password=lecce&type=m3u
+
+http://163.172.17.191:5890/get.php?username=Andre&password=Andre&type=m3u
+
+http://topiptv.net:5890/get.php?username=adamo2&password=adamo2&type=m3u
+
+http://163.172.17.191:5890/get.php?username=daniell&password=daniell&type=m3u
+
+http://151.80.99.212:35997/get.php?username=baruckiere&password=lecce&type=m3u
+
+http://93.190.140.124:8080/get.php?username=Forall&password=star7&type=m3u&output=mpgts 
+
+http://37.187.165.95:34555/get.php?username=pierangelo&password=pierangelo&type=m3u
+
+http://klmtvi.ddns.net:8082/get.php?username=klm2&password=klm2&type=m3u
+
+http://topiptv.net:5890/get.php?username=Andre&password=Andre&type=m3u
+
+http://164.132.168.84:2500/get.php?username=sony1&password=sony1&type=m3u
+
+http://164.132.168.84:2500/get.php?username=said&password=said&type=m3u
+
+http://164.132.168.84:2500/get.php?username=basit&password=basit&type=m3u
