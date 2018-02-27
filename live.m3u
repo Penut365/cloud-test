@@ -1,10 +1,10 @@
 #EXTM3U
 
 #EXTINF:0, Beavis and Butthead Mike Judge (RandomAirTime 24/7) (US) (English)
-logo=http://www.gstatic.com/tv/thumb/tvbanners/183882/p183882_b_v8_ah.jpg stream=https://videoserver2.org/live/mTB0EK91NtiLvWJQqOM72g/1517267736/d61aab1489b27a5cffd192451d68f8b2.m3u8 cat=RandomAirTime 24/7
+https://videoserver2.org/live/mTB0EK91NtiLvWJQqOM72g/1517267736/d61aab1489b27a5cffd192451d68f8b2.m3u8 
 
 #EXTINF:0, Classic Toons (RandomAirTime 24/7) (US) (English)
-logo=https://www.arconaitv.me/wp-content/uploads/2015/06/14.png stream=https://videoserver2.org/live/-wW7ZILDigz4S3OiRrpO9w/1517268259/d91af6958918af87d6a057c1cdf5b225.m3u8 cat=RandomAirTime 24/7
+https://videoserver2.org/live/-wW7ZILDigz4S3OiRrpO9w/1517268259/d91af6958918af87d6a057c1cdf5b225.m3u8 
 
 #EXTINF:0, Cops (RandomAirTime 24/7) (US) (English)
 logo=http://i.imgur.com/XiKF2Kf.jpg stream=https://videoserver2.org/live/vkcVFCYuErG9ZB7VMvbKag/1517269395/b9c73e563c9be2c9830b3920a7f5d3a3.m3u8 cat=RandomAirTime 24/7
