@@ -1,0 +1,45 @@
+#EXTM3U
+
+#EXTINF:0, Beavis and Butthead Mike Judge (RandomAirTime 24/7) (US) (English)
+logo=http://www.gstatic.com/tv/thumb/tvbanners/183882/p183882_b_v8_ah.jpg stream=https://videoserver2.org/live/mTB0EK91NtiLvWJQqOM72g/1517267736/d61aab1489b27a5cffd192451d68f8b2.m3u8 cat=RandomAirTime 24/7
+
+#EXTINF:0, Classic Toons (RandomAirTime 24/7) (US) (English)
+logo=https://www.arconaitv.me/wp-content/uploads/2015/06/14.png stream=https://videoserver2.org/live/-wW7ZILDigz4S3OiRrpO9w/1517268259/d91af6958918af87d6a057c1cdf5b225.m3u8 cat=RandomAirTime 24/7
+
+#EXTINF:0, Cops (RandomAirTime 24/7) (US) (English)
+logo=http://i.imgur.com/XiKF2Kf.jpg stream=https://videoserver2.org/live/vkcVFCYuErG9ZB7VMvbKag/1517269395/b9c73e563c9be2c9830b3920a7f5d3a3.m3u8 cat=RandomAirTime 24/7
+
+#EXTINF:0, Documentary movies (RandomAirTime 24/7) (US) (English)
+logo=http://www.enterthemoviezone.com/uploads/1/2/5/2/12525217/8364703_orig.jpg stream=https://videoserver2.org/live/UcwOA1u1F-skjDWlMwYXUA/1517269633/993ce9ee723cef89c679b7a55e42472a.m3u8 cat=RandomAirTime 24/7
+
+#EXTINF:0, Home Improvement (RandomAirTime 24/7) (US) (English)
+logo=http://www.gstatic.com/tv/thumb/tvbanners/183934/p183934_b_v8_ad.jpg stream=https://videoserver1.org/live/C1LeB54Sxlyzs1wJ9h-04w/1517269646/b5ee54bba2ae28a03173618f93df9835.m3u8 cat=RandomAirTime 24/7
+
+#EXTINF:0, I love Lucy (RandomAirTime 24/7) (US) (English)
+logo=https://www.arconaitv.me/wp-content/uploads/2015/11/I-love-lucy.jpg stream=https://videoserver1.org/live/ycC_LMw_P-WkyTGon_05ug/1517266840/67eea2632a01c967653555f98cb84b36.m3u8 cat=RandomAirTime 24/7
+
+#EXTINF:0, King of the Hill (RandomAirTime 24/7) (US) (English)
+logo=https://www.arconaitv.me/wp-content/uploads/2015/06/13.png stream=https://videoserver1.org/live/Gzc1z-apuf2uJDVlm-JkhA/1517269651/fa46ec0b4924e8c2194a53ef61b94039.m3u8 cat=RandomAirTime 24/7
+
+#EXTINF:0, Reno 911 (RandomAirTime 24/7) (US) (English)
+logo=http://www.gstatic.com/tv/thumb/tvbanners/184952/p184952_b_v8_aa.jpg stream=https://videoserver2.org/live/hyteJlW-4i5nskJKymK3kw/1517269440/f5adfc4dc8788c60c1fa63e8529d1d17.m3u8 cat=RandomAirTime 24/7
+
+#EXTINF:0, Seinfeld (RandomAirTime 24/7) (US) (English)
+logo=http://img.sharetv.com/shows/standard/seinfeld.jpg stream=https://videoserver1.org/live/jo9KSKnIzjmryb6PPMNshQ/1517269446/af1f8d9839dd6ffefedebab89761ee7e.m3u8 cat=RandomAirTime 24/7
+
+#EXTINF:0, Shark Tank (RandomAirTime 24/7) (US) (English)
+logo=https://www.arconaitv.me/wp-content/uploads/2015/12/shark-tank.jpg stream=https://videoserver1.org/live/_ynTRwLGtpSy_sWYuBYHGQ/1517268191/6e5c05d83065de5035a874e9ce581273.m3u8 cat=RandomAirTime 24/7
+
+#EXTINF:0, South Park (RandomAirTime 24/7) (US) (English)
+logo=https://www.arconaitv.me/wp-content/uploads/2015/06/23.png stream=https://videoserver1.org/live/69fIk_r28rpKjHeGToT2pw/1517269293/1952a01898073d1e561b9b4f2e42cbd7.m3u8 cat=RandomAirTime 24/7
+
+#EXTINF:0, Trailer Park Boys (RandomAirTime 24/7) (US) (English)
+logo=https://www.arconaitv.me/wp-content/uploads/2015/11/Trailer-Park-Boys.jpg stream=https://videoserver1.org/live/doDHJLfBUXx0en9gnRC2uQ/1517269473/d12d2c37e8c211f096ea78fd159643ba.m3u8 cat=RandomAirTime 24/7
+
+#EXTINF:0, The Weather Channel (News) (US) (English)
+logo=http://s.w-x.co/240x180_twc_default.png stream=http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8 cat=News
+
+#EXTINF:0, Fireplace (RandomAirTime 24/7) (US) (English/Spanish)
+logo=http://i.imgur.com/DSBjpDP.jpg stream=http://silo.pluto.tv/production/201611/08/58212bb0a4d8f4494bc5b89c/christmasfireplace_master.m3u8 cat=RandomAirTime 24/7
+
+
