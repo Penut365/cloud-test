@@ -4,3 +4,14 @@ http://tvstreams.xyz:83/live/nana/nana/32277.ts
 
 #EXTINF:-1,US|GOLF HD
 http://ezhosting.xyz:80/live/curtis/curtis/18997.ts
+
+#EXTINF:-1,(US) MavTV
+http://31.220.2.50:25461/live/Free200/Free200/1438.m3u8
+
+#EXTINF:-1,CA: MAVTV
+http://lx.lynxmart.xyz:8000/live/davide/davide/24538.ts
+
+#EXTINF:-1,MavTV US HD
+http://stream.fabiptv.com:25461/live/jnzxkviq/f2Geb36fG5/8614.ts
+
+
