@@ -1,285 +1,1626 @@
 #EXTM3U
-#EXTINF:-1 tvg-ID="" tvg-name="HBO SD" tvg-logo="" group-title="PREMIUM",HBO SD
-http://188.166.106.180:8000/live/SERVEREDUARDOCISNEROSFREE/SERVIDOR EDUARDOCISNEROSFREE/86.ts
-#EXTINF:-1 tvg-ID="" tvg-name="HBO HQ" tvg-logo="" group-title="PREMIUM",HBO HQ
-http://188.166.106.180:8000/live/SERVEREDUARDOCISNEROSFREE/SERVIDOR EDUARDOCISNEROSFREE/87.ts
-#EXTINF:-1 tvg-ID="" tvg-name="HBO HD" tvg-logo="" group-title="PREMIUM",HBO HD
-http://188.166.106.180:8000/live/SERVEREDUARDOCISNEROSFREE/SERVIDOR EDUARDOCISNEROSFREE/88.ts
-#EXTINF:-1 tvg-ID="" tvg-name="HBO PLUS SD" tvg-logo="" group-title="PREMIUM",HBO PLUS SD
-http://188.166.106.180:8000/live/SERVEREDUARDOCISNEROSFREE/SERVIDOR EDUARDOCISNEROSFREE/89.ts
-#EXTINF:-1 tvg-ID="" tvg-name="HBO PLUS HQ" tvg-logo="" group-title="PREMIUM",HBO PLUS HQ
-http://188.166.106.180:8000/live/SERVEREDUARDOCISNEROSFREE/SERVIDOR EDUARDOCISNEROSFREE/90.ts
-#EXTINF:-1 tvg-ID="" tvg-name="HBO PLUS HD" tvg-logo="" group-title="PREMIUM",HBO PLUS HD
-http://188.166.106.180:8000/live/SERVEREDUARDOCISNEROSFREE/SERVIDOR EDUARDOCISNEROSFREE/91.ts
-#EXTINF:-1 tvg-ID="" tvg-name="HBO FAMILY SD" tvg-logo="" group-title="PREMIUM",HBO FAMILY SD
-http://188.166.106.180:8000/live/SERVEREDUARDOCISNEROSFREE/SERVIDOR EDUARDOCISNEROSFREE/92.ts
-#EXTINF:-1 tvg-ID="" tvg-name="HBO FAMILY HQ" tvg-logo="" group-title="PREMIUM",HBO FAMILY HQ
-http://188.166.106.180:8000/live/SERVEREDUARDOCISNEROSFREE/SERVIDOR EDUARDOCISNEROSFREE/93.ts
-#EXTINF:-1 tvg-ID="" tvg-name="HBO FAMILY HD" tvg-logo="" group-title="PREMIUM",HBO FAMILY HD
-http://188.166.106.180:8000/live/SERVEREDUARDOCISNEROSFREE/SERVIDOR EDUARDOCISNEROSFREE/94.ts
-#EXTINF:-1 tvg-ID="" tvg-name="HBO SIGNATURE SD" tvg-logo="" group-title="PREMIUM",HBO SIGNATURE SD
-http://188.166.106.180:8000/live/SERVEREDUARDOCISNEROSFREE/SERVIDOR EDUARDOCISNEROSFREE/95.ts
-#EXTINF:-1 tvg-ID="" tvg-name="HBO SIGNATURE HQ" tvg-logo="" group-title="PREMIUM",HBO SIGNATURE HQ
-http://188.166.106.180:8000/live/SERVEREDUARDOCISNEROSFREE/SERVIDOR EDUARDOCISNEROSFREE/96.ts
-#EXTINF:-1 tvg-ID="" tvg-name="HBO SIGNATURE HD" tvg-logo="" group-title="PREMIUM",HBO SIGNATURE HD
-http://188.166.106.180:8000/live/SERVEREDUARDOCISNEROSFREE/SERVIDOR EDUARDOCISNEROSFREE/97.ts
-#EXTINF:-1 tvg-ID="" tvg-name="MAX SD" tvg-logo="" group-title="PREMIUM",MAX SD
-http://188.166.106.180:8000/live/SERVEREDUARDOCISNEROSFREE/SERVIDOR EDUARDOCISNEROSFREE/101.ts
-#EXTINF:-1 tvg-ID="" tvg-name="MAX HQ" tvg-logo="" group-title="PREMIUM",MAX HQ
-http://188.166.106.180:8000/live/SERVEREDUARDOCISNEROSFREE/SERVIDOR EDUARDOCISNEROSFREE/102.ts
-#EXTINF:-1 tvg-ID="" tvg-name="MAXPRIME SD" tvg-logo="" group-title="PREMIUM",MAXPRIME SD
-http://188.166.106.180:8000/live/SERVEREDUARDOCISNEROSFREE/SERVIDOR EDUARDOCISNEROSFREE/98.ts
-#EXTINF:-1 tvg-ID="" tvg-name="MAXPRIME HQ" tvg-logo="" group-title="PREMIUM",MAXPRIME HQ
-http://188.166.106.180:8000/live/SERVEREDUARDOCISNEROSFREE/SERVIDOR EDUARDOCISNEROSFREE/99.ts
-#EXTINF:-1 tvg-ID="" tvg-name="MAXPRIME HD" tvg-logo="" group-title="PREMIUM",MAXPRIME HD
-http://188.166.106.180:8000/live/SERVEREDUARDOCISNEROSFREE/SERVIDOR EDUARDOCISNEROSFREE/100.ts
-#EXTINF:-1 tvg-ID="" tvg-name="MP MULTIPREMIER SD" tvg-logo="" group-title="PREMIUM",MP MULTIPREMIER SD
-http://188.166.106.180:8000/live/SERVEREDUARDOCISNEROSFREE/SERVIDOR EDUARDOCISNEROSFREE/104.ts
-#EXTINF:-1 tvg-ID="" tvg-name="MP MULTIPREMIER HQ" tvg-logo="" group-title="PREMIUM",MP MULTIPREMIER HQ
-http://188.166.106.180:8000/live/SERVEREDUARDOCISNEROSFREE/SERVIDOR EDUARDOCISNEROSFREE/105.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CINEMA DINAMITA SD" tvg-logo="" group-title="PREMIUM",CINEMA DINAMITA SD
-http://188.166.106.180:8000/live/SERVEREDUARDOCISNEROSFREE/SERVIDOR EDUARDOCISNEROSFREE/113.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CINEMA DINAMITA HQ" tvg-logo="" group-title="PREMIUM",CINEMA DINAMITA HQ
-http://188.166.106.180:8000/live/SERVEREDUARDOCISNEROSFREE/SERVIDOR EDUARDOCISNEROSFREE/114.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CINE LATINO SD" tvg-logo="" group-title="PREMIUM",CINE LATINO SD
-http://188.166.106.180:8000/live/SERVEREDUARDOCISNEROSFREE/SERVIDOR EDUARDOCISNEROSFREE/110.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CINE LATINO HQ" tvg-logo="" group-title="PREMIUM",CINE LATINO HQ
-http://188.166.106.180:8000/live/SERVEREDUARDOCISNEROSFREE/SERVIDOR EDUARDOCISNEROSFREE/111.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CINE LATINO" tvg-logo="" group-title="",CINE LATINO
-http://188.166.106.180:8000/live/SERVEREDUARDOCISNEROSFREE/SERVIDOR EDUARDOCISNEROSFREE/42.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CLARO CINEMA SD" tvg-logo="" group-title="PREMIUM",CLARO CINEMA SD
-http://188.166.106.180:8000/live/SERVEREDUARDOCISNEROSFREE/SERVIDOR EDUARDOCISNEROSFREE/119.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CLARO CINEMA HQ" tvg-logo="" group-title="PREMIUM",CLARO CINEMA HQ
-http://188.166.106.180:8000/live/SERVEREDUARDOCISNEROSFREE/SERVIDOR EDUARDOCISNEROSFREE/120.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CINE CANAL SD" tvg-logo="" group-title="PREMIUM",CINE CANAL SD
-http://188.166.106.180:8000/live/SERVEREDUARDOCISNEROSFREE/SERVIDOR EDUARDOCISNEROSFREE/107.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CINE CANAL HQ" tvg-logo="" group-title="PREMIUM",CINE CANAL HQ
-http://188.166.106.180:8000/live/SERVEREDUARDOCISNEROSFREE/SERVIDOR EDUARDOCISNEROSFREE/108.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CINE CANAL HD" tvg-logo="" group-title="PREMIUM",CINE CANAL HD
-http://188.166.106.180:8000/live/SERVEREDUARDOCISNEROSFREE/SERVIDOR EDUARDOCISNEROSFREE/109.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FX SD" tvg-logo="" group-title="PREMIUM",FX SD
-http://188.166.106.180:8000/live/SERVEREDUARDOCISNEROSFREE/SERVIDOR EDUARDOCISNEROSFREE/149.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FX HQ" tvg-logo="" group-title="PREMIUM",FX HQ
-http://188.166.106.180:8000/live/SERVEREDUARDOCISNEROSFREE/SERVIDOR EDUARDOCISNEROSFREE/150.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FX HD" tvg-logo="" group-title="PREMIUM",FX HD
-http://188.166.106.180:8000/live/SERVEREDUARDOCISNEROSFREE/SERVIDOR EDUARDOCISNEROSFREE/151.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FOX MOVIES SD" tvg-logo="" group-title="PREMIUM",FOX MOVIES SD
-http://188.166.106.180:8000/live/SERVEREDUARDOCISNEROSFREE/SERVIDOR EDUARDOCISNEROSFREE/137.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FOX MOVIES HQ" tvg-logo="" group-title="PREMIUM",FOX MOVIES HQ
-http://188.166.106.180:8000/live/SERVEREDUARDOCISNEROSFREE/SERVIDOR EDUARDOCISNEROSFREE/138.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FOX MOVIES HD" tvg-logo="" group-title="PREMIUM",FOX MOVIES HD
-http://188.166.106.180:8000/live/SERVEREDUARDOCISNEROSFREE/SERVIDOR EDUARDOCISNEROSFREE/139.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FOX LIFE SD" tvg-logo="" group-title="PREMIUM",FOX LIFE SD
-http://188.166.106.180:8000/live/SERVEREDUARDOCISNEROSFREE/SERVIDOR EDUARDOCISNEROSFREE/143.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FOX LIFE HQ" tvg-logo="" group-title="PREMIUM",FOX LIFE HQ
-http://188.166.106.180:8000/live/SERVEREDUARDOCISNEROSFREE/SERVIDOR EDUARDOCISNEROSFREE/144.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FOX LIFE HD" tvg-logo="" group-title="PREMIUM",FOX LIFE HD
-http://188.166.106.180:8000/live/SERVEREDUARDOCISNEROSFREE/SERVIDOR EDUARDOCISNEROSFREE/145.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FOX FAMILY SD" tvg-logo="" group-title="PREMIUM",FOX FAMILY SD
-http://188.166.106.180:8000/live/SERVEREDUARDOCISNEROSFREE/SERVIDOR EDUARDOCISNEROSFREE/134.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FOX FAMILY HQ" tvg-logo="" group-title="PREMIUM",FOX FAMILY HQ
-http://188.166.106.180:8000/live/SERVEREDUARDOCISNEROSFREE/SERVIDOR EDUARDOCISNEROSFREE/135.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FOX COMEDY SD" tvg-logo="" group-title="PREMIUM",FOX COMEDY SD
-http://188.166.106.180:8000/live/SERVEREDUARDOCISNEROSFREE/SERVIDOR EDUARDOCISNEROSFREE/131.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FOX COMEDY HQ" tvg-logo="" group-title="PREMIUM",FOX COMEDY HQ
-http://188.166.106.180:8000/live/SERVEREDUARDOCISNEROSFREE/SERVIDOR EDUARDOCISNEROSFREE/132.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FOX CLASSIC  SD" tvg-logo="" group-title="PREMIUM",FOX CLASSIC  SD
-http://188.166.106.180:8000/live/SERVEREDUARDOCISNEROSFREE/SERVIDOR EDUARDOCISNEROSFREE/128.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FOX CINEMA HQ" tvg-logo="" group-title="PREMIUM",FOX CINEMA HQ
-http://188.166.106.180:8000/live/SERVEREDUARDOCISNEROSFREE/SERVIDOR EDUARDOCISNEROSFREE/126.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FOX CINEMA AS" tvg-logo="" group-title="PREMIUM",FOX CINEMA AS
-http://188.166.106.180:8000/live/SERVEREDUARDOCISNEROSFREE/SERVIDOR EDUARDOCISNEROSFREE/125.ts
-#EXTINF:-1 tvg-ID="" tvg-name="LIFETIME SD" tvg-logo="" group-title="CANALES DE INTERES",LIFETIME SD
-http://188.166.106.180:8000/live/SERVEREDUARDOCISNEROSFREE/SERVIDOR EDUARDOCISNEROSFREE/74.ts
-#EXTINF:-1 tvg-ID="" tvg-name="LIFETIME HQ" tvg-logo="" group-title="CANALES DE INTERES",LIFETIME HQ
-http://188.166.106.180:8000/live/SERVEREDUARDOCISNEROSFREE/SERVIDOR EDUARDOCISNEROSFREE/75.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TNT SERIES SD" tvg-logo="" group-title="PREMIUM",TNT SERIES SD
-http://188.166.106.180:8000/live/SERVEREDUARDOCISNEROSFREE/SERVIDOR EDUARDOCISNEROSFREE/167.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TNT SERIES HQ" tvg-logo="" group-title="PREMIUM",TNT SERIES HQ
-http://188.166.106.180:8000/live/SERVEREDUARDOCISNEROSFREE/SERVIDOR EDUARDOCISNEROSFREE/168.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TNT SERIES HD" tvg-logo="" group-title="PREMIUM",TNT SERIES HD
-http://188.166.106.180:8000/live/SERVEREDUARDOCISNEROSFREE/SERVIDOR EDUARDOCISNEROSFREE/169.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TNT HD & SD" tvg-logo="" group-title="PREMIUM",TNT HD & SD
-http://188.166.106.180:8000/live/SERVEREDUARDOCISNEROSFREE/SERVIDOR EDUARDOCISNEROSFREE/170.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TNT HD & HQ" tvg-logo="" group-title="PREMIUM",TNT HD & HQ
-http://188.166.106.180:8000/live/SERVEREDUARDOCISNEROSFREE/SERVIDOR EDUARDOCISNEROSFREE/171.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TNT HD & HD" tvg-logo="" group-title="PREMIUM",TNT HD & HD
-http://188.166.106.180:8000/live/SERVEREDUARDOCISNEROSFREE/SERVIDOR EDUARDOCISNEROSFREE/172.ts
-#EXTINF:-1 tvg-ID="" tvg-name="THE FILM ZONE SD" tvg-logo="" group-title="PREMIUM",THE FILM ZONE SD
-http://188.166.106.180:8000/live/SERVEREDUARDOCISNEROSFREE/SERVIDOR EDUARDOCISNEROSFREE/146.ts
-#EXTINF:-1 tvg-ID="" tvg-name="THE FILM ZONE HQ" tvg-logo="" group-title="PREMIUM",THE FILM ZONE HQ
-http://188.166.106.180:8000/live/SERVEREDUARDOCISNEROSFREE/SERVIDOR EDUARDOCISNEROSFREE/147.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SUNDANCE CHANNEL HQ" tvg-logo="" group-title="PREMIUM",SUNDANCE CHANNEL HQ
-http://188.166.106.180:8000/live/SERVEREDUARDOCISNEROSFREE/SERVIDOR EDUARDOCISNEROSFREE/165.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SUNDANCE CHANNEL HD" tvg-logo="" group-title="PREMIUM",SUNDANCE CHANNEL HD
-http://188.166.106.180:8000/live/SERVEREDUARDOCISNEROSFREE/SERVIDOR EDUARDOCISNEROSFREE/166.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SUNDACE CHANNEL SD" tvg-logo="" group-title="PREMIUM",SUNDACE CHANNEL SD
-http://188.166.106.180:8000/live/SERVEREDUARDOCISNEROSFREE/SERVIDOR EDUARDOCISNEROSFREE/164.ts
-#EXTINF:-1 tvg-ID="" tvg-name="STUDIO UNIVERSAL SD" tvg-logo="" group-title="PREMIUM",STUDIO UNIVERSAL SD
-http://188.166.106.180:8000/live/SERVEREDUARDOCISNEROSFREE/SERVIDOR EDUARDOCISNEROSFREE/161.ts
-#EXTINF:-1 tvg-ID="" tvg-name="STUDIO UNIVERSAL HQ" tvg-logo="" group-title="PREMIUM",STUDIO UNIVERSAL HQ
-http://188.166.106.180:8000/live/SERVEREDUARDOCISNEROSFREE/SERVIDOR EDUARDOCISNEROSFREE/162.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SPACE HD & SD" tvg-logo="" group-title="PREMIUM",SPACE HD & SD
-http://188.166.106.180:8000/live/SERVEREDUARDOCISNEROSFREE/SERVIDOR EDUARDOCISNEROSFREE/158.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SPACE HD & HQ" tvg-logo="" group-title="PREMIUM",SPACE HD & HQ
-http://188.166.106.180:8000/live/SERVEREDUARDOCISNEROSFREE/SERVIDOR EDUARDOCISNEROSFREE/159.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SPACE HD &  HD" tvg-logo="" group-title="PREMIUM",SPACE HD &  HD
-http://188.166.106.180:8000/live/SERVEREDUARDOCISNEROSFREE/SERVIDOR EDUARDOCISNEROSFREE/160.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SONY SD" tvg-logo="" group-title="PREMIUM",SONY SD
-http://188.166.106.180:8000/live/SERVEREDUARDOCISNEROSFREE/SERVIDOR EDUARDOCISNEROSFREE/155.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SONY HQ" tvg-logo="" group-title="PREMIUM",SONY HQ
-http://188.166.106.180:8000/live/SERVEREDUARDOCISNEROSFREE/SERVIDOR EDUARDOCISNEROSFREE/156.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PARAMOUNT SD" tvg-logo="" group-title="PREMIUM",PARAMOUNT SD
-http://188.166.106.180:8000/live/SERVEREDUARDOCISNEROSFREE/SERVIDOR EDUARDOCISNEROSFREE/152.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PARAMOUNT HQ" tvg-logo="" group-title="PREMIUM",PARAMOUNT HQ
-http://188.166.106.180:8000/live/SERVEREDUARDOCISNEROSFREE/SERVIDOR EDUARDOCISNEROSFREE/153.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PARAMOUNT HD" tvg-logo="" group-title="PREMIUM",PARAMOUNT HD
-http://188.166.106.180:8000/live/SERVEREDUARDOCISNEROSFREE/SERVIDOR EDUARDOCISNEROSFREE/154.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UNICABLE SD" tvg-logo="" group-title="CANALES DE INTERES",UNICABLE SD
-http://188.166.106.180:8000/live/SERVEREDUARDOCISNEROSFREE/SERVIDOR EDUARDOCISNEROSFREE/83.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UNICABLE HQ" tvg-logo="" group-title="CANALES DE INTERES",UNICABLE HQ
-http://188.166.106.180:8000/live/SERVEREDUARDOCISNEROSFREE/SERVIDOR EDUARDOCISNEROSFREE/84.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TELEMUNDO INTERNACIONAL SD" tvg-logo="" group-title="CANALES DE INTERES",TELEMUNDO INTERNACIONAL SD
-http://188.166.106.180:8000/live/SERVEREDUARDOCISNEROSFREE/SERVIDOR EDUARDOCISNEROSFREE/80.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TELEMUNDO INTERNACIONAL HQ" tvg-logo="" group-title="CANALES DE INTERES",TELEMUNDO INTERNACIONAL HQ
-http://188.166.106.180:8000/live/SERVEREDUARDOCISNEROSFREE/SERVIDOR EDUARDOCISNEROSFREE/81.ts
-#EXTINF:-1 tvg-ID="" tvg-name="RCN TELENOVELAS SD" tvg-logo="" group-title="CANALES DE INTERES",RCN TELENOVELAS SD
-http://188.166.106.180:8000/live/SERVEREDUARDOCISNEROSFREE/SERVIDOR EDUARDOCISNEROSFREE/77.ts
-#EXTINF:-1 tvg-ID="" tvg-name="RCN TELENOVELAS HQ" tvg-logo="" group-title="CANALES DE INTERES",RCN TELENOVELAS HQ
-http://188.166.106.180:8000/live/SERVEREDUARDOCISNEROSFREE/SERVIDOR EDUARDOCISNEROSFREE/78.ts
-#EXTINF:-1 tvg-ID="" tvg-name="WARNER CHANNEL SD" tvg-logo="" group-title="PREMIUM",WARNER CHANNEL SD
-http://188.166.106.180:8000/live/SERVEREDUARDOCISNEROSFREE/SERVIDOR EDUARDOCISNEROSFREE/176.ts
-#EXTINF:-1 tvg-ID="" tvg-name="WARNER CHANNEL HQ" tvg-logo="" group-title="PREMIUM",WARNER CHANNEL HQ
-http://188.166.106.180:8000/live/SERVEREDUARDOCISNEROSFREE/SERVIDOR EDUARDOCISNEROSFREE/177.ts
-#EXTINF:-1 tvg-ID="" tvg-name="EUROCHANNEL HQ" tvg-logo="" group-title="CANALES DE INTERES",EUROCHANNEL HQ
-http://188.166.106.180:8000/live/SERVEREDUARDOCISNEROSFREE/SERVIDOR EDUARDOCISNEROSFREE/69.ts
-#EXTINF:-1 tvg-ID="" tvg-name="E ENTRETENIMENT SD" tvg-logo="" group-title="CANALES DE INTERES",E ENTRETENIMENT SD
-http://188.166.106.180:8000/live/SERVEREDUARDOCISNEROSFREE/SERVIDOR EDUARDOCISNEROSFREE/64.ts
-#EXTINF:-1 tvg-ID="" tvg-name="E ENTRETENIMENT HQ" tvg-logo="" group-title="CANALES DE INTERES",E ENTRETENIMENT HQ
-http://188.166.106.180:8000/live/SERVEREDUARDOCISNEROSFREE/SERVIDOR EDUARDOCISNEROSFREE/65.ts
-#EXTINF:-1 tvg-ID="" tvg-name="COMEDY CENTRAL SD" tvg-logo="" group-title="CANALES DE INTERES",COMEDY CENTRAL SD
-http://188.166.106.180:8000/live/SERVEREDUARDOCISNEROSFREE/SERVIDOR EDUARDOCISNEROSFREE/57.ts
-#EXTINF:-1 tvg-ID="" tvg-name="COMEDY CENTRAL HQ" tvg-logo="" group-title="CANALES DE INTERES",COMEDY CENTRAL HQ
-http://188.166.106.180:8000/live/SERVEREDUARDOCISNEROSFREE/SERVIDOR EDUARDOCISNEROSFREE/58.ts
-#EXTINF:-1 tvg-ID="" tvg-name="COMEDY CENTRAL HD" tvg-logo="" group-title="CANALES DE INTERES",COMEDY CENTRAL HD
-http://188.166.106.180:8000/live/SERVEREDUARDOCISNEROSFREE/SERVIDOR EDUARDOCISNEROSFREE/59.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CNN ESPAÑOL SD" tvg-logo="" group-title="CANALES DE INTERES",CNN ESPAÑOL SD
-http://188.166.106.180:8000/live/SERVEREDUARDOCISNEROSFREE/SERVIDOR EDUARDOCISNEROSFREE/61.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CNN ESPAÑOL HQ" tvg-logo="" group-title="CANALES DE INTERES",CNN ESPAÑOL HQ
-http://188.166.106.180:8000/live/SERVEREDUARDOCISNEROSFREE/SERVIDOR EDUARDOCISNEROSFREE/62.ts
-#EXTINF:-1 tvg-ID="" tvg-name="LAS ESTRELLAS" tvg-logo="" group-title="CANALES DE INTERES",LAS ESTRELLAS
-http://188.166.106.180:8000/live/SERVEREDUARDOCISNEROSFREE/SERVIDOR EDUARDOCISNEROSFREE/236.ts
-#EXTINF:-1 tvg-ID="" tvg-name="AZTECA 7" tvg-logo="" group-title="CANALES DE INTERES",AZTECA 7
-http://188.166.106.180:8000/live/SERVEREDUARDOCISNEROSFREE/SERVIDOR EDUARDOCISNEROSFREE/235.ts
-#EXTINF:-1 tvg-ID="" tvg-name="AZTECA 13" tvg-logo="" group-title="CANALES DE INTERES",AZTECA 13
-http://188.166.106.180:8000/live/SERVEREDUARDOCISNEROSFREE/SERVIDOR EDUARDOCISNEROSFREE/234.ts
-#EXTINF:-1 tvg-ID="" tvg-name="AXN SD" tvg-logo="" group-title="CANALES DE INTERES",AXN SD
-http://188.166.106.180:8000/live/SERVEREDUARDOCISNEROSFREE/SERVIDOR EDUARDOCISNEROSFREE/51.ts
-#EXTINF:-1 tvg-ID="" tvg-name="AXN HQ" tvg-logo="" group-title="CANALES DE INTERES",AXN HQ
-http://188.166.106.180:8000/live/SERVEREDUARDOCISNEROSFREE/SERVIDOR EDUARDOCISNEROSFREE/52.ts
-#EXTINF:-1 tvg-ID="" tvg-name="AXN HD" tvg-logo="" group-title="CANALES DE INTERES",AXN HD
-http://188.166.106.180:8000/live/SERVEREDUARDOCISNEROSFREE/SERVIDOR EDUARDOCISNEROSFREE/53.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ANTENA 3 SD" tvg-logo="" group-title="CANALES DE INTERES",ANTENA 3 SD
-http://188.166.106.180:8000/live/SERVEREDUARDOCISNEROSFREE/SERVIDOR EDUARDOCISNEROSFREE/48.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ANTENA 3 HQ" tvg-logo="" group-title="CANALES DE INTERES",ANTENA 3 HQ
-http://188.166.106.180:8000/live/SERVEREDUARDOCISNEROSFREE/SERVIDOR EDUARDOCISNEROSFREE/49.ts
-#EXTINF:-1 tvg-ID="" tvg-name="A&E SD" tvg-logo="" group-title="CANALES DE INTERES",A&E SD
-http://188.166.106.180:8000/live/SERVEREDUARDOCISNEROSFREE/SERVIDOR EDUARDOCISNEROSFREE/45.ts
-#EXTINF:-1 tvg-ID="" tvg-name="A&E HD" tvg-logo="" group-title="CANALES DE INTERES",A&E HD
-http://188.166.106.180:8000/live/SERVEREDUARDOCISNEROSFREE/SERVIDOR EDUARDOCISNEROSFREE/47.ts
-#EXTINF:-1 tvg-ID="" tvg-name="nova" tvg-logo="" group-title="",nova
-http://188.166.106.180:8000/live/SERVEREDUARDOCISNEROSFREE/SERVIDOR EDUARDOCISNEROSFREE/3.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BABY TV SD" tvg-logo="" group-title="INFANTILES",BABY TV SD
-http://188.166.106.180:8000/live/SERVEREDUARDOCISNEROSFREE/SERVIDOR EDUARDOCISNEROSFREE/179.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BABY TV HQ" tvg-logo="" group-title="INFANTILES",BABY TV HQ
-http://188.166.106.180:8000/live/SERVEREDUARDOCISNEROSFREE/SERVIDOR EDUARDOCISNEROSFREE/180.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BOOMERANG SD" tvg-logo="" group-title="INFANTILES",BOOMERANG SD
-http://188.166.106.180:8000/live/SERVEREDUARDOCISNEROSFREE/SERVIDOR EDUARDOCISNEROSFREE/182.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BOOMERANG HQ" tvg-logo="" group-title="INFANTILES",BOOMERANG HQ
-http://188.166.106.180:8000/live/SERVEREDUARDOCISNEROSFREE/SERVIDOR EDUARDOCISNEROSFREE/183.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DISNEY JR SD" tvg-logo="" group-title="INFANTILES",DISNEY JR SD
-http://188.166.106.180:8000/live/SERVEREDUARDOCISNEROSFREE/SERVIDOR EDUARDOCISNEROSFREE/185.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DISNEY JR HQ" tvg-logo="" group-title="INFANTILES",DISNEY JR HQ
-http://188.166.106.180:8000/live/SERVEREDUARDOCISNEROSFREE/SERVIDOR EDUARDOCISNEROSFREE/186.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DISNEY XD SD" tvg-logo="" group-title="INFANTILES",DISNEY XD SD
-http://188.166.106.180:8000/live/SERVEREDUARDOCISNEROSFREE/SERVIDOR EDUARDOCISNEROSFREE/188.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DISNEY XD HQ" tvg-logo="" group-title="INFANTILES",DISNEY XD HQ
-http://188.166.106.180:8000/live/SERVEREDUARDOCISNEROSFREE/SERVIDOR EDUARDOCISNEROSFREE/189.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TOONCAST SD" tvg-logo="" group-title="INFANTILES",TOONCAST SD
-http://188.166.106.180:8000/live/SERVEREDUARDOCISNEROSFREE/SERVIDOR EDUARDOCISNEROSFREE/191.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TOONCAST HQ" tvg-logo="" group-title="INFANTILES",TOONCAST HQ
-http://188.166.106.180:8000/live/SERVEREDUARDOCISNEROSFREE/SERVIDOR EDUARDOCISNEROSFREE/192.ts
-#EXTINF:-1 tvg-ID="" tvg-name="HISTORY SD" tvg-logo="" group-title="DOCUMENTALES",HISTORY SD
-http://188.166.106.180:8000/live/SERVEREDUARDOCISNEROSFREE/SERVIDOR EDUARDOCISNEROSFREE/208.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ANIMAL PLANET SD" tvg-logo="" group-title="DOCUMENTALES",ANIMAL PLANET SD
-http://188.166.106.180:8000/live/SERVEREDUARDOCISNEROSFREE/SERVIDOR EDUARDOCISNEROSFREE/194.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ANIMAL PLANET HQ" tvg-logo="" group-title="DOCUMENTALES",ANIMAL PLANET HQ
-http://188.166.106.180:8000/live/SERVEREDUARDOCISNEROSFREE/SERVIDOR EDUARDOCISNEROSFREE/195.ts
-#EXTINF:-1 tvg-ID="" tvg-name="HISTORY HQ" tvg-logo="" group-title="DOCUMENTALES",HISTORY HQ
-http://188.166.106.180:8000/live/SERVEREDUARDOCISNEROSFREE/SERVIDOR EDUARDOCISNEROSFREE/209.ts
-#EXTINF:-1 tvg-ID="" tvg-name="H2 SD" tvg-logo="" group-title="DOCUMENTALES",H2 SD
-http://188.166.106.180:8000/live/SERVEREDUARDOCISNEROSFREE/SERVIDOR EDUARDOCISNEROSFREE/206.ts
-#EXTINF:-1 tvg-ID="" tvg-name="H2 HQ" tvg-logo="" group-title="DOCUMENTALES",H2 HQ
-http://188.166.106.180:8000/live/SERVEREDUARDOCISNEROSFREE/SERVIDOR EDUARDOCISNEROSFREE/207.ts
-#EXTINF:-1 tvg-ID="" tvg-name="NAT GEO SD" tvg-logo="" group-title="DOCUMENTALES",NAT GEO SD
-http://188.166.106.180:8000/live/SERVEREDUARDOCISNEROSFREE/SERVIDOR EDUARDOCISNEROSFREE/212.ts
-#EXTINF:-1 tvg-ID="" tvg-name="NAT GEO HQ" tvg-logo="" group-title="DOCUMENTALES",NAT GEO HQ
-http://188.166.106.180:8000/live/SERVEREDUARDOCISNEROSFREE/SERVIDOR EDUARDOCISNEROSFREE/213.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ID SD" tvg-logo="" group-title="DOCUMENTALES",ID SD
-http://188.166.106.180:8000/live/SERVEREDUARDOCISNEROSFREE/SERVIDOR EDUARDOCISNEROSFREE/210.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ID HQ" tvg-logo="" group-title="DOCUMENTALES",ID HQ
-http://188.166.106.180:8000/live/SERVEREDUARDOCISNEROSFREE/SERVIDOR EDUARDOCISNEROSFREE/211.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY TURBO SD" tvg-logo="" group-title="DOCUMENTALES",DISCOVERY TURBO SD
-http://188.166.106.180:8000/live/SERVEREDUARDOCISNEROSFREE/SERVIDOR EDUARDOCISNEROSFREE/204.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY TURBO HQ" tvg-logo="" group-title="DOCUMENTALES",DISCOVERY TURBO HQ
-http://188.166.106.180:8000/live/SERVEREDUARDOCISNEROSFREE/SERVIDOR EDUARDOCISNEROSFREE/205.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY THEATER SD" tvg-logo="" group-title="DOCUMENTALES",DISCOVERY THEATER SD
-http://188.166.106.180:8000/live/SERVEREDUARDOCISNEROSFREE/SERVIDOR EDUARDOCISNEROSFREE/202.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY THEATER HQ" tvg-logo="" group-title="DOCUMENTALES",DISCOVERY THEATER HQ
-http://188.166.106.180:8000/live/SERVEREDUARDOCISNEROSFREE/SERVIDOR EDUARDOCISNEROSFREE/203.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY SCIENCE SD" tvg-logo="" group-title="DOCUMENTALES",DISCOVERY SCIENCE SD
-http://188.166.106.180:8000/live/SERVEREDUARDOCISNEROSFREE/SERVIDOR EDUARDOCISNEROSFREE/200.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY SCIENCE HQ" tvg-logo="" group-title="DOCUMENTALES",DISCOVERY SCIENCE HQ
-http://188.166.106.180:8000/live/SERVEREDUARDOCISNEROSFREE/SERVIDOR EDUARDOCISNEROSFREE/201.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY H&H SD" tvg-logo="" group-title="DOCUMENTALES",DISCOVERY H&H SD
-http://188.166.106.180:8000/live/SERVEREDUARDOCISNEROSFREE/SERVIDOR EDUARDOCISNEROSFREE/198.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY H&H HQ" tvg-logo="" group-title="DOCUMENTALES",DISCOVERY H&H HQ
-http://188.166.106.180:8000/live/SERVEREDUARDOCISNEROSFREE/SERVIDOR EDUARDOCISNEROSFREE/199.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY CIVILIZACION SD" tvg-logo="" group-title="DOCUMENTALES",DISCOVERY CIVILIZACION SD
-http://188.166.106.180:8000/live/SERVEREDUARDOCISNEROSFREE/SERVIDOR EDUARDOCISNEROSFREE/196.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY CIVILIZACION HQ" tvg-logo="" group-title="DOCUMENTALES",DISCOVERY CIVILIZACION HQ
-http://188.166.106.180:8000/live/SERVEREDUARDOCISNEROSFREE/SERVIDOR EDUARDOCISNEROSFREE/197.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TCM HQ" tvg-logo="" group-title="DOCUMENTALES",TCM HQ
-http://188.166.106.180:8000/live/SERVEREDUARDOCISNEROSFREE/SERVIDOR EDUARDOCISNEROSFREE/216.ts
-#EXTINF:-1 tvg-ID="" tvg-name="MTV SD" tvg-logo="" group-title="MUSICALES",MTV SD
-http://188.166.106.180:8000/live/SERVEREDUARDOCISNEROSFREE/SERVIDOR EDUARDOCISNEROSFREE/218.ts
-#EXTINF:-1 tvg-ID="" tvg-name="MTV HQ" tvg-logo="" group-title="MUSICALES",MTV HQ
-http://188.166.106.180:8000/live/SERVEREDUARDOCISNEROSFREE/SERVIDOR EDUARDOCISNEROSFREE/219.ts
-#EXTINF:-1 tvg-ID="" tvg-name="MTV HITS SD" tvg-logo="" group-title="MUSICALES",MTV HITS SD
-http://188.166.106.180:8000/live/SERVEREDUARDOCISNEROSFREE/SERVIDOR EDUARDOCISNEROSFREE/221.ts
-#EXTINF:-1 tvg-ID="" tvg-name="MTV HITS HQ" tvg-logo="" group-title="MUSICALES",MTV HITS HQ
-http://188.166.106.180:8000/live/SERVEREDUARDOCISNEROSFREE/SERVIDOR EDUARDOCISNEROSFREE/222.ts
-#EXTINF:-1 tvg-ID="" tvg-name="MTV HD" tvg-logo="" group-title="MUSICALES",MTV HD
-http://188.166.106.180:8000/live/SERVEREDUARDOCISNEROSFREE/SERVIDOR EDUARDOCISNEROSFREE/220.ts
-#EXTINF:-1 tvg-ID="" tvg-name="VH1 SD" tvg-logo="" group-title="MUSICALES",VH1 SD
-http://188.166.106.180:8000/live/SERVEREDUARDOCISNEROSFREE/SERVIDOR EDUARDOCISNEROSFREE/227.ts
-#EXTINF:-1 tvg-ID="" tvg-name="VH1 HQ" tvg-logo="" group-title="MUSICALES",VH1 HQ
-http://188.166.106.180:8000/live/SERVEREDUARDOCISNEROSFREE/SERVIDOR EDUARDOCISNEROSFREE/228.ts
-#EXTINF:-1 tvg-ID="" tvg-name="VH1 CLASSIC SD" tvg-logo="" group-title="MUSICALES",VH1 CLASSIC SD
-http://188.166.106.180:8000/live/SERVEREDUARDOCISNEROSFREE/SERVIDOR EDUARDOCISNEROSFREE/224.ts
-#EXTINF:-1 tvg-ID="" tvg-name="VH1 CLASSIC HQ" tvg-logo="" group-title="MUSICALES",VH1 CLASSIC HQ
-http://188.166.106.180:8000/live/SERVEREDUARDOCISNEROSFREE/SERVIDOR EDUARDOCISNEROSFREE/225.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UNIVICION TDN" tvg-logo="" group-title="",UNIVICION TDN
-http://188.166.106.180:8000/live/SERVEREDUARDOCISNEROSFREE/SERVIDOR EDUARDOCISNEROSFREE/230.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UNIVICION TDN 2" tvg-logo="" group-title="",UNIVICION TDN 2
-http://188.166.106.180:8000/live/SERVEREDUARDOCISNEROSFREE/SERVIDOR EDUARDOCISNEROSFREE/231.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FS2 USA" tvg-logo="" group-title="",FS2 USA
-http://188.166.106.180:8000/live/SERVEREDUARDOCISNEROSFREE/SERVIDOR EDUARDOCISNEROSFREE/237.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FS1 USA" tvg-logo="" group-title="",FS1 USA
-http://188.166.106.180:8000/live/SERVEREDUARDOCISNEROSFREE/SERVIDOR EDUARDOCISNEROSFREE/238.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ESPN USA" tvg-logo="" group-title="",ESPN USA
-http://188.166.106.180:8000/live/SERVEREDUARDOCISNEROSFREE/SERVIDOR EDUARDOCISNEROSFREE/239.ts
-#EXTINF:-1 tvg-ID="" tvg-name="MIAMI TV" tvg-logo="" group-title="XXX",MIAMI TV
-http://188.166.106.180:8000/live/SERVEREDUARDOCISNEROSFREE/SERVIDOR EDUARDOCISNEROSFREE/240.ts
-
-
+#EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="http://img.brgo.xyz/img/aande.png" group-title="Filmes / Séries",A&E
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10755.ts
+#EXTINF:-1 tvg-id="A&E" tvg-name="A&E ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/aande.png" group-title="Filmes / Séries",A&E ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10967.ts
+#EXTINF:-1 tvg-id="" tvg-name="A&E ALTERNATIVO 2" tvg-logo="" group-title="Filmes / Séries",A&E ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25563.ts
+#EXTINF:-1 tvg-id="A&E" tvg-name="A&E HD" tvg-logo="http://img.brgo.xyz/img/aandehd.png" group-title="Filmes / Séries",A&E HD
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10754.ts
+#EXTINF:-1 tvg-id="A&E" tvg-name="A&E HD ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/aandehd.png" group-title="Filmes / Séries",A&E HD ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10966.ts
+#EXTINF:-1 tvg-id="" tvg-name="A&E HD ALTERNATIVO 2" tvg-logo="" group-title="Canais Alternativos 2",A&E HD ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25457.ts
+#EXTINF:-1 tvg-id="Amazon Sat" tvg-name="AMAZON SAT ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/AMAZONSAT.png" group-title="Canais Abertos",AMAZON SAT ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10963.ts
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="http://img.brgo.xyz/img/amc.png" group-title="Filmes / Séries",AMC
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10753.ts
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/amc.png" group-title="Filmes / Séries",AMC ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10962.ts
+#EXTINF:-1 tvg-id="" tvg-name="AMC ALTERNATIVO 2" tvg-logo="" group-title="Filmes / Séries",AMC ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25562.ts
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC HD" tvg-logo="http://img.brgo.xyz/img/amchd.png" group-title="Filmes / Séries",AMC HD
+http://g5.club-server.co:25461/live/Gotischer/Bruno/11901.ts
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC HD ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/amchd.png" group-title="Filmes / Séries",AMC HD ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10961.ts
+#EXTINF:-1 tvg-id="" tvg-name="AMC HD ALTERNATIVO 2" tvg-logo="" group-title="Filmes / Séries",AMC HD ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25561.ts
+#EXTINF:-1 tvg-id="Animal Planet" tvg-name="ANIMAL PLANET" tvg-logo="http://img.brgo.xyz/img/animalplanet.png" group-title="Documentários",ANIMAL PLANET
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10752.ts
+#EXTINF:-1 tvg-id="Animal Planet" tvg-name="ANIMAL PLANET ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/animalplanet.png" group-title="Documentários",ANIMAL PLANET ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10960.ts
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET ALTERNATIVO 2" tvg-logo="" group-title="Canais Alternativos 2",ANIMAL PLANET ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25557.ts
+#EXTINF:-1 tvg-id="Animal Planet" tvg-name="ANIMAL PLANET HD" tvg-logo="http://img.brgo.xyz/img/animalplanet.png" group-title="Documentários",ANIMAL PLANET HD
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10751.ts
+#EXTINF:-1 tvg-id="Animal Planet" tvg-name="ANIMAL PLANET HD ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/animalplanethd.png" group-title="Documentários",ANIMAL PLANET HD ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10959.ts
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET HD ALTERNATIVO 2" tvg-logo="" group-title="Canais Alternativos 2",ANIMAL PLANET HD ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25554.ts
+#EXTINF:-1 tvg-id="Arte 1" tvg-name="ARTE 1" tvg-logo="http://img.brgo.xyz/img/arte1.png" group-title="Variedades / Música",ARTE 1
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10750.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARTE 1 ALTERNATIVO 2" tvg-logo="" group-title="Canais Alternativos 2",ARTE 1 ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25559.ts
+#EXTINF:-1 tvg-id="Arte 1" tvg-name="ARTE 1 HD" tvg-logo="http://img.brgo.xyz/img/arte1.png" group-title="Variedades / Música",ARTE 1 HD
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10749.ts
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="http://img.brgo.xyz/img/axn.png" group-title="Filmes / Séries",AXN
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10748.ts
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/axn.png" group-title="Filmes / Séries",AXN ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10965.ts
+#EXTINF:-1 tvg-id="" tvg-name="AXN ALTERNATIVO 2" tvg-logo="" group-title="Filmes / Séries",AXN ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25560.ts
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN HD" tvg-logo="http://img.brgo.xyz/img/axnhd.png" group-title="Filmes / Séries",AXN HD
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10747.ts
+#EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN HD ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/axnhd.png" group-title="Filmes / Séries",AXN HD ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10964.ts
+#EXTINF:-1 tvg-id="" tvg-name="AXN HD ALTERNATIVO 2" tvg-logo="" group-title="Filmes / Séries",AXN HD ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25550.ts
+#EXTINF:-1 tvg-id="BabyTV" tvg-name="BABY TV" tvg-logo="http://img.brgo.xyz/img/babytv.png" group-title="Kids",BABY TV
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10746.ts
+#EXTINF:-1 tvg-id="Baby TV" tvg-name="BABY TV ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/babytv.png" group-title="Kids",BABY TV ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10958.ts
+#EXTINF:-1 tvg-id="" tvg-name="BABY TV ALTERNATIVO 2" tvg-logo="" group-title="Canais Alternativos 2",BABY TV ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25545.ts
+#EXTINF:-1 tvg-id="BBB" tvg-name="BBB 2018 ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/bbb1.png" group-title="Reality",BBB 2018 ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10968.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBB 1 ALTERNATIVO 2" tvg-logo="" group-title="Reality",BBB 1 ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25558.ts
+#EXTINF:-1 tvg-id="BBB" tvg-name="BBB AO VIVO" tvg-logo="http://img.brgo.xyz/img/bbb.png" group-title="Reality",BBB AO VIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10757.ts
+#EXTINF:-1 tvg-id="BBB" tvg-name="BBB HD AO VIVO" tvg-logo="http://img.brgo.xyz/img/bbb.png" group-title="Reality",BBB HD AO VIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10756.ts
+#EXTINF:-1 tvg-id="" tvg-name="MOSAICO BBB 2018" tvg-logo="https://4.bp.blogspot.com/-aKx8xx6Xzfo/WmZ_rwsqhAI/AAAAAAAAJz0/rqzmv9ZhJrcUopTCxY7XHp4wBEu56r7cgCLcBGAs/s1600/bbb2018.png" group-title="Reality",MOSAICO BBB 2018
+http://g5.club-server.co:25461/live/Gotischer/Bruno/23781.ts
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND" tvg-logo="http://img.brgo.xyz/img/bandeirantes.png" group-title="Notícias",BAND
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10745.ts
+#EXTINF:-1 tvg-id="" tvg-name="BANDEIRANTES*" tvg-logo="" group-title="",BANDEIRANTES*
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25581.ts
+#EXTINF:-1 tvg-id="" tvg-name="BANDEIRANTES ALTERNATIVO 2" tvg-logo="" group-title="Canais Alternativos 2",BANDEIRANTES ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25546.ts
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="http://img.brgo.xyz/img/bandeirantes.png" group-title="Notícias",BAND HD
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10744.ts
+#EXTINF:-1 tvg-id="Band Rede" tvg-name="BAND ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/bandalternativo.png" group-title="Notícias",BAND ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10957.ts
+#EXTINF:-1 tvg-id="Band Rede" tvg-name="BAND HD ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/bandalternativo.png" group-title="Notícias",BAND HD ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10956.ts
+#EXTINF:-1 tvg-id="BandNews" tvg-name="BAND NEWS" tvg-logo="http://img.brgo.xyz/img/bandnews.png" group-title="Notícias",BAND NEWS
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10743.ts
+#EXTINF:-1 tvg-id="" tvg-name="BAND NEWS*" tvg-logo="" group-title="",BAND NEWS*
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25575.ts
+#EXTINF:-1 tvg-id="Band News" tvg-name="BAND NEWS ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/bandnews.png" group-title="Notícias",BAND NEWS ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10955.ts
+#EXTINF:-1 tvg-id="" tvg-name="BAND NEWS ALTERNATIVO 2" tvg-logo="" group-title="Notícias",BAND NEWS ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25553.ts
+#EXTINF:-1 tvg-id="BandNews" tvg-name="BAND NEWS HD" tvg-logo="http://img.brgo.xyz/img/bandnews.png" group-title="Notícias",BAND NEWS HD
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10742.ts
+#EXTINF:-1 tvg-id="" tvg-name="BAND NEWS HD ALTERNATIVO 2" tvg-logo="" group-title="Notícias",BAND NEWS HD ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25552.ts
+#EXTINF:-1 tvg-id="Band Esportes" tvg-name="BAND SPORTS" tvg-logo="http://img.brgo.xyz/img/bandsports.png" group-title="Esportes",BAND SPORTS
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10741.ts
+#EXTINF:-1 tvg-id="Band Esportes" tvg-name="BAND SPORTS ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/bandsports.png" group-title="Esportes",BAND SPORTS ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10954.ts
+#EXTINF:-1 tvg-id="" tvg-name="BAND SPORTS ALTERNATIVO 2" tvg-logo="" group-title="Esportes",BAND SPORTS ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25543.ts
+#EXTINF:-1 tvg-id="BandSports" tvg-name="BAND SPORTS HD" tvg-logo="http://img.brgo.xyz/img/bandsportshd.png" group-title="Esportes",BAND SPORTS HD
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10740.ts
+#EXTINF:-1 tvg-id="" tvg-name="BAND SPORTS HD ALTERNATIVO 2" tvg-logo="" group-title="Esportes",BAND SPORTS HD ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25556.ts
+#EXTINF:-1 tvg-id="Bis HD" tvg-name="BIS" tvg-logo="http://img.brgo.xyz/img/bis.png" group-title="Filmes / Séries",BIS
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10739.ts
+#EXTINF:-1 tvg-id="Bis HD" tvg-name="BIS ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/bis.png" group-title="Filmes / Séries",BIS ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10953.ts
+#EXTINF:-1 tvg-id="" tvg-name="BIS ALTERNATIVO 2" tvg-logo="" group-title="Filmes / Séries",BIS ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25549.ts
+#EXTINF:-1 tvg-id="" tvg-name="BIS HD ALTERNATIVO 2" tvg-logo="" group-title="Filmes / Séries",BIS HD ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25551.ts
+#EXTINF:-1 tvg-id="Bis HD" tvg-name="BIS HD" tvg-logo="http://img.brgo.xyz/img/bishd.png" group-title="Filmes / Séries",BIS HD
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10738.ts
+#EXTINF:-1 tvg-id="Bis HD" tvg-name="BIS HD ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/bishd.png" group-title="Filmes / Séries",BIS HD ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10952.ts
+#EXTINF:-1 tvg-id="Boa Vontade TV" tvg-name="BOA VONTADE" tvg-logo="http://i.imgur.com/iD1xVNR.png" group-title="Religioso",BOA VONTADE
+http://g5.club-server.co:25461/live/Gotischer/Bruno/3884.ts
+#EXTINF:-1 tvg-id="" tvg-name="BOA VONTADE TV ALTERNATIVO 2" tvg-logo="" group-title="Canais Alternativos 2",BOA VONTADE TV ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25548.ts
+#EXTINF:-1 tvg-id="Boomerang" tvg-name="BOOMERANG" tvg-logo="http://img.brgo.xyz/img/boomerang.png" group-title="Kids",BOOMERANG
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10737.ts
+#EXTINF:-1 tvg-id="Boomerang" tvg-name="BOOMERANG ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/boomerang.png" group-title="Kids",BOOMERANG ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10951.ts
+#EXTINF:-1 tvg-id="" tvg-name="BOOMERANG ALTERNATIVO 2" tvg-logo="" group-title="Canais Alternativos 2",BOOMERANG ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25547.ts
+#EXTINF:-1 tvg-id="" tvg-name="BOOMERANG HD" tvg-logo="http://img.brgo.xyz/img/boomerang.png" group-title="Kids",BOOMERANG HD
+http://g5.club-server.co:25461/live/Gotischer/Bruno/11902.ts
+#EXTINF:-1 tvg-id="Boomerang" tvg-name="BOOMERANG HD ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/boomerang.png" group-title="Kids",BOOMERANG HD ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10950.ts
+#EXTINF:-1 tvg-id="" tvg-name="BOOMERANG HD ALTERNATIVO 2" tvg-logo="" group-title="Canais Alternativos 2",BOOMERANG HD ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25544.ts
+#EXTINF:-1 tvg-id="Canal Brasil" tvg-name="CANAL BRASIL" tvg-logo="http://img.brgo.xyz/img/canalbrasil.png" group-title="Filmes / Séries",CANAL BRASIL
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10736.ts
+#EXTINF:-1 tvg-id="Canal Brasil" tvg-name="CANAL BRASIL ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/canalbrasil.png" group-title="Filmes / Séries",CANAL BRASIL ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10948.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL BRASIL ALTERNATIVO 2" tvg-logo="" group-title="Canais Alternativos 2",CANAL BRASIL ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25540.ts
+#EXTINF:-1 tvg-id="Canal Brasil" tvg-name="CANAL BRASIL HD" tvg-logo="http://img.brgo.xyz/img/canalbrasilhd.png" group-title="Filmes / Séries",CANAL BRASIL HD
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10735.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL BRASIL HD ALTERNATIVO 2" tvg-logo="" group-title="Canais Alternativos 2",CANAL BRASIL HD ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25536.ts
+#EXTINF:-1 tvg-id="Canal Rural" tvg-name="CANAL RURAL" tvg-logo="http://img.brgo.xyz/img/canalrural.png" group-title="Notícias",CANAL RURAL
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10734.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL RURAL ALTERNATIVO 2" tvg-logo="" group-title="Canais Alternativos 2",CANAL RURAL ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25537.ts
+#EXTINF:-1 tvg-id="Sony HD" tvg-name="CANAL SONY" tvg-logo="http://img.brgo.xyz/img/canalsony.png" group-title="Filmes / Séries",CANAL SONY
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10733.ts
+#EXTINF:-1 tvg-id="Sony Entertainment TV" tvg-name="CANAL SONY ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/canalsony.png" group-title="Filmes / Séries",CANAL SONY ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10947.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL SONY ALTERNATIVO 2" tvg-logo="" group-title="Filmes / Séries",CANAL SONY ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25541.ts
+#EXTINF:-1 tvg-id="Sony HD" tvg-name="CANAL SONY HD" tvg-logo="http://img.brgo.xyz/img/canalsonyhd.png" group-title="Filmes / Séries",CANAL SONY HD
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10732.ts
+#EXTINF:-1 tvg-id="Sony Entertainment TV" tvg-name="CANAL SONY HD ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/canalsonyhd.png" group-title="Filmes / Séries",CANAL SONY HD ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10946.ts
+#EXTINF:-1 tvg-id="Canção Nova" tvg-name="CANÇÃO NOVA" tvg-logo="http://img.brgo.xyz/img/cancaonova.png" group-title="Religioso",CANÇÃO NOVA
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10731.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANCAO NOVA ALTERNATIVO 2" tvg-logo="" group-title="Canais Alternativos 2",CANCAO NOVA ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25527.ts
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="CARTOON NETWORK" tvg-logo="http://img.brgo.xyz/img/cartoonnetwork.png" group-title="Kids",CARTOON NETWORK
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10730.ts
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="CARTOON NETWORK ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/cartoonnetwork.png" group-title="Kids",CARTOON NETWORK ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10945.ts
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="CARTOON NETWORK FHD ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/cartoonnetwork.png" group-title="Kids",CARTOON NETWORK FHD ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10943.ts
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="CARTOON NETWORK HD" tvg-logo="http://img.brgo.xyz/img/cartoonnetwork.png" group-title="Kids",CARTOON NETWORK HD
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10729.ts
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="CARTOON NETWORK HD ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/cartoonnetworkhd.png" group-title="Kids",CARTOON NETWORK HD ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10944.ts
+#EXTINF:-1 tvg-id="" tvg-name="Chaves 24 Horas" tvg-logo="http://chaveshdbr.blogspot.com/2014/12/chaves-hd-download.html" group-title="Canais 24 horas",Chaves 24 Horas
+http://g5.club-server.co:25461/live/Gotischer/Bruno/24365.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 1" tvg-logo="http://img.brgo.xyz/img/cinesky.png" group-title="Filmes / Séries",CINE SKY 1
+http://g5.club-server.co:25461/live/Gotischer/Bruno/23604.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 2" tvg-logo="http://img.brgo.xyz/img/cinesky.png" group-title="Filmes / Séries",CINE SKY 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/23603.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 3" tvg-logo="http://img.brgo.xyz/img/cinesky.png" group-title="Filmes / Séries",CINE SKY 3
+http://g5.club-server.co:25461/live/Gotischer/Bruno/23602.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 4" tvg-logo="http://img.brgo.xyz/img/cinesky.png" group-title="Filmes / Séries",CINE SKY 4
+http://g5.club-server.co:25461/live/Gotischer/Bruno/23601.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 5" tvg-logo="http://img.brgo.xyz/img/cinesky.png" group-title="Filmes / Séries",CINE SKY 5
+http://g5.club-server.co:25461/live/Gotischer/Bruno/23600.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE  ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/cine.png" group-title="Filmes / Séries",CINE  ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10940.ts
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="CINEMAX" tvg-logo="http://img.brgo.xyz/img/cinemax.png" group-title="Filmes / Séries",CINEMAX
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10728.ts
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="CINEMAX ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/cinemax.png" group-title="Filmes / Séries",CINEMAX ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10939.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAX ALTERNATIVO 2" tvg-logo="" group-title="Filmes / Séries",CINEMAX ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25538.ts
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="CINEMAX HD" tvg-logo="http://img.brgo.xyz/img/cinemaxhd.png" group-title="Filmes / Séries",CINEMAX HD
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10727.ts
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="CINEMAX HD ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/cinemaxhd.png" group-title="Filmes / Séries",CINEMAX HD ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10938.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAX HD ALTERNATIVO 2" tvg-logo="" group-title="Filmes / Séries",CINEMAX HD ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25535.ts
+#EXTINF:-1 tvg-id="" tvg-name="CJC TV" tvg-logo="http://i.imgur.com/qd4ZMLd.png" group-title="Religioso",CJC TV
+http://g5.club-server.co:25461/live/Gotischer/Bruno/6005.ts
+#EXTINF:-1 tvg-id="" tvg-name="CLASSIQUE TV ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/classique.png" group-title="Filmes / Séries",CLASSIQUE TV ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10937.ts
+#EXTINF:-1 tvg-id="" tvg-name="CNN INTERNACIONAL.*" tvg-logo="" group-title="",CNN INTERNACIONAL.*
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25576.ts
+#EXTINF:-1 tvg-id="CNN International" tvg-name="CNN INTERNATIONAL ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/cnninternacional.png" group-title="Notícias",CNN INTERNATIONAL ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10942.ts
+#EXTINF:-1 tvg-id="" tvg-name="CNN ESPANHOL ALTERNATIVO 2" tvg-logo="" group-title="Canais Alternativos 2",CNN ESPANHOL ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25534.ts
+#EXTINF:-1 tvg-id="" tvg-name="CNN INTERNACIONAL ALTERNATIVO 2" tvg-logo="" group-title="Canais Alternativos 2",CNN INTERNACIONAL ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25531.ts
+#EXTINF:-1 tvg-id="" tvg-name="CNT ALTERNATIVO 2" tvg-logo="" group-title="Canais Alternativos 2",CNT ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25539.ts
+#EXTINF:-1 tvg-id="Combate" tvg-name="COMBATE" tvg-logo="http://img.brgo.xyz/img/combate.png" group-title="Esportes",COMBATE
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10726.ts
+#EXTINF:-1 tvg-id="Combate" tvg-name="COMBATE ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/combate.png" group-title="Esportes",COMBATE ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10936.ts
+#EXTINF:-1 tvg-id="" tvg-name="COMBATE ALTERNATIVO 2" tvg-logo="" group-title="Canais Alternativos 2",COMBATE ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25542.ts
+#EXTINF:-1 tvg-id="Combate" tvg-name="COMBATE FULL HD ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/combatehd.png" group-title="Esportes",COMBATE FULL HD ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10934.ts
+#EXTINF:-1 tvg-id="Combate" tvg-name="COMBATE HD" tvg-logo="http://img.brgo.xyz/img/combatehd.png" group-title="Esportes",COMBATE HD
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10725.ts
+#EXTINF:-1 tvg-id="Combate" tvg-name="COMBATE HD ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/combatehd.png" group-title="Esportes",COMBATE HD ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10935.ts
+#EXTINF:-1 tvg-id="" tvg-name="COMBATE HD ALTERNATIVO 2" tvg-logo="" group-title="Canais Alternativos 2",COMBATE HD ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25532.ts
+#EXTINF:-1 tvg-id="Comedy Central" tvg-name="COMEDY CENTRAL" tvg-logo="http://img.brgo.xyz/img/comedycentral.png" group-title="Comédia",COMEDY CENTRAL
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10724.ts
+#EXTINF:-1 tvg-id="Comedy Central" tvg-name="COMEDY CENTRAL ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/comedycentral.png" group-title="Comédia",COMEDY CENTRAL ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10933.ts
+#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL ALTERNATIVO 2" tvg-logo="" group-title="Canais Alternativos 2",COMEDY CENTRAL ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25533.ts
+#EXTINF:-1 tvg-id="Comedy Central" tvg-name="COMEDY CENTRAL HD" tvg-logo="http://img.brgo.xyz/img/comedycentralhd.png" group-title="Comédia",COMEDY CENTRAL HD
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10723.ts
+#EXTINF:-1 tvg-id="Curta!" tvg-name="Curta!" tvg-logo="http://img.brgo.xyz/img/curta.png" group-title="Variedades / Música",Curta!
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10722.ts
+#EXTINF:-1 tvg-id="" tvg-name="CURTA! ALTERNATIVO 2" tvg-logo="" group-title="Canais Alternativos 2",CURTA! ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25528.ts
+#EXTINF:-1 tvg-id="Curta!" tvg-name="CURTA! HD" tvg-logo="http://img.brgo.xyz/img/curta.png" group-title="Variedades / Música",CURTA! HD
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10721.ts
+#EXTINF:-1 tvg-id="Disney Channel HD" tvg-name="DISCOVERY CHANNEL" tvg-logo="http://img.brgo.xyz/img/discoverychannel.png" group-title="Documentários",DISCOVERY CHANNEL
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10720.ts
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="DISCOVERY CHANNEL ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/discoverychannel.png" group-title="Documentários",DISCOVERY CHANNEL ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10932.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL ALTERNATIVO 2" tvg-logo="" group-title="Canais Alternativos 2",DISCOVERY CHANNEL ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25530.ts
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="http://img.brgo.xyz/img/discoverychannelhd.png" group-title="Documentários",DISCOVERY CHANNEL HD
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10719.ts
+#EXTINF:-1 tvg-id="Disney Channel HD" tvg-name="DISCOVERY CHANNEL HD ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/discoverychannelhd.png" group-title="Documentários",DISCOVERY CHANNEL HD ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10931.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL HD ALTERNATIVO 2" tvg-logo="" group-title="Canais Alternativos 2",DISCOVERY CHANNEL HD ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25508.ts
+#EXTINF:-1 tvg-id="Discovery Civilization" tvg-name="DISCOVERY CIVILIZATION" tvg-logo="http://img.brgo.xyz/img/discoverycivilization.png" group-title="Documentários",DISCOVERY CIVILIZATION
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10718.ts
+#EXTINF:-1 tvg-id="Discovery Civilization" tvg-name="DISCOVERY CIVILIZATION HD" tvg-logo="http://img.brgo.xyz/img/discoverycivilization.png" group-title="Documentários",DISCOVERY CIVILIZATION HD
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10717.ts
+#EXTINF:-1 tvg-id="Discovery Home & Health" tvg-name="DISCOVERY H&H ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/discoveryhandhhd.png" group-title="Documentários",DISCOVERY H&H ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10930.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY H&H ALTERNATIVO 2" tvg-logo="" group-title="Canais Alternativos 2",DISCOVERY H&H ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25525.ts
+#EXTINF:-1 tvg-id="Discovery Home & Health" tvg-name="DISCOVERY H&H HD ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/discoveryhandhhd.png" group-title="Documentários",DISCOVERY H&H HD ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10929.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY H&H HD ALTERNATIVO 2" tvg-logo="" group-title="Canais Alternativos 2",DISCOVERY H&H HD ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25461.ts
+#EXTINF:-1 tvg-id="Discovery Home & Health" tvg-name="DISCOVERY HOME & HEALTH" tvg-logo="http://img.brgo.xyz/img/discoveryhomeandhealthhd.png" group-title="Documentários",DISCOVERY HOME & HEALTH
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10716.ts
+#EXTINF:-1 tvg-id="Discovery Home & Health" tvg-name="DISCOVERY H&H*" tvg-logo="http://img.brgo.xyz/img/discoveryhandhhd.png" group-title="Documentários",DISCOVERY H&H*
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25597.ts
+#EXTINF:-1 tvg-id="Discovery Home & Health" tvg-name="DISCOVERY HOME & HEALTH HD" tvg-logo="http://img.brgo.xyz/img/discoveryhomeandhealthhd.png" group-title="Documentários",DISCOVERY HOME & HEALTH HD
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10715.ts
+#EXTINF:-1 tvg-id="Discovery Kids" tvg-name="DISCOVERY KIDS" tvg-logo="http://img.brgo.xyz/img/discoverykidshd.png" group-title="Kids",DISCOVERY KIDS
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10714.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDS*" tvg-logo="" group-title="",DISCOVERY KIDS*
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25596.ts
+#EXTINF:-1 tvg-id="Discovery Kids" tvg-name="DISCOVERY KIDS ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/discoverykids.png" group-title="Kids",DISCOVERY KIDS ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10928.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDS ALTERNATIVO 2" tvg-logo="" group-title="Canais Alternativos 2",DISCOVERY KIDS ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25526.ts
+#EXTINF:-1 tvg-id="Discovery Kids" tvg-name="DISCOVERY KIDS HD" tvg-logo="http://img.brgo.xyz/img/discoverykidshd.png" group-title="Kids",DISCOVERY KIDS HD
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10713.ts
+#EXTINF:-1 tvg-id="Discovery Kids" tvg-name="DISCOVERY KIDS HD ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/discoverykidshd.png" group-title="Kids",DISCOVERY KIDS HD ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10927.ts
+#EXTINF:-1 tvg-id="Discovery Science" tvg-name="DISCOVERY SCIENCE" tvg-logo="http://img.brgo.xyz/img/discoveryscience.png" group-title="Documentários",DISCOVERY SCIENCE
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10712.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY SCIENCE*" tvg-logo="" group-title="",DISCOVERY SCIENCE*
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25587.ts
+#EXTINF:-1 tvg-id="Discovery Science" tvg-name="DISCOVERY SCIENCE ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/discoveryscience.png" group-title="Documentários",DISCOVERY SCIENCE ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10926.ts
+#EXTINF:-1 tvg-id="Discovery Science" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="http://img.brgo.xyz/img/discoveryscience.png" group-title="Documentários",DISCOVERY SCIENCE HD
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10711.ts
+#EXTINF:-1 tvg-id="Discovery Theater" tvg-name="DISCOVERY THEATER" tvg-logo="http://img.brgo.xyz/img/discoverytheaterhd.png" group-title="Documentários",DISCOVERY THEATER
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10710.ts
+#EXTINF:-1 tvg-id="Discovery Theater" tvg-name="DISCOVERY THEATER ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/discoverytheaterhd.png" group-title="Documentários",DISCOVERY THEATER ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10925.ts
+#EXTINF:-1 tvg-id="Discovery Theater" tvg-name="DISCOVERY THEATER HD" tvg-logo="http://img.brgo.xyz/img/discoverytheaterhd.png" group-title="Documentários",DISCOVERY THEATER HD
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10709.ts
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="DISCOVERY TURBO" tvg-logo="http://img.brgo.xyz/img/discoveryturbo.png" group-title="Documentários",DISCOVERY TURBO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10708.ts
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="DISCOVERY TURBO ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/discoveryturbohd.png" group-title="Documentários",DISCOVERY TURBO ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10924.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TURBO ALTERNATIVO 2" tvg-logo="" group-title="Canais Alternativos 2",DISCOVERY TURBO ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25514.ts
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="DISCOVERY TURBO HD" tvg-logo="http://img.brgo.xyz/img/discoveryturbohd.png" group-title="Documentários",DISCOVERY TURBO HD
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10707.ts
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="DISCOVERY TURBO HD ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/discoveryturbohd.png" group-title="Documentários",DISCOVERY TURBO HD ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10923.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TURBO HD ALTERNATIVO 2" tvg-logo="" group-title="Canais Alternativos 2",DISCOVERY TURBO HD ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25519.ts
+#EXTINF:-1 tvg-id="Discovery World" tvg-name="DISCOVERY WORLD  HD" tvg-logo="http://img.brgo.xyz/img/discoveryworldhd.png" group-title="Documentários",DISCOVERY WORLD  HD
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10705.ts
+#EXTINF:-1 tvg-id="Discovery World" tvg-name="DISCOVERY WORLD HD ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/discoveryworldhd.png" group-title="Documentários",DISCOVERY WORLD HD ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10922.ts
+#EXTINF:-1 tvg-id="Discovery World" tvg-name="DISCOVERY WORLD" tvg-logo="http://img.brgo.xyz/img/discoveryworldhd.png" group-title="Documentários",DISCOVERY WORLD
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10706.ts
+#EXTINF:-1 tvg-id="Disney Channel" tvg-name="DISNEY CHANNEL" tvg-logo="http://img.brgo.xyz/img/disneychannel.png" group-title="Kids",DISNEY CHANNEL
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10704.ts
+#EXTINF:-1 tvg-id="Disney Channel" tvg-name="DISNEY CHANNEL ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/disneychannelhd.png" group-title="Kids",DISNEY CHANNEL ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10921.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY ALTERNATIVO 2" tvg-logo="" group-title="Canais Alternativos 2",DISNEY ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25522.ts
+#EXTINF:-1 tvg-id="Disney Channel HD" tvg-name="DISNEY CHANNEL HD" tvg-logo="http://img.brgo.xyz/img/disneychannelhd.png" group-title="Kids",DISNEY CHANNEL HD
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10703.ts
+#EXTINF:-1 tvg-id="Disney Channel" tvg-name="DISNEY CHANNEL HD ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/disneychannelhd.png" group-title="Kids",DISNEY CHANNEL HD ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10920.ts
+#EXTINF:-1 tvg-id="Disney Junior" tvg-name="DISNEY JUNIOR" tvg-logo="http://img.brgo.xyz/img/disneyjunior.png" group-title="Kids",DISNEY JUNIOR
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10702.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY JUNIOR*" tvg-logo="" group-title="",DISNEY JUNIOR*
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25590.ts
+#EXTINF:-1 tvg-id="Disney Junior" tvg-name="DISNEY JR ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/disneyjunior.png" group-title="Kids",DISNEY JR ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10919.ts
+#EXTINF:-1 tvg-id="Disney Junior" tvg-name="DISNEY JR ALTERNATIVO 2" tvg-logo="http://img.brgo.xyz/img/disneyjunior.png" group-title="Kids",DISNEY JR ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10918.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY JUNIOR ALTERNATIVO 2" tvg-logo="" group-title="Canais Alternativos 2",DISNEY JUNIOR ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25510.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY JUNIOR HD ALTERNATIVO 2" tvg-logo="" group-title="Canais Alternativos 2",DISNEY JUNIOR HD ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25518.ts
+#EXTINF:-1 tvg-id="Disney XD" tvg-name="DISNEY XD" tvg-logo="http://img.brgo.xyz/img/disneyxd.png" group-title="Kids",DISNEY XD
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10701.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY XD*" tvg-logo="" group-title="",DISNEY XD*
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25586.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY XD ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/disneyxd.png" group-title="Kids",DISNEY XD ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10917.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY XD ALTERNATIVO 2" tvg-logo="" group-title="Canais Alternativos 2",DISNEY XD ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25524.ts
+#EXTINF:-1 tvg-id="" tvg-name="DW (Deutsch ) ALTERNATIVO 2" tvg-logo="" group-title="Canais Alternativos 2",DW (Deutsch ) ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25529.ts
+#EXTINF:-1 tvg-id="E!" tvg-name="E!" tvg-logo="http://img.brgo.xyz/img/e!.png" group-title="Variedades / Música",E!
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10700.ts
+#EXTINF:-1 tvg-id="E! Entertainment Television" tvg-name="E! ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/e!.png" group-title="Esportes",E! ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10916.ts
+#EXTINF:-1 tvg-id="" tvg-name="E! ALTERNATIVO 2" tvg-logo="" group-title="Canais Alternativos 2",E! ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25511.ts
+#EXTINF:-1 tvg-id="" tvg-name="EI ALTERNATIVO 2" tvg-logo="" group-title="Canais Alternativos 2",EI ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25466.ts
+#EXTINF:-1 tvg-id="E!" tvg-name="E! HD" tvg-logo="http://img.brgo.xyz/img/e!.png" group-title="Esportes",E! HD
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10699.ts
+#EXTINF:-1 tvg-id="E! Entertainment Television" tvg-name="E! HD ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/e!.png" group-title="Esportes",E! HD ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10915.ts
+#EXTINF:-1 tvg-id="" tvg-name="E! HD ALTERNATIVO 2" tvg-logo="" group-title="Canais Alternativos 2",E! HD ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25517.ts
+#EXTINF:-1 tvg-id="" tvg-name="EI HD ALTERNATIVO 2" tvg-logo="" group-title="Canais Alternativos 2",EI HD ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25523.ts
+#EXTINF:-1 tvg-id="" tvg-name="EI 2 ALTERNATIVO 2" tvg-logo="" group-title="Canais Alternativos 2",EI 2 ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25520.ts
+#EXTINF:-1 tvg-id="" tvg-name="EI 2 HD ALTERNATIVO 2" tvg-logo="" group-title="Canais Alternativos 2",EI 2 HD ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25516.ts
+#EXTINF:-1 tvg-id="EI Maxx" tvg-name="EI MAXX HD ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/eimaxx.png" group-title="Esportes",EI MAXX HD ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10913.ts
+#EXTINF:-1 tvg-id="EI Maxx" tvg-name="EI MAXX ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/eimaxx.png" group-title="Esportes",EI MAXX ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10914.ts
+#EXTINF:-1 tvg-id="EI Maxx 2" tvg-name="EI MAXX 2 HD ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/eimaxx2.png" group-title="Esportes",EI MAXX 2 HD ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10911.ts
+#EXTINF:-1 tvg-id="EI Maxx 2" tvg-name="EI MAXX 2 ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/eimaxx2.png" group-title="Esportes",EI MAXX 2 ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10912.ts
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="http://img.brgo.xyz/img/espn.png" group-title="Esportes",ESPN
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10698.ts
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN  ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/espn.png" group-title="Esportes",ESPN  ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10902.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN ALTERNATIVO 2" tvg-logo="" group-title="Canais Alternativos 2",ESPN ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25503.ts
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN HD" tvg-logo="http://img.brgo.xyz/img/espnhd.png" group-title="Esportes",ESPN HD
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10692.ts
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN   HD" tvg-logo="http://img.brgo.xyz/img/espnhd.png" group-title="Esportes",ESPN   HD
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10697.ts
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN HD ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/espn.png" group-title="Esportes",ESPN HD ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10908.ts
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN  HD ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/espnhd.png" group-title="Esportes",ESPN  HD ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10901.ts
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN HD  ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/espnhd.png" group-title="Esportes",ESPN HD  ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10900.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN HD ALTERNATIVO 2" tvg-logo="" group-title="Canais Alternativos 2",ESPN HD ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25437.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN ALTERNATIVO" tvg-logo="" group-title="Esportes",ESPN ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10909.ts
+#EXTINF:-1 tvg-id="ESPN Brasil" tvg-name="ESPN BRASIL" tvg-logo="http://img.brgo.xyz/img/espnbrasil.png" group-title="Esportes",ESPN BRASIL
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10696.ts
+#EXTINF:-1 tvg-id="ESPN Brasil" tvg-name="ESPN BRASIL ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/espnbrasil.png" group-title="Esportes",ESPN BRASIL ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10907.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN BRASIL ALTERNATIVO 2" tvg-logo="" group-title="Canais Alternativos 2",ESPN BRASIL ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25521.ts
+#EXTINF:-1 tvg-id="ESPN Brasil" tvg-name="ESPN BRASIL HD" tvg-logo="http://img.brgo.xyz/img/espnbrasilhd.png" group-title="Esportes",ESPN BRASIL HD
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10695.ts
+#EXTINF:-1 tvg-id="ESPN Brasil" tvg-name="ESPN BRASIL HD ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/espnbrasilhd.png" group-title="Esportes",ESPN BRASIL HD ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10906.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN BRASIL HD ALTERNATIVO 2" tvg-logo="" group-title="Canais Alternativos 2",ESPN BRASIL HD ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25513.ts
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN EXTRA ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/espn.png" group-title="Esportes",ESPN EXTRA ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10905.ts
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN EXTRA HD ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/espn.png" group-title="Esportes",ESPN EXTRA HD ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10904.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN EXTRA" tvg-logo="http://img.brgo.xyz/img/espn-extra.png" group-title="Esportes",ESPN EXTRA
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10694.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN EXTRA HD" tvg-logo="http://img.brgo.xyz/img/espn-extra.png" group-title="Esportes",ESPN EXTRA HD
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10693.ts
+#EXTINF:-1 tvg-id="Esporte Interativo" tvg-name="Esporte Interativo" tvg-logo="http://img.brgo.xyz/img/esporteinterativo.png" group-title="Esportes",Esporte Interativo
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10691.ts
+#EXTINF:-1 tvg-id="Esporte Interativo" tvg-name="Esporte Interativo HD" tvg-logo="http://img.brgo.xyz/img/eimaxx.png" group-title="Esportes",Esporte Interativo HD
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10688.ts
+#EXTINF:-1 tvg-id="Esporte Interativo 2" tvg-name="Esporte Interativo 2" tvg-logo="http://img.brgo.xyz/img/eimaxx2.png" group-title="Esportes",Esporte Interativo 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10690.ts
+#EXTINF:-1 tvg-id="Esporte Interativo 2" tvg-name="Esporte Interativo 2 HD" tvg-logo="http://img.brgo.xyz/img/eimaxx2.png" group-title="Esportes",Esporte Interativo 2 HD
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10689.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE INTERATIVO 2 ALTERNATIVO" tvg-logo="" group-title="Esportes",ESPORTE INTERATIVO 2 ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10899.ts
+#EXTINF:-1 tvg-id="Fish TV" tvg-name="FISH TV" tvg-logo="http://img.brgo.xyz/img/fishtv.png" group-title="Esportes",FISH TV
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10687.ts
+#EXTINF:-1 tvg-id="Fish TV" tvg-name="FISH TV ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/fishtv.png" group-title="Esportes",FISH TV ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10896.ts
+#EXTINF:-1 tvg-id="" tvg-name="FISH TV ALTERNATIVO 2" tvg-logo="" group-title="Esportes",FISH TV ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25515.ts
+#EXTINF:-1 tvg-id="" tvg-name="FISH TV HD" tvg-logo="" group-title="Esportes",FISH TV HD
+http://g5.club-server.co:25461/live/Gotischer/Bruno/24203.ts
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN SPORT HD ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/espn-sport.png" group-title="Esportes",ESPN SPORT HD ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10903.ts
+#EXTINF:-1 tvg-id="Food Network" tvg-name="FOOD NETWORK" tvg-logo="http://img.brgo.xyz/img/foodnetworkhd.png" group-title="Variedades / Música",FOOD NETWORK
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10686.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOOD NETWORK ALTERNATIVO 2" tvg-logo="" group-title="Canais Alternativos 2",FOOD NETWORK ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25478.ts
+#EXTINF:-1 tvg-id="Food NetWork" tvg-name="FOOD NETWORK HD" tvg-logo="http://img.brgo.xyz/img/foodnetworkhd.png" group-title="Variedades / Música",FOOD NETWORK HD
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10685.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOOD NETWORK HD ALTERNATIVO 2" tvg-logo="" group-title="Canais Alternativos 2",FOOD NETWORK HD ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25502.ts
+#EXTINF:-1 tvg-id="Fox" tvg-name="FOX" tvg-logo="http://img.brgo.xyz/img/fox.png" group-title="Filmes / Séries",FOX
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10684.ts
+#EXTINF:-1 tvg-id="Fox" tvg-name="FOX ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/canalfox.png" group-title="Filmes / Séries",FOX ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10895.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX ALTERNATIVO 2" tvg-logo="" group-title="Canais Alternativos 2",FOX ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25506.ts
+#EXTINF:-1 tvg-id="Fox" tvg-name="FOX HD" tvg-logo="http://img.brgo.xyz/img/foxhd.png" group-title="Filmes / Séries",FOX HD
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10683.ts
+#EXTINF:-1 tvg-id="Fox" tvg-name="FOX HD ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/foxhd.png" group-title="Filmes / Séries",FOX HD ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10894.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX HD ALTERNATIVO 2" tvg-logo="" group-title="Canais Alternativos 2",FOX HD ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25507.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS HD ALTERNATIVO 2" tvg-logo="" group-title="Esportes",FOX SPORTS HD ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25481.ts
+#EXTINF:-1 tvg-id="FoxLife" tvg-name="FOX LIFE" tvg-logo="http://img.brgo.xyz/img/foxlife.png" group-title="Variedades / Música",FOX LIFE
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10682.ts
+#EXTINF:-1 tvg-id="Fox Life" tvg-name="FOX LIFE ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/foxlife.png" group-title="Variedades / Música",FOX LIFE ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10893.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX LIFE ALTERNATIVO 2" tvg-logo="" group-title="Canais Alternativos 2",FOX LIFE ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25479.ts
+#EXTINF:-1 tvg-id="Fox Life" tvg-name="FOX LIFE HD" tvg-logo="http://img.brgo.xyz/img/foxlifehd.png" group-title="Variedades / Música",FOX LIFE HD
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10681.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX LIFE HD ALTERNATIVO 2" tvg-logo="" group-title="Canais Alternativos 2",FOX LIFE HD ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25504.ts
+#EXTINF:-1 tvg-id="Fox Premium 1" tvg-name="FOX PREMIUM 1" tvg-logo="http://img.brgo.xyz/img/foxp1.png" group-title="Filmes / Séries",FOX PREMIUM 1
+http://g5.club-server.co:25461/live/Gotischer/Bruno/11903.ts
+#EXTINF:-1 tvg-id="Fx Premium 1" tvg-name="FOX PREMIUM 1 HD" tvg-logo="http://img.brgo.xyz/img/foxp1.png" group-title="Filmes / Séries",FOX PREMIUM 1 HD
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10680.ts
+#EXTINF:-1 tvg-id="Fx Premium 1" tvg-name="FOX PREMIUM 1 HD ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/foxp1.png" group-title="Filmes / Séries",FOX PREMIUM 1 HD ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10892.ts
+#EXTINF:-1 tvg-id="Fox Premium 2" tvg-name="FOX PREMIUM 2" tvg-logo="http://img.brgo.xyz/img/foxp2.png" group-title="Filmes / Séries",FOX PREMIUM 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/11904.ts
+#EXTINF:-1 tvg-id="Fx Premium 2" tvg-name="FOX PREMIUM 2 HD" tvg-logo="http://img.brgo.xyz/img/foxp2.png" group-title="Filmes / Séries",FOX PREMIUM 2 HD
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10679.ts
+#EXTINF:-1 tvg-id="Fx Premium 2" tvg-name="FOX PREMIUM 2 HD ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/foxp2.png" group-title="Filmes / Séries",FOX PREMIUM 2 HD ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10891.ts
+#EXTINF:-1 tvg-id="Fox Sports" tvg-name="FOX SPORTS" tvg-logo="http://img.brgo.xyz/img/foxsports.png" group-title="Esportes",FOX SPORTS
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10678.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS ALTERNATIVO 2" tvg-logo="" group-title="Esportes",FOX SPORTS ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25482.ts
+#EXTINF:-1 tvg-id="Fox Sports" tvg-name="FOX SPORTS HD" tvg-logo="http://img.brgo.xyz/img/foxsportshd.png" group-title="Esportes",FOX SPORTS HD
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10675.ts
+#EXTINF:-1 tvg-id="Fox Sports" tvg-name="FOX SPORTS HD ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/foxsports1hd.png" group-title="Esportes",FOX SPORTS HD ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10890.ts
+#EXTINF:-1 tvg-id="Fox Sports 2" tvg-name="FOX SPORTS 2" tvg-logo="http://img.brgo.xyz/img/foxsports2.png" group-title="Esportes",FOX SPORTS 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10677.ts
+#EXTINF:-1 tvg-id="Fox Sports 2" tvg-name="FOX SPORTS 2 ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/foxsports2.png" group-title="Esportes",FOX SPORTS 2 ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10889.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2 ALTERNATIVO 2" tvg-logo="" group-title="Esportes",FOX SPORTS 2 ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25483.ts
+#EXTINF:-1 tvg-id="Fox Sports 2" tvg-name="FOX SPORTS 2 HD" tvg-logo="http://img.brgo.xyz/img/foxsports2hd.png" group-title="Esportes",FOX SPORTS 2 HD
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10676.ts
+#EXTINF:-1 tvg-id="Fox Sports 2" tvg-name="FOX SPORTS 2 HD ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/foxsports2hd.png" group-title="Esportes",FOX SPORTS 2 HD ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10888.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2 HD ALTERNATIVO 2" tvg-logo="" group-title="Esportes",FOX SPORTS 2 HD ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25485.ts
+#EXTINF:-1 tvg-id="FX" tvg-name="FX" tvg-logo="http://img.brgo.xyz/img/fx.png" group-title="Filmes / Séries",FX
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10672.ts
+#EXTINF:-1 tvg-id="FX" tvg-name="FX ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/fx.png" group-title="Filmes / Séries",FX ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10898.ts
+#EXTINF:-1 tvg-id="" tvg-name="FX ALTERNATIVO 2" tvg-logo="" group-title="Canais Alternativos 2",FX ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25505.ts
+#EXTINF:-1 tvg-id="FX" tvg-name="FX HD" tvg-logo="http://img.brgo.xyz/img/fxhd.png" group-title="Filmes / Séries",FX HD
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10671.ts
+#EXTINF:-1 tvg-id="FX" tvg-name="FX HD ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/fxhd.png" group-title="Filmes / Séries",FX HD ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10897.ts
+#EXTINF:-1 tvg-id="" tvg-name="FX HD ALTERNATIVO 2" tvg-logo="" group-title="Canais Alternativos 2",FX HD ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25447.ts
+#EXTINF:-1 tvg-id="Futura" tvg-name="FUTURA" tvg-logo="http://img.brgo.xyz/img/futura.png" group-title="Documentários",FUTURA
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10674.ts
+#EXTINF:-1 tvg-id="" tvg-name="FUTURA ALTERNATIVO 2" tvg-logo="" group-title="Canais Alternativos 2",FUTURA ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25491.ts
+#EXTINF:-1 tvg-id="Futura" tvg-name="FUTURA ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/futura.png" group-title="Documentários",FUTURA ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10887.ts
+#EXTINF:-1 tvg-id="Futura" tvg-name="FUTURA HD" tvg-logo="http://img.brgo.xyz/img/futura.png" group-title="Documentários",FUTURA HD
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10673.ts
+#EXTINF:-1 tvg-id="" tvg-name="Galinha Pintadinha 24 horas" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzAzqTyi9rnhXQlpV05qCUfy5KHjKWe7jXngoPlTfzJWM5MziT9w" group-title="Kids",Galinha Pintadinha 24 horas
+http://g5.club-server.co:25461/live/Gotischer/Bruno/23778.ts
+#EXTINF:-1 tvg-id="Globo - Brasília" tvg-name="GLOBO BRASILIA" tvg-logo="http://img.brgo.xyz/img/globobrasilia.png" group-title="Canais Abertos",GLOBO BRASILIA
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10670.ts
+#EXTINF:-1 tvg-id="Globo - Brasília" tvg-name="GLOBO BRASILIA ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/globobrasilia.png" group-title="Canais Abertos",GLOBO BRASILIA ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10884.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO BRASILIA ALTERNATIVO 2" tvg-logo="" group-title="Canais Abertos",GLOBO BRASILIA ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25486.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO BRASTLIA HD ALTERNATIVO 2" tvg-logo="" group-title="Canais Abertos",GLOBO BRASTLIA HD ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25497.ts
+#EXTINF:-1 tvg-id="Globo - EPTV Campinas" tvg-name="GLOBO EPTV CAMPINAS" tvg-logo="http://img.brgo.xyz/img/eptvcampinas.png" group-title="Canais Abertos",GLOBO EPTV CAMPINAS
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10669.ts
+#EXTINF:-1 tvg-id="Globo - EPTV Campinas" tvg-name="GLOBO EPTV CAMPINAS ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/eptvcampinas.png" group-title="Canais Abertos",GLOBO EPTV CAMPINAS ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10910.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO EPTV CAMPINAS ALTERNATIVO 2" tvg-logo="" group-title="Canais Abertos",GLOBO EPTV CAMPINAS ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25512.ts
+#EXTINF:-1 tvg-id="Globo - EPTV Ribeirão Preto" tvg-name="GLOBO EPTV RIBEIRÃO PRETO" tvg-logo="http://img.brgo.xyz/img/eptvribeiraopreto.png" group-title="Canais Abertos",GLOBO EPTV RIBEIRÃO PRETO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10666.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO EPTV RIBEIRÃO PRETO ALTERNATIVO 2" tvg-logo="" group-title="Canais Abertos",GLOBO EPTV RIBEIRÃO PRETO ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25456.ts
+#EXTINF:-1 tvg-id="Globo - EPTV Campinas" tvg-name="GLOBO EPTV HD CAMPINAS" tvg-logo="http://img.brgo.xyz/img/eptvcampinashd.png" group-title="Canais Abertos",GLOBO EPTV HD CAMPINAS
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10668.ts
+#EXTINF:-1 tvg-id="Globo - EPTV Ribeirão Preto" tvg-name="GLOBO EPTV HD RIBEIRÃO PRETO" tvg-logo="http://img.brgo.xyz/img/eptvribeiraopreto.png" group-title="Canais Abertos",GLOBO EPTV HD RIBEIRÃO PRETO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10667.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO EPTV SAO CARLOS ALTERNATIVO 2" tvg-logo="" group-title="Canais Abertos",GLOBO EPTV SAO CARLOS ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25509.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTER TV CABUGI ALTERNATIVO 2" tvg-logo="" group-title="Canais Abertos",GLOBO INTER TV CABUGI ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25319.ts
+#EXTINF:-1 tvg-id="Globo SP" tvg-name="GLOBO INTERNACIONAL" tvg-logo="http://img.brgo.xyz/img/globo.png" group-title="Canais Abertos",GLOBO INTERNACIONAL
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10665.ts
+#EXTINF:-1 tvg-id="Globo - Minas Gerais" tvg-name="GLOBO MG ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/globominas.png" group-title="Canais Abertos",GLOBO MG ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10881.ts
+#EXTINF:-1 tvg-id="Globo - Minas Gerais" tvg-name="GLOBO MG FHD ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/globominas.png" group-title="Canais Abertos",GLOBO MG FHD ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10879.ts
+#EXTINF:-1 tvg-id="Globo - Minas Gerais" tvg-name="GLOBO MG HD ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/globominas.png" group-title="Canais Abertos",GLOBO MG HD ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10880.ts
+#EXTINF:-1 tvg-id="Globo - Minas Gerais" tvg-name="GLOBO MINAS" tvg-logo="http://img.brgo.xyz/img/globominas.png" group-title="Canais Abertos",GLOBO MINAS
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10664.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO MINAS ALTERNATIVO 2" tvg-logo="" group-title="Canais Abertos",GLOBO MINAS ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25487.ts
+#EXTINF:-1 tvg-id="Globo - Minas Gerais" tvg-name="GLOBO MINAS HD" tvg-logo="http://img.brgo.xyz/img/globohdminas.png" group-title="Canais Abertos",GLOBO MINAS HD
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10663.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO MINAS HD ALTERNATIVO 2" tvg-logo="" group-title="Canais Abertos",GLOBO MINAS HD ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25480.ts
+#EXTINF:-1 tvg-id="GloboNews" tvg-name="GLOBO NEWS" tvg-logo="http://img.brgo.xyz/img/globonews.png" group-title="Canais Abertos",GLOBO NEWS
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10662.ts
+#EXTINF:-1 tvg-id="Globo News" tvg-name="GLOBO NEWS ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/globonews.png" group-title="Canais Abertos",GLOBO NEWS ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10878.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBONEWS ALTERNATIVO 2" tvg-logo="" group-title="Notícias",GLOBONEWS ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25500.ts
+#EXTINF:-1 tvg-id="GloboNews" tvg-name="GLOBO NEWS HD" tvg-logo="http://img.brgo.xyz/img/globonewshd.png" group-title="Canais Abertos",GLOBO NEWS HD
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10661.ts
+#EXTINF:-1 tvg-id="GloboNews" tvg-name="GLOBO NEWS HD ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/globonews.png" group-title="Canais Abertos",GLOBO NEWS HD ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10877.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBONEWS HD ALTERNATIVO 2" tvg-logo="" group-title="Notícias",GLOBONEWS HD ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25492.ts
+#EXTINF:-1 tvg-id="Globo Nordeste" tvg-name="GLOBO NORDESTE" tvg-logo="http://img.brgo.xyz/img/globonordeste.png" group-title="Canais Abertos",GLOBO NORDESTE
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10660.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NORDESTE ALTERNATIVO 2" tvg-logo="" group-title="Canais Abertos",GLOBO NORDESTE ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25488.ts
+#EXTINF:-1 tvg-id="Globo Nordeste" tvg-name="GLOBO NORDESTE HD" tvg-logo="http://img.brgo.xyz/img/globonordeste.png" group-title="Canais Abertos",GLOBO NORDESTE HD
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10659.ts
+#EXTINF:-1 tvg-id="Globo Nordeste" tvg-name="GLOBO NORDESTE ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/globonordeste.png" group-title="Canais Abertos",GLOBO NORDESTE ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10883.ts
+#EXTINF:-1 tvg-id="Globo Nordeste" tvg-name="GLOBO NORDESTE HD ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/globonordeste.png" group-title="Canais Abertos",GLOBO NORDESTE HD ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10882.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NORDESTE HD ALTERNATIVO 2" tvg-logo="" group-title="Canais Abertos",GLOBO NORDESTE HD ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25484.ts
+#EXTINF:-1 tvg-id="RBS TV Porto Alegre" tvg-name="GLOBO RBS HD TV PORTO ALEGRE" tvg-logo="http://img.brgo.xyz/img/rbstvportoalegre.png" group-title="Canais Abertos",GLOBO RBS HD TV PORTO ALEGRE
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10656.ts
+#EXTINF:-1 tvg-id="RBS TV Porto Alegre" tvg-name="GLOBO RBS TV PORTO ALEGRE" tvg-logo="http://img.brgo.xyz/img/rbstvportoalegre.png" group-title="Canais Abertos",GLOBO RBS TV PORTO ALEGRE
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10657.ts
+#EXTINF:-1 tvg-id="Globo Rio" tvg-name="GLOBO RJ" tvg-logo="http://img.brgo.xyz/img/globorj.png" group-title="Canais Abertos",GLOBO RJ
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10655.ts
+#EXTINF:-1 tvg-id="Globo - Rio de Janeiro" tvg-name="GLOBO RJ ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/globohdrj.png" group-title="Canais Abertos",GLOBO RJ ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10876.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RJ ALTERNATIVO 2" tvg-logo="" group-title="Canais Abertos",GLOBO RJ ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25489.ts
+#EXTINF:-1 tvg-id="Globo Rio" tvg-name="GLOBO RJ HD" tvg-logo="http://img.brgo.xyz/img/globohdrj.png" group-title="Canais Abertos",GLOBO RJ HD
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10654.ts
+#EXTINF:-1 tvg-id="Globo - Rio de Janeiro" tvg-name="GLOBO RJ HD ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/globohdrj.png" group-title="Canais Abertos",GLOBO RJ HD ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10875.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RJ HD ALTERNATIVO 2" tvg-logo="" group-title="Canais Abertos",GLOBO RJ HD ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25495.ts
+#EXTINF:-1 tvg-id="Globo - Rio de Janeiro" tvg-name="GLOBO RJ HD ALTERNATIVO H265" tvg-logo="http://img.brgo.xyz/img/globorj.png" group-title="Canais Abertos",GLOBO RJ HD ALTERNATIVO H265
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10874.ts
+#EXTINF:-1 tvg-id="RPC Curitiba" tvg-name="GLOBO RPC CURITIBA" tvg-logo="http://img.brgo.xyz/img/rpctvcuritiba.png" group-title="Canais Abertos",GLOBO RPC CURITIBA
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10653.ts
+#EXTINF:-1 tvg-id="" tvg-name="RPC TV CURITIBA ALTERNATIVO 2" tvg-logo="" group-title="Canais Alternativos 2",RPC TV CURITIBA ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25390.ts
+#EXTINF:-1 tvg-id="Globo SP" tvg-name="GLOBO SP" tvg-logo="http://img.brgo.xyz/img/globosp.png" group-title="Canais Abertos",GLOBO SP
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10652.ts
+#EXTINF:-1 tvg-id="Globo - São Paulo" tvg-name="GLOBO SP ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/globosp.png" group-title="Canais Abertos",GLOBO SP ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10873.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO SP ALTERNATIVO 2" tvg-logo="" group-title="Canais Abertos",GLOBO SP ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25490.ts
+#EXTINF:-1 tvg-id="Globo SP" tvg-name="GLOBO SP HD" tvg-logo="http://img.brgo.xyz/img/globosphd.png" group-title="Canais Abertos",GLOBO SP HD
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10651.ts
+#EXTINF:-1 tvg-id="Globo - São Paulo" tvg-name="GLOBO SP HD ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/globosphd.png" group-title="Canais Abertos",GLOBO SP HD ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10872.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO SP HD ALTERNATIVO 2" tvg-logo="" group-title="Canais Abertos",GLOBO SP HD ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25499.ts
+#EXTINF:-1 tvg-id="Globo - São Paulo" tvg-name="GLOBO SP HD ALTERNATIVO ALTERNATIVO 2" tvg-logo="http://img.brgo.xyz/img/globosphd.png" group-title="Canais Abertos",GLOBO SP HD ALTERNATIVO ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10871.ts
+#EXTINF:-1 tvg-id="Globo - TV Anhanguera Goiás" tvg-name="GLOBO TV ANHANGUERA" tvg-logo="http://img.brgo.xyz/img/tvanhangueragoiania.png" group-title="Canais Abertos",GLOBO TV ANHANGUERA
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10650.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV ANHANGUERA GOIANIA ALTERNATIVO 2" tvg-logo="" group-title="Canais Abertos",GLOBO TV ANHANGUERA GOIANIA ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25356.ts
+#EXTINF:-1 tvg-id="Globo - TV Anhanguera Goiás" tvg-name="GLOBO TV ANHANGUERA HD" tvg-logo="http://img.brgo.xyz/img/tvanhangueragoianiahd.png" group-title="Canais Abertos",GLOBO TV ANHANGUERA HD
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10649.ts
+#EXTINF:-1 tvg-id="Globo - Bahia" tvg-name="GLOBO TV BAHIA" tvg-logo="http://img.brgo.xyz/img/tvbahia.png" group-title="Canais Abertos",GLOBO TV BAHIA
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10648.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV BAHIA ALTERNATIVO 2" tvg-logo="" group-title="Canais Abertos",GLOBO TV BAHIA ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25355.ts
+#EXTINF:-1 tvg-id="Globo - Bahia" tvg-name="GLOBO TV BAHIA HD" tvg-logo="http://img.brgo.xyz/img/tvbahia.png" group-title="Canais Abertos",GLOBO TV BAHIA HD
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10647.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV CENTRO AMERICA CUIABA ALTERNATIVO 2" tvg-logo="" group-title="Canais Abertos",GLOBO TV CENTRO AMERICA CUIABA ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25353.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV LIBERAL BELEM ALTERNATIVO 2" tvg-logo="" group-title="Canais Abertos",GLOBO TV LIBERAL BELEM ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25349.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO REDE AMAZONICA MANAUS ALTERNATIVO 2" tvg-logo="" group-title="Canais Abertos",GLOBO REDE AMAZONICA MANAUS ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25396.ts
+#EXTINF:-1 tvg-id="TV TEM Bauru" tvg-name="GLOBO TV TEM BAURU" tvg-logo="http://img.brgo.xyz/img/tvtembauru.png" group-title="Canais Abertos",GLOBO TV TEM BAURU
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10646.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV TEM BAURU ALTERNATIVO 2" tvg-logo="" group-title="Canais Abertos",GLOBO TV TEM BAURU ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25345.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV TEM HD S. J. DO RIO PRETO" tvg-logo="http://img.brgo.xyz/img/tvtemsaojosedoriopreto.png" group-title="Canais Abertos",GLOBO TV TEM HD S. J. DO RIO PRETO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10645.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV TEM S. J. DO RIO PRETO" tvg-logo="http://img.brgo.xyz/img/tvtemsaojosedoriopreto.png" group-title="Canais Abertos",GLOBO TV TEM S. J. DO RIO PRETO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10644.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV TEM SOROCABA" tvg-logo="http://img.brgo.xyz/img/tvtemsorocaba.png" group-title="Canais Abertos",GLOBO TV TEM SOROCABA
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10643.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV TEM SOROCABA ALTERNATIVO 2" tvg-logo="" group-title="Canais Abertos",GLOBO TV TEM SOROCABA ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25403.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV VANGUARDA S.J.DOS CAMPOS ALTERNATIVO 2" tvg-logo="" group-title="Canais Abertos",GLOBO TV VANGUARDA S.J.DOS CAMPOS ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25400.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV VERDES MARES FORTALEZA ALTERNATIVO 2" tvg-logo="" group-title="Canais Abertos",GLOBO TV VERDES MARES FORTALEZA ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25344.ts
+#EXTINF:-1 tvg-id="Mais GloboSat" tvg-name="GLOBOSAT   HD ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/maisglobosathd.png" group-title="Canais Abertos",GLOBOSAT   HD ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10870.ts
+#EXTINF:-1 tvg-id="Gloob [Brazil]" tvg-name="GLOOB" tvg-logo="http://img.brgo.xyz/img/gloob.png" group-title="Kids",GLOOB
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10642.ts
+#EXTINF:-1 tvg-id="Gloob [Brazil]" tvg-name="GLOOB ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/gloob.png" group-title="Kids",GLOOB ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10869.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOOB ALTERNATIVO 2" tvg-logo="" group-title="Canais Alternativos 2",GLOOB ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25493.ts
+#EXTINF:-1 tvg-id="Gloob [Brazil]" tvg-name="GLOOB HD" tvg-logo="http://img.brgo.xyz/img/gloobhd.png" group-title="Kids",GLOOB HD
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10641.ts
+#EXTINF:-1 tvg-id="Gloob" tvg-name="GLOOB HD ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/gloob.png" group-title="Kids",GLOOB HD ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10868.ts
+#EXTINF:-1 tvg-id="" tvg-name="Gloob HD ALTERNATIVO 2" tvg-logo="" group-title="Canais Alternativos 2",Gloob HD ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25467.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOOBINHO HD" tvg-logo="http://img.brgo.xyz/img/tvglobinho.png" group-title="Kids",GLOOBINHO HD
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10640.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOOBINHO SD" tvg-logo="http://img.brgo.xyz/img/tvglobinho.png" group-title="Kids",GLOOBINHO SD
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10639.ts
+#EXTINF:-1 tvg-id="GNT" tvg-name="GNT" tvg-logo="http://img.brgo.xyz/img/gnt.png" group-title="Variedades / Música",GNT
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10638.ts
+#EXTINF:-1 tvg-id="" tvg-name="GNT ALTERNATIVO" tvg-logo="" group-title="Variedades / Música",GNT ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10886.ts
+#EXTINF:-1 tvg-id="" tvg-name="GNT ALTERNATIVO 2" tvg-logo="" group-title="Canais Alternativos 2",GNT ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25494.ts
+#EXTINF:-1 tvg-id="" tvg-name="GNT HD ALTERNATIVO 2" tvg-logo="" group-title="Canais Alternativos 2",GNT HD ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25496.ts
+#EXTINF:-1 tvg-id="H2" tvg-name="H2 ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/h2.png" group-title="Documentários",H2 ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10866.ts
+#EXTINF:-1 tvg-id="" tvg-name="H2 ALTERNATIVO 2" tvg-logo="" group-title="Canais Alternativos 2",H2 ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25475.ts
+#EXTINF:-1 tvg-id="H2" tvg-name="H2 HD" tvg-logo="http://img.brgo.xyz/img/h2hd.png" group-title="Documentários",H2 HD
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10635.ts
+#EXTINF:-1 tvg-id="H2" tvg-name="H2 HD ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/h2hd.png" group-title="Documentários",H2 HD ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10865.ts
+#EXTINF:-1 tvg-id="" tvg-name="H2 HD ALTERNATIVO 2" tvg-logo="" group-title="Canais Alternativos 2",H2 HD ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25468.ts
+#EXTINF:-1 tvg-id="H2" tvg-name="H2 SD" tvg-logo="http://img.brgo.xyz/img/h2.png" group-title="Documentários",H2 SD
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10636.ts
+#EXTINF:-1 tvg-id="" tvg-name="GNT*" tvg-logo="" group-title="",GNT*
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25598.ts
+#EXTINF:-1 tvg-id="GNT" tvg-name="GNT HD" tvg-logo="http://img.brgo.xyz/img/gnthd.png" group-title="Variedades / Música",GNT HD
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10637.ts
+#EXTINF:-1 tvg-id="" tvg-name="GNT HD ALTERNATIVO" tvg-logo="" group-title="Variedades / Música",GNT HD ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10885.ts
+#EXTINF:-1 tvg-id="HBO [Brazil]" tvg-name="HBO" tvg-logo="http://img.brgo.xyz/img/hbo.png" group-title="Filmes / Séries",HBO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10634.ts
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/hbo.png" group-title="Filmes / Séries",HBO ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10864.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO ALTERNATIVO 2" tvg-logo="" group-title="Filmes / Séries",HBO ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25473.ts
+#EXTINF:-1 tvg-id="HBO [Brazil]" tvg-name="HBO HD" tvg-logo="http://img.brgo.xyz/img/hbohd.png" group-title="Filmes / Séries",HBO HD
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10629.ts
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO HD ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/hbo.png" group-title="Filmes / Séries",HBO HD ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10863.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO HD ALTERNATIVO 2" tvg-logo="" group-title="Filmes / Séries",HBO HD ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25470.ts
+#EXTINF:-1 tvg-id="HBO 2 [Brazil]" tvg-name="HBO 2" tvg-logo="http://img.brgo.xyz/img/hbo2.png" group-title="Filmes / Séries",HBO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10633.ts
+#EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2 ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/hbo2.png" group-title="Filmes / Séries",HBO 2 ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10862.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO2 ALTERNATIVO 2" tvg-logo="" group-title="Filmes / Séries",HBO2 ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25463.ts
+#EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2 HD" tvg-logo="http://img.brgo.xyz/img/hbo2hd.png" group-title="Filmes / Séries",HBO 2 HD
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10632.ts
+#EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2 HD ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/hbo2hd.png" group-title="Filmes / Séries",HBO 2 HD ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10861.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO2 HD ALTERNATIVO 2" tvg-logo="" group-title="Filmes / Séries",HBO2 HD ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25464.ts
+#EXTINF:-1 tvg-id="HBO Family [Brazil]" tvg-name="HBO FAMILY" tvg-logo="http://img.brgo.xyz/img/hbofamily.png" group-title="Filmes / Séries",HBO FAMILY
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10631.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY ALTERNATIVO" tvg-logo="" group-title="Filmes / Séries",HBO FAMILY ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10860.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY ALTERNATIVO 2" tvg-logo="" group-title="Filmes / Séries",HBO FAMILY ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25474.ts
+#EXTINF:-1 tvg-id="HBO Family [Brazil]" tvg-name="HBO FAMILY HD" tvg-logo="http://img.brgo.xyz/img/hbofamilyhd.png" group-title="Filmes / Séries",HBO FAMILY HD
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10630.ts
+#EXTINF:-1 tvg-id="HBO Family" tvg-name="HBO FAMILY HD ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/hbofamilyhd.png" group-title="Filmes / Séries",HBO FAMILY HD ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10859.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY HD ALTERNATIVO 2" tvg-logo="" group-title="Filmes / Séries",HBO FAMILY HD ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25469.ts
+#EXTINF:-1 tvg-id="HBO Plus [Brazil]" tvg-name="HBO PLUS" tvg-logo="http://img.brgo.xyz/img/hboplus.png" group-title="Filmes / Séries",HBO PLUS
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10628.ts
+#EXTINF:-1 tvg-id="HBO Plus [Brazil]" tvg-name="HBO PLUS ." tvg-logo="http://img.brgo.xyz/img/hboplus.png" group-title="Filmes / Séries",HBO PLUS .
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10627.ts
+#EXTINF:-1 tvg-id="HBO Plus" tvg-name="HBO PLUS ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/hboplus.png" group-title="Filmes / Séries",HBO PLUS ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10858.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO PLUS ALTERNATIVO 2" tvg-logo="" group-title="Filmes / Séries",HBO PLUS ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25477.ts
+#EXTINF:-1 tvg-id="HBO Plus [Brazil]" tvg-name="HBO PLUS HD" tvg-logo="http://img.brgo.xyz/img/hboplushd.png" group-title="Filmes / Séries",HBO PLUS HD
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10625.ts
+#EXTINF:-1 tvg-id="HBO Plus" tvg-name="HBO PLUS HD ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/hboplushd.png" group-title="Filmes / Séries",HBO PLUS HD ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10857.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO PLUS HD ALTERNATIVO 2" tvg-logo="" group-title="Filmes / Séries",HBO PLUS HD ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25471.ts
+#EXTINF:-1 tvg-id="HBO Plus *e [Brazil]" tvg-name="HBO PLUS E" tvg-logo="http://img.brgo.xyz/img/hboplusoeste.png" group-title="Filmes / Séries",HBO PLUS E
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10626.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO PLUS *E*" tvg-logo="" group-title="",HBO PLUS *E*
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25593.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO PLUS*E ALTERNATIVO 2" tvg-logo="" group-title="Filmes / Séries",HBO PLUS*E ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25476.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO PLUS*E ALTERNATIVO" tvg-logo="" group-title="Filmes / Séries",HBO PLUS*E ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10856.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO PLUS*E HD ALTERNATIVO 2" tvg-logo="" group-title="Filmes / Séries",HBO PLUS*E HD ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25472.ts
+#EXTINF:-1 tvg-id="HBO Signature [Brazil]" tvg-name="HBO SIGNATURE" tvg-logo="http://img.brgo.xyz/img/hbosignature.png" group-title="Filmes / Séries",HBO SIGNATURE
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10624.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO SIGNATURE ALTERNATIVO" tvg-logo="" group-title="Filmes / Séries",HBO SIGNATURE ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10855.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO SIGNATURE ALTERNATIVO 2" tvg-logo="" group-title="Filmes / Séries",HBO SIGNATURE ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25462.ts
+#EXTINF:-1 tvg-id="HBO Signature [Brazil]" tvg-name="HBO SIGNATURE HD" tvg-logo="http://img.brgo.xyz/img/hbosignaturehd.png" group-title="Filmes / Séries",HBO SIGNATURE HD
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10623.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO SIGNATURE HD ALTERNATIVO" tvg-logo="" group-title="Filmes / Séries",HBO SIGNATURE HD ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10854.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO SIGNATURE HD ALTERNATIVO 2" tvg-logo="" group-title="Filmes / Séries",HBO SIGNATURE HD ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25465.ts
+#EXTINF:-1 tvg-id="History Channel" tvg-name="HISTORY CHANNEL ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/historychannel.png" group-title="Documentários",HISTORY CHANNEL ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10853.ts
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY CHANNEL ALTERNATIVO 2" tvg-logo="" group-title="Canais Alternativos 2",HISTORY CHANNEL ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25329.ts
+#EXTINF:-1 tvg-id="History" tvg-name="HISTORY HD" tvg-logo="http://img.brgo.xyz/img/historychannel.png" group-title="Documentários",HISTORY HD
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10622.ts
+#EXTINF:-1 tvg-id="History Channel HD" tvg-name="HISTORY CHANNEL HD ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/historychannelhd.png" group-title="Documentários",HISTORY CHANNEL HD ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10852.ts
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY CHANNEL HD ALTERNATIVO 2" tvg-logo="" group-title="Canais Alternativos 2",HISTORY CHANNEL HD ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25327.ts
+#EXTINF:-1 tvg-id="I.Sat" tvg-name="I-SAT" tvg-logo="http://img.brgo.xyz/img/isat.png" group-title="Filmes / Séries",I-SAT
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10621.ts
+#EXTINF:-1 tvg-id="" tvg-name="I-SAT ALTERNATIVO 2" tvg-logo="" group-title="Canais Alternativos 2",I-SAT ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25458.ts
+#EXTINF:-1 tvg-id="Ideal TV" tvg-name="IDEAL TV" tvg-logo="http://img.brgo.xyz/img/idealtv.png" group-title="Religioso",IDEAL TV
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10620.ts
+#EXTINF:-1 tvg-id="" tvg-name="IDEAL TV ALTERNATIVO 2" tvg-logo="" group-title="Canais Alternativos 2",IDEAL TV ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25498.ts
+#EXTINF:-1 tvg-id="ID: Investigação Discovery" tvg-name="INVESTIGATION DISCOVERY" tvg-logo="http://img.brgo.xyz/img/idinvestigacaodiscovery.png" group-title="Documentários",INVESTIGATION DISCOVERY
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10619.ts
+#EXTINF:-1 tvg-id="Investigação Discovery" tvg-name="INVESTIGAÇÃO DISCOVERY ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/idinvestigacaodiscovery.png" group-title="Documentários",INVESTIGAÇÃO DISCOVERY ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10851.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID*" tvg-logo="" group-title="",ID*
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25585.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID - INVESTIGAÇÃO DISCOVERY ALTERNATIVO 2" tvg-logo="" group-title="Canais Alternativos 2",ID - INVESTIGAÇÃO DISCOVERY ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25459.ts
+#EXTINF:-1 tvg-id="ID: Investigação Discovery" tvg-name="INVESTIGATION DISCOVERY HD" tvg-logo="http://img.brgo.xyz/img/idinvestigacaodiscoveryhd.png" group-title="Documentários",INVESTIGATION DISCOVERY HD
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10618.ts
+#EXTINF:-1 tvg-id="Investigação Discovery" tvg-name="INVESTIGAÇÃO DISCOVERY HD ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/idinvestigacaodiscoveryhd.png" group-title="Documentários",INVESTIGAÇÃO DISCOVERY HD ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10850.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID -HD ALTERNATIVO 2" tvg-logo="" group-title="Canais Alternativos 2",ID -HD ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25460.ts
+#EXTINF:-1 tvg-id="" tvg-name="IURD TV" tvg-logo="http://i.imgur.com/aiNRaga.png" group-title="Religioso",IURD TV
+http://g5.club-server.co:25461/live/Gotischer/Bruno/6006.ts
+#EXTINF:-1 tvg-id="Lifetime" tvg-name="LIFETIME" tvg-logo="http://img.brgo.xyz/img/lifetime.png" group-title="Variedades / Música",LIFETIME
+http://g5.club-server.co:25461/live/Gotischer/Bruno/11905.ts
+#EXTINF:-1 tvg-id="" tvg-name="LIFETIME ALTERNATIVO 2" tvg-logo="" group-title="Canais Alternativos 2",LIFETIME ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25501.ts
+#EXTINF:-1 tvg-id="Lifetime" tvg-name="LIFETIME HD" tvg-logo="http://img.brgo.xyz/img/lifetime.png" group-title="Variedades / Música",LIFETIME HD
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10617.ts
+#EXTINF:-1 tvg-id="Lifetime" tvg-name="LIFETIME HD ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/lifetimehd.png" group-title="Variedades / Música",LIFETIME HD ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10849.ts
+#EXTINF:-1 tvg-id="" tvg-name="LIFETIME HD ALTERNATIVO 2" tvg-logo="" group-title="Canais Alternativos 2",LIFETIME HD ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25448.ts
+#EXTINF:-1 tvg-id="Mais GloboSat" tvg-name="MAIS GLOBOSAT" tvg-logo="http://img.brgo.xyz/img/maisglobosat.png" group-title="Canais Abertos",MAIS GLOBOSAT
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10616.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAIS GLOBOSAT ALTERNATIVO 2" tvg-logo="" group-title="Canais Abertos",MAIS GLOBOSAT ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25441.ts
+#EXTINF:-1 tvg-id="Mais GloboSat" tvg-name="MAIS GLOBOSAT HD" tvg-logo="http://img.brgo.xyz/img/maisglobosathd.png" group-title="Canais Abertos",MAIS GLOBOSAT HD
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10615.ts
+#EXTINF:-1 tvg-id="Max [Brazil]" tvg-name="MAX" tvg-logo="http://img.brgo.xyz/img/max.png" group-title="Filmes / Séries",MAX
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10614.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX ALTERNATIVO" tvg-logo="" group-title="Filmes / Séries",MAX ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10846.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX ALTERNATIVO 2" tvg-logo="" group-title="Canais Alternativos 2",MAX ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25449.ts
+#EXTINF:-1 tvg-id="Max [Brazil]" tvg-name="MAX HD" tvg-logo="http://img.brgo.xyz/img/maxhd.png" group-title="Filmes / Séries",MAX HD
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10613.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX HD ALTERNATIVO 2" tvg-logo="" group-title="Canais Alternativos 2",MAX HD ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25454.ts
+#EXTINF:-1 tvg-id="Max Prime [Brazil]" tvg-name="MAX PRIME" tvg-logo="http://img.brgo.xyz/img/maxprime.png" group-title="Filmes / Séries",MAX PRIME
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10612.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX PRIME ALTERNATIVO" tvg-logo="" group-title="Filmes / Séries",MAX PRIME ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10845.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX PRIME ALTERNATIVO 2" tvg-logo="" group-title="Canais Alternativos 2",MAX PRIME ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25453.ts
+#EXTINF:-1 tvg-id="Max Prime *e [Brazil]" tvg-name="MAX PRIME E" tvg-logo="http://img.brgo.xyz/img/maxprimeeste.png" group-title="Filmes / Séries",MAX PRIME E
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10611.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX PRIME*E ALTERNATIVO 2" tvg-logo="" group-title="Canais Alternativos 2",MAX PRIME*E ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25450.ts
+#EXTINF:-1 tvg-id="Max Prime [Brazil]" tvg-name="MAX PRIME HD" tvg-logo="http://img.brgo.xyz/img/maxprimehd.png" group-title="Filmes / Séries",MAX PRIME HD
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10610.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX PRIME HD ALTERNATIVO" tvg-logo="" group-title="Filmes / Séries",MAX PRIME HD ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10844.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX PRIME HD ALTERNATIVO 2" tvg-logo="" group-title="Canais Alternativos 2",MAX PRIME HD ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25455.ts
+#EXTINF:-1 tvg-id="Max UP" tvg-name="MAX UP" tvg-logo="http://img.brgo.xyz/img/maxup.png" group-title="Filmes / Séries",MAX UP
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10609.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX UP ALTERNATIVO" tvg-logo="" group-title="Filmes / Séries",MAX UP ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10843.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX UP ALTERNATIVO 2" tvg-logo="" group-title="Canais Alternativos 2",MAX UP ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25452.ts
+#EXTINF:-1 tvg-id="Max UP" tvg-name="MAX UP HD" tvg-logo="http://img.brgo.xyz/img/maxup.png" group-title="Filmes / Séries",MAX UP HD
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10608.ts
+#EXTINF:-1 tvg-id="Megapix" tvg-name="MEGAPIX" tvg-logo="http://img.brgo.xyz/img/megapix.png" group-title="Filmes / Séries",MEGAPIX
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10607.ts
+#EXTINF:-1 tvg-id="Megapix" tvg-name="MEGAPIX ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/megapix.png" group-title="Filmes / Séries",MEGAPIX ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10842.ts
+#EXTINF:-1 tvg-id="" tvg-name="MEGAPIX ALTERNATIVO 2" tvg-logo="" group-title="Canais Alternativos 2",MEGAPIX ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25443.ts
+#EXTINF:-1 tvg-id="Megapix" tvg-name="MEGAPIX HD" tvg-logo="http://img.brgo.xyz/img/megapixhd.png" group-title="Filmes / Séries",MEGAPIX HD
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10606.ts
+#EXTINF:-1 tvg-id="Megapix HD" tvg-name="MEGAPIX HD ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/megapixhd.png" group-title="Filmes / Séries",MEGAPIX HD ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10841.ts
+#EXTINF:-1 tvg-id="" tvg-name="MEGAPIX HD ALTERNATIVO 2" tvg-logo="" group-title="Canais Alternativos 2",MEGAPIX HD ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25445.ts
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="http://img.brgo.xyz/img/mtv.png" group-title="Variedades / Música",MTV
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10605.ts
+#EXTINF:-1 tvg-id="MTV Brasil" tvg-name="MTV ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/mtv.png" group-title="Variedades / Música",MTV ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10848.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV ALTERNATIVO 2" tvg-logo="" group-title="Canais Alternativos 2",MTV ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25451.ts
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV HD" tvg-logo="http://img.brgo.xyz/img/mtvhd.png" group-title="Variedades / Música",MTV HD
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10604.ts
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV HD ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/mtvhd.png" group-title="Variedades / Música",MTV HD ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10847.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV HD ALTERNATIVO 2" tvg-logo="" group-title="Canais Alternativos 2",MTV HD ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25438.ts
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV ROCK" tvg-logo="http://img.brgo.xyz/img/mtvhd.png" group-title="Variedades / Música",MTV ROCK
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10603.ts
+#EXTINF:-1 tvg-id="Multishow" tvg-name="MULTISHOW" tvg-logo="http://img.brgo.xyz/img/multishow.png" group-title="Variedades / Música",MULTISHOW
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10602.ts
+#EXTINF:-1 tvg-id="Multishow" tvg-name="MULTISHOW ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/multishow.png" group-title="Variedades / Música",MULTISHOW ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10840.ts
+#EXTINF:-1 tvg-id="" tvg-name="MULTISHOW ALTERNATIVO 2" tvg-logo="" group-title="Canais Alternativos 2",MULTISHOW ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25446.ts
+#EXTINF:-1 tvg-id="Multishow" tvg-name="MULTISHOW HD" tvg-logo="http://img.brgo.xyz/img/multishowhd.png" group-title="Variedades / Música",MULTISHOW HD
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10601.ts
+#EXTINF:-1 tvg-id="Multishow" tvg-name="MULTISHOW HD ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/multishowhd.png" group-title="Variedades / Música",MULTISHOW HD ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10839.ts
+#EXTINF:-1 tvg-id="Music Box Brazil" tvg-name="MUSIC BOX BRASIL" tvg-logo="http://img.brgo.xyz/img/musicboxbrazil.png" group-title="Variedades / Música",MUSIC BOX BRASIL
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10600.ts
+#EXTINF:-1 tvg-id="" tvg-name="MULTISHOW HD ALTERNATIVO 2" tvg-logo="" group-title="Canais Alternativos 2",MULTISHOW HD ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25440.ts
+#EXTINF:-1 tvg-id="Music Box Brazil" tvg-name="MUSIC BOX BRASIL ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/musicboxbrazil.png" group-title="Variedades / Música",MUSIC BOX BRASIL ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10838.ts
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC BOX BRAZIL ALTERNATIVO 2" tvg-logo="" group-title="Canais Alternativos 2",MUSIC BOX BRAZIL ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25444.ts
+#EXTINF:-1 tvg-id="Music Box Brazil" tvg-name="MUSIC BOX BRASIL HD" tvg-logo="http://img.brgo.xyz/img/musicboxbrazil.png" group-title="Variedades / Música",MUSIC BOX BRASIL HD
+http://g5.club-server.co:25461/live/Gotischer/Bruno/11906.ts
+#EXTINF:-1 tvg-id="NatGeo" tvg-name="NAT GEO" tvg-logo="http://img.brgo.xyz/img/nationalgeographic.png" group-title="Documentários",NAT GEO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10599.ts
+#EXTINF:-1 tvg-id="NatGeo" tvg-name="NAT GEO HD" tvg-logo="http://img.brgo.xyz/img/natgeohd.png" group-title="Documentários",NAT GEO HD
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10598.ts
+#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC*" tvg-logo="" group-title="",NATIONAL GEOGRAPHIC*
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25588.ts
+#EXTINF:-1 tvg-id="NatGeo" tvg-name="NATIONAL GEOGRAPHIC ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/nationalgeographic.png" group-title="Documentários",NATIONAL GEOGRAPHIC ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10834.ts
+#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC ALTERNATIVO 2" tvg-logo="" group-title="Canais Alternativos 2",NATIONAL GEOGRAPHIC ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25432.ts
+#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC HD ALTERNATIVO" tvg-logo="" group-title="Documentários",NATIONAL GEOGRAPHIC HD ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10833.ts
+#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC HD ALTERNATIVO 2" tvg-logo="" group-title="Canais Alternativos 2",NATIONAL GEOGRAPHIC HD ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25433.ts
+#EXTINF:-1 tvg-id="" tvg-name="NATGEO KIDS" tvg-logo="" group-title="Kids",NATGEO KIDS
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10837.ts
+#EXTINF:-1 tvg-id="NatGeo Kids" tvg-name="NAT GEO KIDS" tvg-logo="http://img.brgo.xyz/img/natgeokids.png" group-title="Kids",NAT GEO KIDS
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10597.ts
+#EXTINF:-1 tvg-id="" tvg-name="NATGEO KIDS ALTERNATIVO 2" tvg-logo="" group-title="Canais Alternativos 2",NATGEO KIDS ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25320.ts
+#EXTINF:-1 tvg-id="NatGeo Kids" tvg-name="NAT GEO KIDS HD" tvg-logo="http://img.brgo.xyz/img/natgeokids.png" group-title="Kids",NAT GEO KIDS HD
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10596.ts
+#EXTINF:-1 tvg-id="" tvg-name="NATGEO KIDS HD ALTERNATIVO 2" tvg-logo="" group-title="Canais Alternativos 2",NATGEO KIDS HD ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25435.ts
+#EXTINF:-1 tvg-id="NatGeo Wild" tvg-name="NATGEO WILD" tvg-logo="http://img.brgo.xyz/img/natgeowild.png" group-title="Documentários",NATGEO WILD
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10594.ts
+#EXTINF:-1 tvg-id="" tvg-name="NATGEO WILD ALTERNATIVO" tvg-logo="" group-title="Documentários",NATGEO WILD ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10836.ts
+#EXTINF:-1 tvg-id="" tvg-name="NATGEO WILD ALTERNATIVO 2" tvg-logo="" group-title="Canais Alternativos 2",NATGEO WILD ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25436.ts
+#EXTINF:-1 tvg-id="NatGeo Wild" tvg-name="NAT GEO WILD HD" tvg-logo="http://img.brgo.xyz/img/natgeowildhd.png" group-title="Documentários",NAT GEO WILD HD
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10595.ts
+#EXTINF:-1 tvg-id="" tvg-name="NATGEO WILD HD ALTERNATIVO" tvg-logo="" group-title="Documentários",NATGEO WILD HD ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10835.ts
+#EXTINF:-1 tvg-id="" tvg-name="NATGEO WILD HD ALTERNATIVO 2" tvg-logo="" group-title="Canais Alternativos 2",NATGEO WILD HD ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25431.ts
+#EXTINF:-1 tvg-id="NBR" tvg-name="NBR" tvg-logo="http://img.brgo.xyz/img/nbr.png" group-title="Notícias",NBR
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10593.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBR ALTERNATIVO 2" tvg-logo="" group-title="Canais Alternativos 2",NBR ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25439.ts
+#EXTINF:-1 tvg-id="NBR" tvg-name="NBR HD" tvg-logo="http://i.imgur.com/n5L91Na.png" group-title="Notícias",NBR HD
+http://g5.club-server.co:25461/live/Gotischer/Bruno/3887.ts
+#EXTINF:-1 tvg-id="Nick Jr." tvg-name="NICK JR" tvg-logo="http://img.brgo.xyz/img/nickjr.png" group-title="Kids",NICK JR
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10591.ts
+#EXTINF:-1 tvg-id="" tvg-name="NICK JR ALTERNATIVO" tvg-logo="" group-title="Kids",NICK JR ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10832.ts
+#EXTINF:-1 tvg-id="" tvg-name="NICK JR ALTERNATIVO 2" tvg-logo="" group-title="Kids",NICK JR ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10831.ts
+#EXTINF:-1 tvg-id="Nick Jr." tvg-name="NICK JR HD" tvg-logo="http://img.brgo.xyz/img/nickjr.png" group-title="Kids",NICK JR HD
+http://g5.club-server.co:25461/live/Gotischer/Bruno/11907.ts
+#EXTINF:-1 tvg-id="" tvg-name="NICK JR HD ALTERNATIVO 2" tvg-logo="" group-title="Canais Alternativos 2",NICK JR HD ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25434.ts
+#EXTINF:-1 tvg-id="Nick" tvg-name="NICKELODEN" tvg-logo="http://img.brgo.xyz/img/nickelodeon.png" group-title="Kids",NICKELODEN
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10590.ts
+#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON*" tvg-logo="" group-title="",NICKELODEON*
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25580.ts
+#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON ALTERNATIVO" tvg-logo="" group-title="Kids",NICKELODEON ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10830.ts
+#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON ALTERNATIVO 2" tvg-logo="" group-title="Canais Alternativos 2",NICKELODEON ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25321.ts
+#EXTINF:-1 tvg-id="Nick" tvg-name="NICKELODEON HD" tvg-logo="http://img.brgo.xyz/img/nickelodeonhd.png" group-title="Kids",NICKELODEON HD
+http://g5.club-server.co:25461/live/Gotischer/Bruno/11908.ts
+#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON HD ALTERNATIVO 2" tvg-logo="" group-title="Canais Alternativos 2",NICKELODEON HD ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25416.ts
+#EXTINF:-1 tvg-id="NHK World Premium" tvg-name="NHK" tvg-logo="http://img.brgo.xyz/img/nhk.png" group-title="Documentários",NHK
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10592.ts
+#EXTINF:-1 tvg-id="" tvg-name="NHK ALTERNATIVO 2" tvg-logo="" group-title="Canais Alternativos 2",NHK ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25442.ts
+#EXTINF:-1 tvg-id="" tvg-name="NTV FLORIANÓPOLIS ALTERNATIVO" tvg-logo="" group-title="Variedades / Música",NTV FLORIANÓPOLIS ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10867.ts
+#EXTINF:-1 tvg-id="Off" tvg-name="OFF" tvg-logo="http://img.brgo.xyz/img/off.png" group-title="Variedades / Música",OFF
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10589.ts
+#EXTINF:-1 tvg-id="" tvg-name="OFF ALTERNATIVO 2" tvg-logo="" group-title="Canais Alternativos 2",OFF ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25428.ts
+#EXTINF:-1 tvg-id="Off" tvg-name="OFF HD" tvg-logo="http://img.brgo.xyz/img/offhd.png" group-title="Variedades / Música",OFF HD
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10588.ts
+#EXTINF:-1 tvg-id="OFF" tvg-name="OFF HD ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/off.png" group-title="Variedades / Música",OFF HD ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10829.ts
+#EXTINF:-1 tvg-id="" tvg-name="OFF HD ALTERNATIVO 2" tvg-logo="" group-title="Canais Alternativos 2",OFF HD ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25430.ts
+#EXTINF:-1 tvg-id="" tvg-name="Os Cavaleiros dos Zodíaco 24 Horas 1" tvg-logo="" group-title="Kids",Os Cavaleiros dos Zodíaco 24 Horas 1
+http://g5.club-server.co:25461/live/Gotischer/Bruno/21420.ts
+#EXTINF:-1 tvg-id="" tvg-name="Os Cavaleiros Do Zodíaco 24 Horas 2" tvg-logo="" group-title="Kids",Os Cavaleiros Do Zodíaco 24 Horas 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/22942.ts
+#EXTINF:-1 tvg-id="" tvg-name="Os Cavaleiros Do Zodíaco Filmes 24 Horas" tvg-logo="" group-title="Kids",Os Cavaleiros Do Zodíaco Filmes 24 Horas
+http://g5.club-server.co:25461/live/Gotischer/Bruno/22941.ts
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT*" tvg-logo="" group-title="",PARAMOUNT*
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25595.ts
+#EXTINF:-1 tvg-id="Paramount Channel" tvg-name="PARAMOUNT CHANNEL" tvg-logo="http://img.brgo.xyz/img/paramount.png" group-title="Filmes / Séries",PARAMOUNT CHANNEL
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10587.ts
+#EXTINF:-1 tvg-id="Paramount Channel" tvg-name="PARAMOUNT ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/paramount.png" group-title="Filmes / Séries",PARAMOUNT ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10828.ts
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT ALTERNATIVO 2" tvg-logo="" group-title="Canais Alternativos 2",PARAMOUNT ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25424.ts
+#EXTINF:-1 tvg-id="Paramount Channel" tvg-name="PARAMOUNT CHANNEL HD" tvg-logo="http://img.brgo.xyz/img/paramounthd.png" group-title="Filmes / Séries",PARAMOUNT CHANNEL HD
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10586.ts
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT HD ALTERNATIVO" tvg-logo="" group-title="Filmes / Séries",PARAMOUNT HD ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10827.ts
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT HD ALTERNATIVO 2" tvg-logo="" group-title="Canais Alternativos 2",PARAMOUNT HD ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25429.ts
+#EXTINF:-1 tvg-id="Premiere Alternativo" tvg-name="PFC ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/premierefcalternativo.png" group-title="Esportes",PFC ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10826.ts
+#EXTINF:-1 tvg-id="PlayTV" tvg-name="PLAY TV ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/playtv.png" group-title="Variedades / Música",PLAY TV ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10825.ts
+#EXTINF:-1 tvg-id="" tvg-name="PLAY TV ALTERNATIVO 2" tvg-logo="" group-title="Canais Alternativos 2",PLAY TV ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25423.ts
+#EXTINF:-1 tvg-id="" tvg-name="POLISHOP TV ALTERNATIVO 2" tvg-logo="" group-title="Canais Alternativos 2",POLISHOP TV ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25421.ts
+#EXTINF:-1 tvg-id="" tvg-name="Portal Gospel" tvg-logo="http://i.imgur.com/tWqhirq.png" group-title="Religioso",Portal Gospel
+http://g5.club-server.co:25461/live/Gotischer/Bruno/6011.ts
+#EXTINF:-1 tvg-id="Premiere 2" tvg-name="PREMIERE 2" tvg-logo="http://img.brgo.xyz/img/premiere2.png" group-title="Esportes",PREMIERE 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10585.ts
+#EXTINF:-1 tvg-id="Premiere 2" tvg-name="PREMIERE 2 ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/premiere2hd.png" group-title="Esportes",PREMIERE 2 ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10824.ts
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 2 ALTERNATIVO 2" tvg-logo="" group-title="Esportes",PREMIERE 2 ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25420.ts
+#EXTINF:-1 tvg-id="Premiere 2" tvg-name="PREMIERE 2 HD" tvg-logo="http://img.brgo.xyz/img/premiere2hd.png" group-title="Esportes",PREMIERE 2 HD
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10584.ts
+#EXTINF:-1 tvg-id="Premiere 2" tvg-name="PREMIERE 2 HD ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/premiere2hd.png" group-title="Esportes",PREMIERE 2 HD ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10823.ts
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 2 HD ALTERNATIVO 2" tvg-logo="" group-title="Esportes",PREMIERE 2 HD ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25427.ts
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 3*" tvg-logo="" group-title="",PREMIERE 3*
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25592.ts
+#EXTINF:-1 tvg-id="Premiere 3" tvg-name="PREMIERE 3" tvg-logo="http://img.brgo.xyz/img/premiere3.png" group-title="Esportes",PREMIERE 3
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10583.ts
+#EXTINF:-1 tvg-id="Premiere 3" tvg-name="PREMIERE 3 ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/premiere3hd.png" group-title="Esportes",PREMIERE 3 ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10822.ts
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 3 ALTERNATIVO 2" tvg-logo="" group-title="Esportes",PREMIERE 3 ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25419.ts
+#EXTINF:-1 tvg-id="Premiere 3" tvg-name="PREMIERE 3 HD" tvg-logo="http://img.brgo.xyz/img/premiere3hd.png" group-title="Esportes",PREMIERE 3 HD
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10582.ts
+#EXTINF:-1 tvg-id="Premiere 3" tvg-name="PREMIERE 3 HD ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/premiere3hd.png" group-title="Esportes",PREMIERE 3 HD ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10821.ts
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 3 HD ALTERNATIVO 2" tvg-logo="" group-title="Esportes",PREMIERE 3 HD ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25426.ts
+#EXTINF:-1 tvg-id="Premiere 4" tvg-name="PREMIERE 4" tvg-logo="http://img.brgo.xyz/img/premiere4.png" group-title="Esportes",PREMIERE 4
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10581.ts
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 4*" tvg-logo="" group-title="",PREMIERE 4*
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25583.ts
+#EXTINF:-1 tvg-id="Premiere 4" tvg-name="PREMIERE 4 ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/premiere4hd.png" group-title="Esportes",PREMIERE 4 ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10820.ts
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 4 ALTERNATIVO 2" tvg-logo="" group-title="Esportes",PREMIERE 4 ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25418.ts
+#EXTINF:-1 tvg-id="Premiere 4" tvg-name="PREMIERE 4 HD" tvg-logo="http://img.brgo.xyz/img/premiere4hd.png" group-title="Esportes",PREMIERE 4 HD
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10580.ts
+#EXTINF:-1 tvg-id="Premiere 4" tvg-name="PREMIERE 4 HD ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/premiere4hd.png" group-title="Esportes",PREMIERE 4 HD ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10819.ts
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 4 HD ALTERNATIVO 2" tvg-logo="" group-title="Esportes",PREMIERE 4 HD ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25322.ts
+#EXTINF:-1 tvg-id="Premiere 4" tvg-name="PREMIERE 4 HD ALTERNATIVO ALTERNATIVO 2" tvg-logo="http://img.brgo.xyz/img/premiere4.png" group-title="Esportes",PREMIERE 4 HD ALTERNATIVO ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10818.ts
+#EXTINF:-1 tvg-id="Premiere 5" tvg-name="PREMIERE 5" tvg-logo="http://img.brgo.xyz/img/premiere5.png" group-title="Esportes",PREMIERE 5
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10579.ts
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 5*" tvg-logo="" group-title="",PREMIERE 5*
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25591.ts
+#EXTINF:-1 tvg-id="Premiere 5" tvg-name="PREMIERE 5 ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/premiere5hd.png" group-title="Esportes",PREMIERE 5 ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10817.ts
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 5 ALTERNATIVO 2" tvg-logo="" group-title="Esportes",PREMIERE 5 ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25415.ts
+#EXTINF:-1 tvg-id="Premiere 5" tvg-name="PREMIERE 5 HD" tvg-logo="http://img.brgo.xyz/img/premiere5hd.png" group-title="Esportes",PREMIERE 5 HD
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10578.ts
+#EXTINF:-1 tvg-id="Premiere 5" tvg-name="PREMIERE 5 HD ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/premiere5hd.png" group-title="Esportes",PREMIERE 5 HD ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10816.ts
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 5 HD ALTERNATIVO 2" tvg-logo="" group-title="Esportes",PREMIERE 5 HD ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25417.ts
+#EXTINF:-1 tvg-id="Premiere 6" tvg-name="PREMIERE 6" tvg-logo="http://img.brgo.xyz/img/premiere6.png" group-title="Esportes",PREMIERE 6
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10577.ts
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 6*" tvg-logo="" group-title="",PREMIERE 6*
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25582.ts
+#EXTINF:-1 tvg-id="Premiere 6" tvg-name="PREMIERE 6 ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/premiere6.png" group-title="Esportes",PREMIERE 6 ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10815.ts
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 6 ALTERNATIVO 2" tvg-logo="" group-title="Esportes",PREMIERE 6 ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25404.ts
+#EXTINF:-1 tvg-id="Premiere 6" tvg-name="PREMIERE 6 HD" tvg-logo="http://img.brgo.xyz/img/premiere6.png" group-title="Esportes",PREMIERE 6 HD
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10576.ts
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 6 HD ALTERNATIVO 2" tvg-logo="" group-title="Esportes",PREMIERE 6 HD ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25409.ts
+#EXTINF:-1 tvg-id="Premiere 7" tvg-name="PREMIERE 7" tvg-logo="http://img.brgo.xyz/img/premiere7.png" group-title="Esportes",PREMIERE 7
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10575.ts
+#EXTINF:-1 tvg-id="Premiere 7" tvg-name="PREMIERE 7 ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/premiere6.png" group-title="Esportes",PREMIERE 7 ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10814.ts
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 7 ALTERNATIVO 2" tvg-logo="" group-title="Esportes",PREMIERE 7 ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25413.ts
+#EXTINF:-1 tvg-id="Premiere 7" tvg-name="PREMIERE 7 HD" tvg-logo="http://img.brgo.xyz/img/premiere7.png" group-title="Esportes",PREMIERE 7 HD
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10574.ts
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 7 HD ALTERNATIVO 2" tvg-logo="" group-title="Esportes",PREMIERE 7 HD ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25408.ts
+#EXTINF:-1 tvg-id="Premiere 8 Mosaico" tvg-name="PREMIERE 8 ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/premiere8.png" group-title="Esportes",PREMIERE 8 ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10813.ts
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 8 ALTERNATIVO 2" tvg-logo="" group-title="Esportes",PREMIERE 8 ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25414.ts
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 8 HD ALTERNATIVO 2" tvg-logo="" group-title="Esportes",PREMIERE 8 HD ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25407.ts
+#EXTINF:-1 tvg-id="Premiere Alternativo" tvg-name="PREMIERE 9 ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/premiere8.png" group-title="Esportes",PREMIERE 9 ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10812.ts
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 9 ALTERNATIVO 2" tvg-logo="" group-title="Esportes",PREMIERE 9 ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25412.ts
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 9 HD ALTERNATIVO 2" tvg-logo="" group-title="Esportes",PREMIERE 9 HD ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25406.ts
+#EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="Premiere Clubes" tvg-logo="http://img.brgo.xyz/img/premiereclubes.png" group-title="Esportes",Premiere Clubes
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10573.ts
+#EXTINF:-1 tvg-id="Premiere Alternativo" tvg-name="PREMIERE CLUBES ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/premierefcalternativohd.png" group-title="Esportes",PREMIERE CLUBES ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10811.ts
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE Clubes ALTERNATIVO 2" tvg-logo="" group-title="Esportes",PREMIERE Clubes ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25411.ts
+#EXTINF:-1 tvg-id="Premiere Clube" tvg-name="Premiere Clubes HD" tvg-logo="http://img.brgo.xyz/img/premiereclubeshd.png" group-title="Esportes",Premiere Clubes HD
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10572.ts
+#EXTINF:-1 tvg-id="PremiereFC" tvg-name="PREMIERE CLUBES HD ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/premiereclubeshd.png" group-title="Esportes",PREMIERE CLUBES HD ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10810.ts
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE Clubes HD ALTERNATIVO 2" tvg-logo="" group-title="Esportes",PREMIERE Clubes HD ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25405.ts
+#EXTINF:-1 tvg-id="Prime Box Brazil" tvg-name="PRIME BOX BRASIL" tvg-logo="http://img.brgo.xyz/img/primeboxbrasil.png" group-title="Variedades / Música",PRIME BOX BRASIL
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10571.ts
+#EXTINF:-1 tvg-id="" tvg-name="Prime Box Brazil ALTERNATIVO 2" tvg-logo="" group-title="Canais Alternativos 2",Prime Box Brazil ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25410.ts
+#EXTINF:-1 tvg-id="Prime Box Brazil" tvg-name="PRIME BOX BRASIL HD" tvg-logo="http://img.brgo.xyz/img/primeboxbrasil.png" group-title="Filmes / Séries",PRIME BOX BRASIL HD
+http://g5.club-server.co:25461/live/Gotischer/Bruno/11910.ts
+#EXTINF:-1 tvg-id="" tvg-name="RAI ALTERNATIVO 2" tvg-logo="" group-title="Canais Alternativos 2",RAI ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25339.ts
+#EXTINF:-1 tvg-id="" tvg-name="Real Madrid Tv Online" tvg-logo="https://www.realmadrid.com/StaticFiles/RealMadridResponsive/images/header_logo.png" group-title="Esportes",Real Madrid Tv Online
+http://g5.club-server.co:25461/live/Gotischer/Bruno/23782.ts
+#EXTINF:-1 tvg-id="" tvg-name="REAL MADRID TV" tvg-logo="http://i.imgur.com/5jMqNpW.png" group-title="Esportes",REAL MADRID TV
+http://g5.club-server.co:25461/live/Gotischer/Bruno/6013.ts
+#EXTINF:-1 tvg-id="" tvg-name="RBI ALTERNATIVO 2" tvg-logo="" group-title="Canais Alternativos 2",RBI ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25340.ts
+#EXTINF:-1 tvg-id="RBS TV Porto Alegre" tvg-name="RBS TV PORTO ALEGRE ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/rbsportoalegre.png" group-title="Canais Abertos",RBS TV PORTO ALEGRE ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10809.ts
+#EXTINF:-1 tvg-id="" tvg-name="RBS TV PORTO ALEGRE ALTERNATIVO 2" tvg-logo="" group-title="Canais Alternativos 2",RBS TV PORTO ALEGRE ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25391.ts
+#EXTINF:-1 tvg-id="" tvg-name="RCI ALTERNATIVO 2" tvg-logo="" group-title="Canais Alternativos 2",RCI ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25399.ts
+#EXTINF:-1 tvg-id="RecordTV" tvg-name="RECORD" tvg-logo="http://img.brgo.xyz/img/recordnews.png" group-title="Canais Abertos",RECORD
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10570.ts
+#EXTINF:-1 tvg-id="" tvg-name="REDE RECORD*" tvg-logo="" group-title="",REDE RECORD*
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25578.ts
+#EXTINF:-1 tvg-id="RecordTV" tvg-name="RECORD ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/record.png" group-title="Canais Abertos",RECORD ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10808.ts
+#EXTINF:-1 tvg-id="" tvg-name="RECORDTV ALTERNATIVO 2" tvg-logo="" group-title="Canais Alternativos 2",RECORDTV ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25397.ts
+#EXTINF:-1 tvg-id="RecordTV" tvg-name="RECORD HD" tvg-logo="http://img.brgo.xyz/img/record.png" group-title="Canais Abertos",RECORD HD
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10565.ts
+#EXTINF:-1 tvg-id="RecordTV" tvg-name="RECORD HD Alternativo" tvg-logo="http://img.brgo.xyz/img/record.png" group-title="Canais Abertos",RECORD HD Alternativo
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10569.ts
+#EXTINF:-1 tvg-id="Record News" tvg-name="RECORD NEWS" tvg-logo="http://img.brgo.xyz/img/recordnews.png" group-title="Notícias",RECORD NEWS
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10568.ts
+#EXTINF:-1 tvg-id="" tvg-name="RECORD NEWS ALTERNATIVO 2" tvg-logo="" group-title="Canais Alternativos 2",RECORD NEWS ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25398.ts
+#EXTINF:-1 tvg-id="Record News" tvg-name="RECORD NEWS HD" tvg-logo="http://img.brgo.xyz/img/recordnews.png" group-title="Notícias",RECORD NEWS HD
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10567.ts
+#EXTINF:-1 tvg-id="Record News" tvg-name="RECORD NEWS HD ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/recordnews.png" group-title="Notícias",RECORD NEWS HD ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10806.ts
+#EXTINF:-1 tvg-id="RecordTV" tvg-name="RECORD SP" tvg-logo="http://img.brgo.xyz/img/record.png" group-title="Canais Abertos",RECORD SP
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10566.ts
+#EXTINF:-1 tvg-id="Rede Brasil" tvg-name="REDE BRASIL" tvg-logo="http://img.brgo.xyz/img/redebrasil.png" group-title="Canais Abertos",REDE BRASIL
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10564.ts
+#EXTINF:-1 tvg-id="" tvg-name="REDE BRASIL ALTERNATIVO 2" tvg-logo="" group-title="Canais Alternativos 2",REDE BRASIL ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25395.ts
+#EXTINF:-1 tvg-id="" tvg-name="Rede Gênesis" tvg-logo="http://i.imgur.com/c0Yv7h1.png" group-title="Religioso",Rede Gênesis
+http://g5.club-server.co:25461/live/Gotischer/Bruno/6012.ts
+#EXTINF:-1 tvg-id="" tvg-name="REDE SECULO 21" tvg-logo="http://i.imgur.com/m7MQIPJ.png" group-title="Religioso",REDE SECULO 21
+http://g5.club-server.co:25461/live/Gotischer/Bruno/6004.ts
+#EXTINF:-1 tvg-id="RedeTV!" tvg-name="REDE TV" tvg-logo="http://img.brgo.xyz/img/redetv.png" group-title="Canais Abertos",REDE TV
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10563.ts
+#EXTINF:-1 tvg-id="Rede TV" tvg-name="REDE TV ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/redetvalternativo.png" group-title="Canais Abertos",REDE TV ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10805.ts
+#EXTINF:-1 tvg-id="" tvg-name="REDE TV ALTERNATIVO 2" tvg-logo="" group-title="Canais Alternativos 2",REDE TV ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25394.ts
+#EXTINF:-1 tvg-id="RedeTV!" tvg-name="REDE TV HD" tvg-logo="http://img.brgo.xyz/img/redetv.png" group-title="Canais Abertos",REDE TV HD
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10562.ts
+#EXTINF:-1 tvg-id="RedeTV!" tvg-name="REDE TV RJ" tvg-logo="http://i.imgur.com/k4haEx6.png" group-title="Canais Abertos",REDE TV RJ
+http://g5.club-server.co:25461/live/Gotischer/Bruno/4908.ts
+#EXTINF:-1 tvg-id="Rede Vida" tvg-name="REDE VIDA" tvg-logo="http://img.brgo.xyz/img/redevida.png" group-title="Religioso",REDE VIDA
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10561.ts
+#EXTINF:-1 tvg-id="" tvg-name="REDE VIDA ALTERNATIVO 2" tvg-logo="" group-title="Canais Alternativos 2",REDE VIDA ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25393.ts
+#EXTINF:-1 tvg-id="" tvg-name="RIT ALTERNATIVO 2" tvg-logo="" group-title="Canais Alternativos 2",RIT ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25392.ts
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="http://img.brgo.xyz/img/sbt.png" group-title="Canais Abertos",SBT
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10560.ts
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/sbt.png" group-title="Canais Abertos",SBT ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10804.ts
+#EXTINF:-1 tvg-id="" tvg-name="SBT ALTERNATIVO 2" tvg-logo="" group-title="Canais Alternativos 2",SBT ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25389.ts
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT HD" tvg-logo="http://img.brgo.xyz/img/sbt.png" group-title="Canais Abertos",SBT HD
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10559.ts
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT HD ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/sbt.png" group-title="Canais Abertos",SBT HD ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10803.ts
+#EXTINF:-1 tvg-id="" tvg-name="SBT HD ALTERNATIVO 2" tvg-logo="" group-title="Canais Alternativos 2",SBT HD ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25381.ts
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT SP INTERIOR" tvg-logo="http://img.brgo.xyz/img/sbt.png" group-title="Canais Abertos",SBT SP INTERIOR
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10558.ts
+#EXTINF:-1 tvg-id="RIT" tvg-name="SHOW DA FE" tvg-logo="http://i.imgur.com/SmTGQlJ.png" group-title="Religioso",SHOW DA FE
+http://g5.club-server.co:25461/live/Gotischer/Bruno/3886.ts
+#EXTINF:-1 tvg-id="" tvg-name="SIC INTERNACIONAL ALTERNATIVO 2" tvg-logo="" group-title="Canais Alternativos 2",SIC INTERNACIONAL ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25386.ts
+#EXTINF:-1 tvg-id="Space" tvg-name="SPACE" tvg-logo="http://img.brgo.xyz/img/space.png" group-title="Filmes / Séries",SPACE
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10555.ts
+#EXTINF:-1 tvg-id="SPACE" tvg-name="SPACE ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/space.png" group-title="Filmes / Séries",SPACE ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10802.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPACE ALTERNATIVO 2" tvg-logo="" group-title="Canais Alternativos 2",SPACE ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25385.ts
+#EXTINF:-1 tvg-id="Space" tvg-name="SPACE HD" tvg-logo="http://img.brgo.xyz/img/spacehd.png" group-title="Filmes / Séries",SPACE HD
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10554.ts
+#EXTINF:-1 tvg-id="SPACE" tvg-name="SPACE HD ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/spacehd.png" group-title="Filmes / Séries",SPACE HD ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10801.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPACE HD ALTERNATIVO 2" tvg-logo="" group-title="Canais Alternativos 2",SPACE HD ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25402.ts
+#EXTINF:-1 tvg-id="SporTV" tvg-name="SPORTV" tvg-logo="http://img.brgo.xyz/img/sportv.png" group-title="Esportes",SPORTV
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10553.ts
+#EXTINF:-1 tvg-id="SporTV" tvg-name="SPORTV ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/sportv.png" group-title="Esportes",SPORTV ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10800.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV ALTERNATIVO 2" tvg-logo="" group-title="Esportes",SPORTV ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25384.ts
+#EXTINF:-1 tvg-id="SporTV" tvg-name="SPORTV HD" tvg-logo="http://img.brgo.xyz/img/sportvhd.png" group-title="Esportes",SPORTV HD
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10548.ts
+#EXTINF:-1 tvg-id="SporTV" tvg-name="SPORTV HD ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/sportvhd.png" group-title="Esportes",SPORTV HD ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10799.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV HD ALTERNATIVO 2" tvg-logo="" group-title="Esportes",SPORTV HD ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25379.ts
+#EXTINF:-1 tvg-id="SporTV 2" tvg-name="SPORTV 2" tvg-logo="http://img.brgo.xyz/img/sportv2.png" group-title="Esportes",SPORTV 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10552.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV 2*" tvg-logo="" group-title="",SPORTV 2*
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25579.ts
+#EXTINF:-1 tvg-id="SporTV 2" tvg-name="SPORTV 2 ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/sportv2.png" group-title="Esportes",SPORTV 2 ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10798.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV 2 ALTERNATIVO 2" tvg-logo="" group-title="Esportes",SPORTV 2 ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25383.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV 2 ALTERNATIVO 2 /2" tvg-logo="" group-title="Esportes",SPORTV 2 ALTERNATIVO 2 /2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25382.ts
+#EXTINF:-1 tvg-id="SporTV 2" tvg-name="SPORTV 2 HD" tvg-logo="http://img.brgo.xyz/img/sportv2hd.png" group-title="Esportes",SPORTV 2 HD
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10551.ts
+#EXTINF:-1 tvg-id="SporTV 2" tvg-name="SPORTV 2 HD ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/sportv2hd.png" group-title="Esportes",SPORTV 2 HD ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10797.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV 2 HD ALTERNATIVO 2" tvg-logo="" group-title="Esportes",SPORTV 2 HD ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25341.ts
+#EXTINF:-1 tvg-id="SporTV 3" tvg-name="SPORTV 3" tvg-logo="http://img.brgo.xyz/img/sportv3.png" group-title="Esportes",SPORTV 3
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10550.ts
+#EXTINF:-1 tvg-id="SporTV 3" tvg-name="SPORTV 3 ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/sportv3.png" group-title="Esportes",SPORTV 3 ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10796.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV 3 ALTERNATIVO 2" tvg-logo="" group-title="Esportes",SPORTV 3 ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25374.ts
+#EXTINF:-1 tvg-id="SporTV 3" tvg-name="SPORTV 3 HD" tvg-logo="http://img.brgo.xyz/img/sportv3hd.png" group-title="Esportes",SPORTV 3 HD
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10549.ts
+#EXTINF:-1 tvg-id="SporTV 3" tvg-name="SPORTV 3 HD ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/sportv3hd.png" group-title="Esportes",SPORTV 3 HD ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10795.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV 3 HD ALTERNATIVO 2" tvg-logo="" group-title="Esportes",SPORTV 3 HD ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25380.ts
+#EXTINF:-1 tvg-id="Studio Universal" tvg-name="STUDIO UNIVERSAL" tvg-logo="http://img.brgo.xyz/img/studiouniversal.png" group-title="Filmes / Séries",STUDIO UNIVERSAL
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10547.ts
+#EXTINF:-1 tvg-id="Studio Universal" tvg-name="STUDIO UNIVERSAL ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/studiouniversal.png" group-title="Filmes / Séries",STUDIO UNIVERSAL ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10794.ts
+#EXTINF:-1 tvg-id="" tvg-name="STUDIO UNIVERSAL ALTERNATIVO 2" tvg-logo="" group-title="Canais Alternativos 2",STUDIO UNIVERSAL ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25372.ts
+#EXTINF:-1 tvg-id="Studio Universal" tvg-name="STUDIO UNIVERSAL HD" tvg-logo="http://img.brgo.xyz/img/studiouniversalhd.png" group-title="Filmes / Séries",STUDIO UNIVERSAL HD
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10546.ts
+#EXTINF:-1 tvg-id="Studio Universal" tvg-name="STUDIO UNIVERSAL HD ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/studiouniversalhd.png" group-title="Filmes / Séries",STUDIO UNIVERSAL HD ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10793.ts
+#EXTINF:-1 tvg-id="" tvg-name="STUDIO UNIVERSAL HD ALTERNATIVO 2" tvg-logo="" group-title="Canais Alternativos 2",STUDIO UNIVERSAL HD ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25378.ts
+#EXTINF:-1 tvg-id="" tvg-name="SundanceTV" tvg-logo="http://img.brgo.xyz/img/sundancechannel.png" group-title="Filmes / Séries",SundanceTV
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10545.ts
+#EXTINF:-1 tvg-id="" tvg-name="SundanceTV HD" tvg-logo="http://img.brgo.xyz/img/sundancechannel.png" group-title="Filmes / Séries",SundanceTV HD
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10544.ts
+#EXTINF:-1 tvg-id="Syfy" tvg-name="SYFY" tvg-logo="http://img.brgo.xyz/img/syfy.png" group-title="Filmes / Séries",SYFY
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10557.ts
+#EXTINF:-1 tvg-id="SyFy" tvg-name="SYFY ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/syfy.png" group-title="Filmes / Séries",SYFY ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10792.ts
+#EXTINF:-1 tvg-id="" tvg-name="SYFY ALTERNATIVO 2" tvg-logo="" group-title="Canais Alternativos 2",SYFY ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25371.ts
+#EXTINF:-1 tvg-id="Syfy" tvg-name="SYFY HD" tvg-logo="http://img.brgo.xyz/img/syfy.png" group-title="Filmes / Séries",SYFY HD
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10556.ts
+#EXTINF:-1 tvg-id="SyFy" tvg-name="SYFY HD ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/syfy.png" group-title="Filmes / Séries",SYFY HD ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10791.ts
+#EXTINF:-1 tvg-id="TBS" tvg-name="TBS" tvg-logo="http://img.brgo.xyz/img/tbs.png" group-title="Filmes / Séries",TBS
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10543.ts
+#EXTINF:-1 tvg-id="" tvg-name="TBS ALTERNATIVO" tvg-logo="" group-title="Filmes / Séries",TBS ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10790.ts
+#EXTINF:-1 tvg-id="" tvg-name="TBS ALTERNATIVO 2" tvg-logo="" group-title="Canais Alternativos 2",TBS ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25370.ts
+#EXTINF:-1 tvg-id="TBS" tvg-name="TBS HD" tvg-logo="http://img.brgo.xyz/img/tbs.png" group-title="Filmes / Séries",TBS HD
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10542.ts
+#EXTINF:-1 tvg-id="" tvg-name="TBS HD ALTERNATIVO" tvg-logo="" group-title="Filmes / Séries",TBS HD ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10789.ts
+#EXTINF:-1 tvg-id="TCM" tvg-name="TCM" tvg-logo="http://img.brgo.xyz/img/tcm.png" group-title="Filmes / Séries",TCM
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10541.ts
+#EXTINF:-1 tvg-id="" tvg-name="TCM ALTERNATIVO" tvg-logo="" group-title="Filmes / Séries",TCM ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10788.ts
+#EXTINF:-1 tvg-id="" tvg-name="TCM ALTERNATIVO 2" tvg-logo="" group-title="Canais Alternativos 2",TCM ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25369.ts
+#EXTINF:-1 tvg-id="Telecine Action [Brazil]" tvg-name="TELECINE ACTION" tvg-logo="http://img.brgo.xyz/img/telecineaction.png" group-title="Filmes / Séries",TELECINE ACTION
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10540.ts
+#EXTINF:-1 tvg-id="Telecine Action" tvg-name="TELECINE ACTION ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/telecineaction.png" group-title="Filmes / Séries",TELECINE ACTION ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10781.ts
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE ACTION ALTERNATIVO 2" tvg-logo="" group-title="Filmes / Séries",TELECINE ACTION ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25368.ts
+#EXTINF:-1 tvg-id="Telecine Action [Brazil]" tvg-name="TELECINE ACTION HD" tvg-logo="http://img.brgo.xyz/img/telecineactionhd.png" group-title="Filmes / Séries",TELECINE ACTION HD
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10539.ts
+#EXTINF:-1 tvg-id="Telecine Action" tvg-name="TELECINE ACTION HD ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/telecineactionhd.png" group-title="Filmes / Séries",TELECINE ACTION HD ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10780.ts
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE ACTION HD ALTERNATIVO 2" tvg-logo="" group-title="Filmes / Séries",TELECINE ACTION HD ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25377.ts
+#EXTINF:-1 tvg-id="Telecine Cult [Brazil]" tvg-name="TELECINE CULT" tvg-logo="http://img.brgo.xyz/img/telecinecult.png" group-title="Filmes / Séries",TELECINE CULT
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10538.ts
+#EXTINF:-1 tvg-id="Telecine Cult" tvg-name="TELECINE CULT ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/telecinecult.png" group-title="Filmes / Séries",TELECINE CULT ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10779.ts
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE CULT ALTERNATIVO 2" tvg-logo="" group-title="Filmes / Séries",TELECINE CULT ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25367.ts
+#EXTINF:-1 tvg-id="Telecine Cult [Brazil]" tvg-name="TELECINE CULT HD" tvg-logo="http://img.brgo.xyz/img/telecineculthd.png" group-title="Filmes / Séries",TELECINE CULT HD
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10537.ts
+#EXTINF:-1 tvg-id="Telecine Cult" tvg-name="TELECINE CULT HD ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/telecineculthd.png" group-title="Filmes / Séries",TELECINE CULT HD ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10778.ts
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE CULT HD ALTERNATIVO 2" tvg-logo="" group-title="Filmes / Séries",TELECINE CULT HD ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25376.ts
+#EXTINF:-1 tvg-id="Telecine Fun [Brazil]" tvg-name="TELECINE FUN" tvg-logo="http://img.brgo.xyz/img/telecinefun.png" group-title="Filmes / Séries",TELECINE FUN
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10536.ts
+#EXTINF:-1 tvg-id="Telecine Fun" tvg-name="TELECINE FUN *" tvg-logo="http://img.brgo.xyz/img/telecinefun.png" group-title="Filmes / Séries",TELECINE FUN *
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25577.ts
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE FUN*" tvg-logo="" group-title="",TELECINE FUN*
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25594.ts
+#EXTINF:-1 tvg-id="Telecine Fun" tvg-name="TELECINE FUN ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/telecinefun.png" group-title="Filmes / Séries",TELECINE FUN ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10777.ts
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE FUN ALTERNATIVO 2" tvg-logo="" group-title="Filmes / Séries",TELECINE FUN ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25366.ts
+#EXTINF:-1 tvg-id="Telecine Fun [Brazil]" tvg-name="TELECINE FUN HD" tvg-logo="http://img.brgo.xyz/img/telecinefunhd.png" group-title="Filmes / Séries",TELECINE FUN HD
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10535.ts
+#EXTINF:-1 tvg-id="Telecine Fun" tvg-name="TELECINE FUN HD ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/telecinefunhd.png" group-title="Filmes / Séries",TELECINE FUN HD ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10776.ts
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE FUN HD ALTERNATIVO 2" tvg-logo="" group-title="Filmes / Séries",TELECINE FUN HD ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25375.ts
+#EXTINF:-1 tvg-id="Telecine Pipoca [Brazil]" tvg-name="TELECINE PIPOCA" tvg-logo="http://img.brgo.xyz/img/telecinepipoca.png" group-title="Filmes / Séries",TELECINE PIPOCA
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10534.ts
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE PIPOCA*" tvg-logo="" group-title="",TELECINE PIPOCA*
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25584.ts
+#EXTINF:-1 tvg-id="Telecine Pipoca" tvg-name="TELECINE PIPOCA ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/telecinepipoca.png" group-title="Filmes / Séries",TELECINE PIPOCA ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10775.ts
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE PIPOCA ALTERNATIVO 2" tvg-logo="" group-title="Filmes / Séries",TELECINE PIPOCA ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25365.ts
+#EXTINF:-1 tvg-id="Telecine Pipoca [Brazil]" tvg-name="TELECINE PIPOCA HD" tvg-logo="http://img.brgo.xyz/img/telecinepipocahd.png" group-title="Filmes / Séries",TELECINE PIPOCA HD
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10533.ts
+#EXTINF:-1 tvg-id="Telecine Pipoca HD" tvg-name="TELECINE PIPOCA HD ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/telecinepipocahd.png" group-title="Filmes / Séries",TELECINE PIPOCA HD ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10774.ts
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE PIPOCA HD ALTERNATIVO 2" tvg-logo="" group-title="Filmes / Séries",TELECINE PIPOCA HD ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25363.ts
+#EXTINF:-1 tvg-id="Telecine Premium [Brazil]" tvg-name="TELECINE PREMIUM" tvg-logo="http://img.brgo.xyz/img/telecinepremium.png" group-title="Filmes / Séries",TELECINE PREMIUM
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10532.ts
+#EXTINF:-1 tvg-id="Telecine Premium" tvg-name="TELECINE PREMIUM ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/telecinepremium.png" group-title="Filmes / Séries",TELECINE PREMIUM ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10773.ts
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE PREMIUM ALTERNATIVO 2" tvg-logo="" group-title="Filmes / Séries",TELECINE PREMIUM ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25364.ts
+#EXTINF:-1 tvg-id="Telecine Premium" tvg-name="TELECINE PREMIUM HD" tvg-logo="http://img.brgo.xyz/img/telecinepremiumhd.png" group-title="Filmes / Séries",TELECINE PREMIUM HD
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10531.ts
+#EXTINF:-1 tvg-id="Telecine Premium" tvg-name="TELECINE PREMIUM HD ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/telecinepremiumhd.png" group-title="Filmes / Séries",TELECINE PREMIUM HD ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10772.ts
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE PREMIUM HD ALTERNATIVO 2" tvg-logo="" group-title="Filmes / Séries",TELECINE PREMIUM HD ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25362.ts
+#EXTINF:-1 tvg-id="Telecine Touch [Brazil]" tvg-name="TELECINE TOUCH" tvg-logo="http://img.brgo.xyz/img/telecinetouch.png" group-title="Filmes / Séries",TELECINE TOUCH
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10530.ts
+#EXTINF:-1 tvg-id="Telecine Touch" tvg-name="TELECINE TOUCH ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/telecinetouch.png" group-title="Filmes / Séries",TELECINE TOUCH ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10771.ts
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE TOUCH ALTERNATIVO 2" tvg-logo="" group-title="Filmes / Séries",TELECINE TOUCH ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25323.ts
+#EXTINF:-1 tvg-id="Telecine Touch [Brazil]" tvg-name="TELECINE TOUCH HD" tvg-logo="http://img.brgo.xyz/img/telecinetouchhd.png" group-title="Filmes / Séries",TELECINE TOUCH HD
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10529.ts
+#EXTINF:-1 tvg-id="Telecine Touch" tvg-name="TELECINE TOUCH HD ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/telecinetouchhd.png" group-title="Filmes / Séries",TELECINE TOUCH HD ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10770.ts
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE TOUCH HD ALTERNATIVO 2" tvg-logo="" group-title="Filmes / Séries",TELECINE TOUCH HD ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25328.ts
+#EXTINF:-1 tvg-id="Terra Viva" tvg-name="Terra Viva" tvg-logo="http://img.brgo.xyz/img/terraviva.png" group-title="Notícias",Terra Viva
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10528.ts
+#EXTINF:-1 tvg-id="" tvg-name="TERRA VIVA ALTERNATIVO 2" tvg-logo="" group-title="Canais Alternativos 2",TERRA VIVA ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25330.ts
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="http://img.brgo.xyz/img/tlc.png" group-title="Notícias",TLC
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10527.ts
+#EXTINF:-1 tvg-id="" tvg-name="TLC*" tvg-logo="" group-title="",TLC*
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25589.ts
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/tlc.png" group-title="Notícias",TLC ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10787.ts
+#EXTINF:-1 tvg-id="" tvg-name="TLC ALTERNATIVO 2" tvg-logo="" group-title="Canais Alternativos 2",TLC ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25361.ts
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC HD" tvg-logo="http://img.brgo.xyz/img/tlchd.png" group-title="Notícias",TLC HD
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10526.ts
+#EXTINF:-1 tvg-id="" tvg-name="TLC HD ALTERNATIVO" tvg-logo="" group-title="Notícias",TLC HD ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10786.ts
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="http://img.brgo.xyz/img/tnt.png" group-title="Filmes / Séries",TNT
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10525.ts
+#EXTINF:-1 tvg-id="" tvg-name="TNT ALTERNATIVO" tvg-logo="" group-title="Filmes / Séries",TNT ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10785.ts
+#EXTINF:-1 tvg-id="" tvg-name="TNT ALTERNATIVO 2" tvg-logo="" group-title="Canais Alternativos 2",TNT ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25360.ts
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT HD" tvg-logo="http://img.brgo.xyz/img/tnthd.png" group-title="Filmes / Séries",TNT HD
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10524.ts
+#EXTINF:-1 tvg-id="" tvg-name="TNT HD ALTERNATIVO" tvg-logo="" group-title="Filmes / Séries",TNT HD ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10784.ts
+#EXTINF:-1 tvg-id="" tvg-name="TNT HD ALTERNATIVO 2" tvg-logo="" group-title="Canais Alternativos 2",TNT HD ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25358.ts
+#EXTINF:-1 tvg-id="TNT Series" tvg-name="TNT SERIES" tvg-logo="http://img.brgo.xyz/img/tntseries.png" group-title="Filmes / Séries",TNT SERIES
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10523.ts
+#EXTINF:-1 tvg-id="" tvg-name="TNT SÉRIES ALTERNATIVO" tvg-logo="" group-title="Filmes / Séries",TNT SÉRIES ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10783.ts
+#EXTINF:-1 tvg-id="" tvg-name="TNT SERIES ALTERNATIVO 2" tvg-logo="" group-title="Canais Alternativos 2",TNT SERIES ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25359.ts
+#EXTINF:-1 tvg-id="TNT Series" tvg-name="TNT SERIES HD" tvg-logo="http://img.brgo.xyz/img/tntserieshd.png" group-title="Filmes / Séries",TNT SERIES HD
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10522.ts
+#EXTINF:-1 tvg-id="" tvg-name="TNT SÉRIES HD ALTERNATIVO" tvg-logo="" group-title="Filmes / Séries",TNT SÉRIES HD ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10782.ts
+#EXTINF:-1 tvg-id="" tvg-name="TNT SERIES HD ALTERNATIVO 2" tvg-logo="" group-title="Canais Alternativos 2",TNT SERIES HD ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25357.ts
+#EXTINF:-1 tvg-id="Tooncast" tvg-name="TOONCAST" tvg-logo="http://img.brgo.xyz/img/tooncast.png" group-title="Kids",TOONCAST
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10521.ts
+#EXTINF:-1 tvg-id="Tooncast" tvg-name="TOONCAST ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/tooncast.png" group-title="Kids",TOONCAST ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10769.ts
+#EXTINF:-1 tvg-id="" tvg-name="TOONCAST ALTERNATIVO 2" tvg-logo="" group-title="Canais Alternativos 2",TOONCAST ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25326.ts
+#EXTINF:-1 tvg-id="" tvg-name="TruTV" tvg-logo="" group-title="Canais Abertos",TruTV
+http://g5.club-server.co:25461/live/Gotischer/Bruno/24205.ts
+#EXTINF:-1 tvg-id="" tvg-name="TRUTV ALTERNATIVO 2" tvg-logo="" group-title="Canais Alternativos 2",TRUTV ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25325.ts
+#EXTINF:-1 tvg-id="" tvg-name="TruTV HD" tvg-logo="" group-title="Variedades / Música",TruTV HD
+http://g5.club-server.co:25461/live/Gotischer/Bruno/24204.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV APARECIDA" tvg-logo="http://img.brgo.xyz/img/aparecida.png" group-title="Religioso",TV APARECIDA
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10520.ts
+#EXTINF:-1 tvg-id="TV Aparecida" tvg-name="TV APARECIDA ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/aparecida.png" group-title="Religioso",TV APARECIDA ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10768.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV APARECIDA ALTERNATIVO 2" tvg-logo="" group-title="Canais Alternativos 2",TV APARECIDA ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25555.ts
+#EXTINF:-1 tvg-id="TV Brasil" tvg-name="TV BRASIL" tvg-logo="http://img.brgo.xyz/img/tvbrasil.png" group-title="Notícias",TV BRASIL
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10519.ts
+#EXTINF:-1 tvg-id="TV Câmara" tvg-name="TV Câmara" tvg-logo="http://img.brgo.xyz/img/tvcamara.png" group-title="Notícias",TV Câmara
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10518.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV CAMARA ALTERNATIVO 2" tvg-logo="" group-title="Canais Alternativos 2",TV CAMARA ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25354.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV CULTURA ALTERNATIVO 2" tvg-logo="" group-title="Canais Alternativos 2",TV CULTURA ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25352.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV Cultura BA" tvg-logo="" group-title="Canais Abertos",TV Cultura BA
+http://g5.club-server.co:25461/live/Gotischer/Bruno/24208.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV Cultura GO" tvg-logo="" group-title="Canais Abertos",TV Cultura GO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/24210.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV Cultura MG" tvg-logo="" group-title="Canais Abertos",TV Cultura MG
+http://g5.club-server.co:25461/live/Gotischer/Bruno/24211.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV Cultura PA" tvg-logo="" group-title="Canais Abertos",TV Cultura PA
+http://g5.club-server.co:25461/live/Gotischer/Bruno/24209.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV Cultura PB HD" tvg-logo="" group-title="Canais Abertos",TV Cultura PB HD
+http://g5.club-server.co:25461/live/Gotischer/Bruno/24206.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV CULTURA PE" tvg-logo="" group-title="Canais Abertos",TV CULTURA PE
+http://g5.club-server.co:25461/live/Gotischer/Bruno/24212.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV Cultura PR" tvg-logo="" group-title="Canais Abertos",TV Cultura PR
+http://g5.club-server.co:25461/live/Gotischer/Bruno/24207.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV DIARIO" tvg-logo="https://www.google.com.br/imgres?imgurl=http%3A%2F%2Ftvdiario.verdesmares.com.br%2Fimg%2Ftvdiario%2Ftvdiario-comp3.png&imgrefurl=http%3A%2F%2Ftvdiario.verdesmares.com.br%2Fao-vivo&docid=KGO5QT1JL2-CBM&tbnid=TPapizPuWTqOqM%3A&vet=10ahUKEwid3Y_D1vnZAhUHf5AKHcjwA_AQMwg2KAAwAA..i&w=600&h=600&bih=588&biw=1366&q=tv%20diario%20ceara%20ceara&ved=0ahUKEwid3Y_D1vnZAhUHf5AKHcjwA_AQMwg2KAAwAA&iact=mrc&uact=8" group-title="Canais Abertos",TV DIARIO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/23785.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV Escola" tvg-logo="http://img.brgo.xyz/img/tvescola.png" group-title="Notícias",TV Escola
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10517.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV ESCOLA ALTERNATIVO 2" tvg-logo="" group-title="Canais Alternativos 2",TV ESCOLA ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25351.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV EVANGELIZAR" tvg-logo="" group-title="Religioso",TV EVANGELIZAR
+http://g5.club-server.co:25461/live/Gotischer/Bruno/23786.ts
+#EXTINF:-1 tvg-id="TV Gazeta" tvg-name="TV GAZETA SP HD" tvg-logo="http://img.brgo.xyz/img/tvgazeta.png" group-title="Variedades / Música",TV GAZETA SP HD
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10516.ts
+#EXTINF:-1 tvg-id="TV Gazeta" tvg-name="TV GAZETA ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/tvgazeta.png" group-title="Variedades / Música",TV GAZETA ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10767.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV JUSTIÇA ALTERNATIVO 2" tvg-logo="" group-title="Canais Alternativos 2",TV JUSTIÇA ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25350.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV MUNDIAL" tvg-logo="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxMTEhUTExMWFhUXGSIbGRcYGRofIBsiIBogICAgHR0eIDQlJCAxIB0dJTIqKCstLzAvIyI1Pz8uNzQuMC4BCgoKDg0OGxAQGzclFx43LS83NzcrODcrLSs3NzU3Ny8tNzc1MjU3Ny82NTAvLy8vMi0rLjAvKzc3KzctMzcuK//AABEIAI8A3AMBIgACEQEDEQH/xAAcAAEAAgIDAQAAAAAAAAAAAAAABQYEBwEDCAL/xABCEAACAQIFAgQEAwUFBQkAAAABAgMAEQQFEiExBkETIlFhBzJxgUKRoRQjUrHBFWJy0fAIJCZz4SUzNENUgpKy8f/EABkBAQADAQEAAAAAAAAAAAAAAAABAwQCBf/EACYRAAICAQQBBAIDAAAAAAAAAAABAgMRBBIhMWEFEyJBUYEUMlL/2gAMAwEAAhEDEQA/AN40pSgFKUoBSlKAUpSgFKUoBXw7gC5IA9TUdmebLGGsRdRdib2UAXJPr9B+lUuTqGXESr4TxPHddZLEMAwuCFPF+wA45IoC7T5xEvBLf4Rf9eKj36pTUVEbEi1xe1r8e1dRwutd3K+6bX9r7n8jUa+WIi3ZkTTvbUdIvuSb7UBKjq1LkGJ9udJU2+u4rKw3U+Few8UITtaS6/bzbVWcZlMZKsR5ux4LfcHetddWLi4md8K2qMDdNSSKtl3Njuo2vzQHoMG9fVebekPiXicOdDkEDlDfSfUBfwnv5bXtxW8uk+rIMfHqiNmtdkJ3HuPUX/62qXFojJYKUpUEilKUApSlAKUpQClKUApSlAKUpQClKUApSlAcVVOsOqv2crh4V8TESWAF7KgJsGkbsD27n25qcz3NEw2Hlnf5Y1Jt6nsB7k2H3rU3QWGlxuIkxEwhcOxdxIbkGx06Y+6qGsurbnvXcI8OTOZS5wffUWZfsYSJmOImmcBiL6lIsbKL6VADcA8n7125B4GGdf3pjVideoIVYqtt9ZJ8oIXa1vLe53rp6l6U8GSXFT43xnGlRFpVCkZZQCu+1jYiw7H5t67JcuDPNGnhTK6B1dXtpFiRpHym5sQQfqD2zaibjJY6LqoJryTxyWOY3XFwqns1yt/a9v6Vg53icJhIkTBsskqa11FtQXWfMz+pJ4HFr1zjMuEUYGviO8Z+YkAenPa23F6q/wDZlkLupubmSQkAAcLc/fj6VVVY5dI41CcOmdfSmXviMRK80qyLpYv4jrqJ/iVR8oHcgdvyi5el1mw0s0A1BLhWVZFdrfMAjG5U6uffjtX3mRXCokqEajcK6HuNjYj0vvf353qoTSsSLM2xuPz5+u1ejp9O5LczJGxY5OqTDNFZ2W6K2gqWF7lbkDuNjzbYkVlYLNp8J4EsbFJFZrH1Fwd/e5bn+VR2KZnuWJPmJNz3PO/rtUx1EbYbCoWQtpL6VKtpDXG5HDbce1X2V4wWxZ6J6C6vjzGDWpAlW3iJ6X4I9jv9CCO1WmvJPQ3U75fi4p1JKX0yr6oTuPqOfqK9YwSq6q6kMrAFSO4IuDWSccMsTO2lKVySKUpQClKUApSlAKUpQClKUApSlAKUpQGq/jfmR0YfCrw7eJJ/hWyr+rfpWb8OMHAuC/aVjRnBIYqNxpABH1/Ftb6VTvi9KzZgQWWyIirvc/xHbt83eprpDqTBRYHSWCtIdLxgsSCqBQwH4bgai3e35a3B+0kihS+byZ/VHVWEWB4SxTEyRspa5k8EngSNyLht9ANvN6VRMs6laNiqMDCu5RBYEG7BNRGvTG5cKO6sDUZnmIYsVlVQgY7jfUSTvcHe4NueKs/wu6UwuKEjTMCDtHFqN1Nzdj2vsLDe4uaizTw9vLCtluwjO6qzFosM0MaSDxSskci9lckurH6A/L/nUZiekf2GBJ8RifM9mTDIJD4pA16SQDpPy7kbb71b+q8hwyNojkUPHF4rRuHJKRkEkODYH2539KruIzbThzaQmKVdEJ1bXdSNKAAaFUmx25ABNUUSdUNuPsm15ll/ohsE82PM/wC6URs4laOKxI84BIDHbykfkNhc1Ucyy94XZHDLbezqVJHsDyP6CrHgpJcvkinIUhwyldidiL7HbmxB3FYfUuf+NNFPh1ZJjGBKQLlpLndeewXit8cxfx/qzOll5zyVN6x5BUrfWC0sgW17Dy3Y/NYi9xe/JuKmuo8twcMUUsJcuXBFjqQpbcFrbSBgbiw52FgCZlJZwWxTK7lZK3QBSWZQdQ2A3ufY16J+DebGbLxGzXbDuYr+qjdT+W32rzdJPxpUC24/i53ue9bm+AeJCyYmAEEFVlAHbta/rvb7VjuiXRZuelKVQdilKUApSlAKUpQClKUApSlAKUpQHFa9+KvX/wDZ6CKCxxLjULi4RbkaiPexArYLVpfrHpNJGeZlu7ckn03Jqi23Zg0aer3G/BWcH1FBjcPM2YBvGeYETxKuryxKgBTggXvby333rKlwOWsFcYhAx2HhBlHYXdHF4z3vdgd/a9FzLGCItHEW8ItqKkg7gWBBt7/yruhANnW5VhcDcW9vex297e9elppKceG8mLUwdc2mi2YjIMDG3hy4hlcchdLWv/hNrgC9vcDsay8rweGgvL+1YpUuAFgAV3LXAud0Fhr9beu9VuPCmM67K6A2G55I524233tWSInbfdwOSxI0W2sN7AD24A/O9rjsoT8GBmuILP4gD6SxGqQ6jsSbFrbkC16w1gdtTaJCFHzBW237m2wqbGFWP93JKWjawdYFLEb3upayH0vfvVnfrubEf7rhrxRXCprIuRwfFfe477evtajb6SCSfZgZXnOHxGG/3uEyNEmkSL4h0ajfW4XYXPlvvuRcCpCPpxMOEK3JI8TVdGVQunUokUWOq5UMOeNOxFMqJw7SiecIZXsFjVNOIdd2QyDiPzre+nUCAOKy+qszWGSLDoqBUsTpjIQmw2SMcLq3tffbfmsV8sRwuizasZZxNgBGqeJDGssl3XVa4FtiduwJsGO9U/qPCeIV1alIBva9t2vqVG+Xffgc1YMTnB8SOdlUabAg30yecDTZhYMFbe+2w4N6iM5kSV5ZGmBGsqoUG2m5sd9wg7A/es0JOPKZGeCk5jgnhYK34hcEfiB4NS/w/wCrHy3FeKqhlYaJFN911A+U9jt713ZxmHhxIkkSs+/O++kAb82HNvWvjpnJIsR/EX5YdgO9u9WW6j4cmzTUub8HqHKcxjxESTRMGjcXU/67g7Vm1R/hzlJwqmJSdBBa19gbjcenJq8VxXPdHIshslg5pSldnApSlAKUpQClKUApSlAKUpQHzeq11Nhla6HbUpAPub7fpVmqtdX4Qyro7W5+9Z9Ss1l+meLFyeaep8raGRlcWsa5yiYeAFKgkPcHe9v7vpV6zHoySZzqOlL29WP+VT+QdF4bDebR/wC47n6feo02q9pcrk06rT+7LhmuHc3IKyso58MEagdyp1Wt78i/asKTNntoJdAdtz+hI7VtMPDFODKLRWJFuC1xbWfTn9Kq/UOSRYl3OHYFnubdgfW/pV0fUZ7llLBS/TobeG8lcy3HNGRZjp4I529geR7d/Wpl5cMAp8bzILqFj0keYm1ydiCebn+lRWJwE+HQOjxlA2i+gMGKjc+e9SWX9RxeEUmhRZAfMVBsQeCAE259ftW6GphbLEezDPTWVrMjETH4djFG3mRXu92ABvsbtbYbJv7N61LZ8hZWnFwy+WRGfUUIW3Pra386rmcY7xWtEqlRtrK/Ntbggb+9ZuGyTFkOjsjKSrSX+ZbKdJ+m9j9vSs+qtq6z8kW1aWc11wziLP0eIROJmAIIVFW3AVjuebXtttvzfbNxGaYZ5X8JWUMy6VxAv5rg3Bta/O3v3qy9N4LCQxOJJRqYfMLXU9rDk/1qRynKop4/3qKCy8W5+1ecr/Bsfp8Ean6tW8sYJJsDcnknVuaufwpycmUynZFU7/avvOfh2pYyRswa/DeYfrvUv0pkkykK1xpN7AkqfeuZy3RSRoqhsTybdyiMCMEC1x/Las6sbL/+7XttWTW2CxFHmTeZM5pSldnIpSlAKUpQClKUApSlAKUpQHFYeYJtqtxzWZSuJR3LBKeGVDE5gIbiwIO97fr/AK4+lQGc5krWOsm/Ci5J9gBzV8zLLI5FN0Hvbb+VQWHy3Dwi6RLb6m/0JO/P9Kwzrknhm+u2D+uSnS5dNL8w0KewAJ/Pgfb866+oI0ESxRWQlbE971csRmivGTHpFtvce1UvExftTmKHzODZm/CnszevsN6qNMW3y+Cu5pnivCkHg6RGoXTbYWG51e/N6qUmKCzFmRwukKGU6TfkE+29bBxWWYfCzoZbzBDqfbYmxsNP8N7Xvcn6bVVuosZDJKXsBqYb9v8AXvV1VrhLcuyLKlZHa+jByjELYF0JIJO+999j71cJc2Wd4njXS0YId7WDL2UjuQawspkwhw8kLr5jujfiVxx+fHpapXDdON4fixHWo+ZPxC3p/EPyP1quctzb/JZGKikvwSuNyuN1jeIASAb+W4P1r5Ezx2Eg0b7OPl+l+33rO6dxi7eEwI4I9PUEevt2qzyTwOfDZATbcD0965jHJxObiYODzRVUB7OT25qVwGlvMABq2AH61h4XprDiQFVKtv5Qxtbjj/KrRBhET5VHpetdVTMNtsX0dsK2AFdlKVqMgpSlSBSlKAUpSgFKUoBSlKAUpSgFKUoDisXF4FJAQw57jmsqlQ0msMJtPKKfiemIQ7ambSdzc8/kBXGMkhgh0wIqqOAAAP0qy4/BCUWJIPYioXC9IRgsZJHkUm+i9l+9tz+dY50Sz8ejbXfHGZt8fRqnOR48oEepnbYj/rUfispVNIkTW2sE6fwoAdX/AO1vh8jhPYgWtpViB9rcfasjC5ZFHfRGAW2J5J9iTua5jpZZ5Zc9dDHCPP8ANlTLeSMExjgjlR71cOkMeqBQra78j0rYR6aw4voUpfchePyNx9q65OlcOwGxDj5ZFspH5CxH1BqP4syXra2umRuJyLDTN4qjw5jyw2J+tufvesjKOmlUlyzG7XPG/wB6+sF0y6OWbEF7n+CxA9Pmt97VY40AAA7VdXV/pGSy76i+D5hhVflAFd1KVpMwpSlSBSlKAUpSgFKUoBSlKAUpSgFKUoCA66zAwZfi5VYqywtpINiGK2BB9bkVH/C3qf8Ab8vikY3lT93L6llA833Fm+5ro+Lkn+4CH/1GIhi/OUMf0U1Tsl/7Hz98N8uFx28Y7KxJ0j7NqT6MtAWz4wdUnA4BvDYrPMfDjINiv8TA9rDv6kVUPinn2IiwWAxmGxM0bYhFLgSHSbxKQdJ2B+nrWT1hhf7RhzTGneHDxNBhtuTGweaQfVl0AjsDVN60xni5BlLfwO6H203A/QCgPRWBwwjjVAztYfM7FmPuWNa7ZpVzuXD/ALTiPATCeOIzM9tV9PPNu9r/AOVbLQ7CtaYs/wDEGKPplpv/APOgML4R/Ek4gLgsaxGIt+6kb/zVtsCT+P3/ABfXm/8AV8JOEnZZJI3jid1aN2UghCRxzxwa1tg+hEzPI8E6EJioov3UnqA7eRj6X4P4T9793SvXUksGJy3MAUxscUigtt4tkO3+O2/94b0Bg9QY/ExZBhscmLxIxDlSzmViDrvcaeLcWsKtuT9KSzYWGb+08wWSSJXJ8VSoLKCfKU4v2qn9ZD/hTCfSL+tbY6Q/8Dhf+RH/APQUBrp+sMflWMjwuZus+Gm2jxQXSw4BJC+lxqHO9wTXGWYmduopcEcViDho08RY/FbnQjWJ5K3Y7X9K7f8AaLjU4CEn5xOAv3Rr1GdHoy9Ssr/OMHGG+ow8N/1oCy/GfqebCYaNMMWEztrut7rHGQWJ9rlR9Cat2VYxMdg4pVLKsyK3kZlKnuAym+xuPtWu/wC1o8Tjswmlw2LnhMZwUTQQPIunfxTqXa5f9BT4C5sypiMul1B8O5ZFddLaSbMCp3Fm3t/eoDn4LZjiMVJi2xOJnl8BwqBpDp/FckDk7Dmtt1p3/Z8+fMf+av8AN63FQClKUApSlAKUpQClKUApSlAKUpQFI69y/Ezz4HwsO0kUGIWaVg8S308BQzgk7n0r4+KfRzZlhU8IacTEwaMkgEXtqUt29du6ir1SgK+vTyRZa2CiW6iBowNhqJQgk9rliT961rk3w9xcuUvluKgMUiymWCbXGyA24YK+oX8w2B5v2rdVKAoeQ5xmsMCQ4jLHlljXSJI54NMltgTqcFb1zl+RYpBjMZPGJMZik0LDEy2iQKQqa3IBPGo+vAq90oCofDHA4jD4CLDYmBoniBF9cbK12JFijE9+4rD+Jnw+jzGPxI7R4uMfu5ONX9xz6eh7fmKvdKA1P1X0vjZskwmAiw5aZVj8T95EAmlTcXL7m/pt71P9P5nmEGFhhkyqUvHGqXSfDaW0i17mQEXt6VeaUBQH6YxOYYqHE5iqRw4c6ocGja7tt5pX2UnYbDb9b1vHZFmq5ti8wgwRIlhMcV5oQVJjVQxGvgFb2+lbjpQFd6Byo4XAQQNGY3RfOCVN3O7G6kggsTVP6i6ZxsOdx5lgcP4qMgE6+JGmrYqwGphvpCt6ahW0qUBpr4dZRm2WPiS2XeKs7BrLiIFKkFvVrH5v0rY3TmLxkrzPisN+zJ5VijMiSE2uWYlDYXuBb2qfpQClKUApSlAKUpQH/9k=" group-title="Religioso",TV MUNDIAL
+http://g5.club-server.co:25461/live/Gotischer/Bruno/3885.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV NOVO TEMPO ALTERNATIVO 2" tvg-logo="" group-title="Canais Alternativos 2",TV NOVO TEMPO ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25348.ts
+#EXTINF:-1 tvg-id="TV Rá-Tim-Bum" tvg-name="TV RA TIM BUM" tvg-logo="http://img.brgo.xyz/img/tvratimbum.png" group-title="Kids",TV RA TIM BUM
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10515.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV RA TIM BUM ALTERNATIVO 2" tvg-logo="" group-title="Canais Alternativos 2",TV RA TIM BUM ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25347.ts
+#EXTINF:-1 tvg-id="TV Rá-Tim-Bum" tvg-name="TV RA TIM BUM HD" tvg-logo="http://img.brgo.xyz/img/tvratimbum.png" group-title="Kids",TV RA TIM BUM HD
+http://g5.club-server.co:25461/live/Gotischer/Bruno/11909.ts
+#EXTINF:-1 tvg-id="TV Senado" tvg-name="TV SENADO" tvg-logo="http://img.brgo.xyz/img/tvsenado.png" group-title="Notícias",TV SENADO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10514.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV SENADO ALTERNATIVO 2" tvg-logo="" group-title="Canais Alternativos 2",TV SENADO ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25346.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV Terceiro Anjo" tvg-logo="http://i.imgur.com/zW83GGD.png" group-title="Religioso",TV Terceiro Anjo
+http://g5.club-server.co:25461/live/Gotischer/Bruno/6010.ts
+#EXTINF:-1 tvg-id="TV Tribuna Santos" tvg-name="TV TRIBUNA SANTOS ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/tvtribunasantos.png" group-title="Canais Abertos",TV TRIBUNA SANTOS ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10766.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV TRIBUNA SANTOS ALTERNATIVO 2" tvg-logo="" group-title="Canais Alternativos 2",TV TRIBUNA SANTOS ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25401.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV5 MONDE ALTERNATIVO 2" tvg-logo="" group-title="Canais Alternativos 2",TV5 MONDE ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25343.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVE ALTERNATIVO 2" tvg-logo="" group-title="Canais Alternativos 2",TVE ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25342.ts
+#EXTINF:-1 tvg-id="Universal" tvg-name="UNIVERSAL CHANNEL" tvg-logo="http://img.brgo.xyz/img/universalchannel.png" group-title="Filmes / Séries",UNIVERSAL CHANNEL
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10513.ts
+#EXTINF:-1 tvg-id="Universal Channel" tvg-name="UNIVERSAL CHANNEL ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/universalchannel.png" group-title="Filmes / Séries",UNIVERSAL CHANNEL ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10765.ts
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL CHANNEL ALTERNATIVO 2" tvg-logo="" group-title="Canais Alternativos 2",UNIVERSAL CHANNEL ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25334.ts
+#EXTINF:-1 tvg-id="Universal Channel" tvg-name="UNIVERSAL CHANNEL HD" tvg-logo="http://img.brgo.xyz/img/studiouniversalhd.png" group-title="Filmes / Séries",UNIVERSAL CHANNEL HD
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10512.ts
+#EXTINF:-1 tvg-id="Universal Channel" tvg-name="UNIVERSAL CHANNEL HD ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/universalchannelhd.png" group-title="Filmes / Séries",UNIVERSAL CHANNEL HD ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10764.ts
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL CHANNEL HD ALTERNATIVO 2" tvg-logo="" group-title="Canais Alternativos 2",UNIVERSAL CHANNEL HD ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25336.ts
+#EXTINF:-1 tvg-id="" tvg-name="Vem & Vê TV 3" tvg-logo="http://i.imgur.com/wxqkMUE.png" group-title="Religioso",Vem & Vê TV 3
+http://g5.club-server.co:25461/live/Gotischer/Bruno/6009.ts
+#EXTINF:-1 tvg-id="" tvg-name="Vem & Vê TV 2" tvg-logo="http://srv-vvtv.sisdera.com:1935/live/mp4:vvtv022/playlist.m3u8" group-title="Religioso",Vem & Vê TV 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/6008.ts
+#EXTINF:-1 tvg-id="" tvg-name="Vem & Vê TV 1" tvg-logo="http://i.imgur.com/wxqkMUE.png" group-title="Religioso",Vem & Vê TV 1
+http://g5.club-server.co:25461/live/Gotischer/Bruno/6007.ts
+#EXTINF:-1 tvg-id="Viva" tvg-name="VIVA" tvg-logo="http://img.brgo.xyz/img/viva.png" group-title="Variedades / Música",VIVA
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10509.ts
+#EXTINF:-1 tvg-id="Viva" tvg-name="VIVA ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/viva.png" group-title="Variedades / Música",VIVA ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10762.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIVA ALTERNATIVO 2" tvg-logo="" group-title="Canais Alternativos 2",VIVA ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25331.ts
+#EXTINF:-1 tvg-id="Viva" tvg-name="VIVA HD" tvg-logo="http://img.brgo.xyz/img/viva.png" group-title="Variedades / Música",VIVA HD
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10508.ts
+#EXTINF:-1 tvg-id="Viva" tvg-name="VIVA HD ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/vivahd.png" group-title="Variedades / Música",VIVA HD ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10761.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIVA HD ALTERNATIVO 2" tvg-logo="" group-title="Canais Alternativos 2",VIVA HD ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25335.ts
+#EXTINF:-1 tvg-id="VH1 Mega Hits" tvg-name="VH1" tvg-logo="http://img.brgo.xyz/img/vh1megahits.png" group-title="Variedades / Música",VH1
+http://g5.club-server.co:25461/live/Gotischer/Bruno/11911.ts
+#EXTINF:-1 tvg-id="VH1 MegaHits" tvg-name="VH1 MEGA HITS" tvg-logo="http://img.brgo.xyz/img/vh1megahits.png" group-title="Variedades / Música",VH1 MEGA HITS
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10510.ts
+#EXTINF:-1 tvg-id="VH1 HD" tvg-name="VH1 ALTERNATIVO" tvg-logo="http://img.brgo.xyz/img/vh1hd.png" group-title="Variedades / Música",VH1 ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10763.ts
+#EXTINF:-1 tvg-id="" tvg-name="VH1 MEGAHITS ALTERNATIVO 2" tvg-logo="" group-title="Canais Alternativos 2",VH1 MEGAHITS ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25332.ts
+#EXTINF:-1 tvg-id="VH1 MegaHits" tvg-name="VH1 HD" tvg-logo="http://img.brgo.xyz/img/vh1hd.png" group-title="Variedades / Música",VH1 HD
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10511.ts
+#EXTINF:-1 tvg-id="Warner Channel" tvg-name="WARNER CHANNEL" tvg-logo="http://img.brgo.xyz/img/warnerchannel.png" group-title="Filmes / Séries",WARNER CHANNEL
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10507.ts
+#EXTINF:-1 tvg-id="" tvg-name="WARNER CHANNEL ALTERNATIVO" tvg-logo="" group-title="Filmes / Séries",WARNER CHANNEL ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10760.ts
+#EXTINF:-1 tvg-id="" tvg-name="WARNER CHANNEL ALTERNATIVO 2" tvg-logo="" group-title="Filmes / Séries",WARNER CHANNEL ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25333.ts
+#EXTINF:-1 tvg-id="Warner Channel" tvg-name="WARNER CHANNEL HD" tvg-logo="http://img.brgo.xyz/img/warnerchannelhd.png" group-title="Filmes / Séries",WARNER CHANNEL HD
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10506.ts
+#EXTINF:-1 tvg-id="" tvg-name="WARNER CHANNEL HD ALTERNATIVO" tvg-logo="" group-title="Filmes / Séries",WARNER CHANNEL HD ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10759.ts
+#EXTINF:-1 tvg-id="" tvg-name="WARNER CHANNEL HD ALTERNATIVO 2" tvg-logo="" group-title="Filmes / Séries",WARNER CHANNEL HD ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25324.ts
+#EXTINF:-1 tvg-id="Woohoo" tvg-name="WOOHOO" tvg-logo="http://img.brgo.xyz/img/woohoo.png" group-title="Variedades / Música",WOOHOO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10505.ts
+#EXTINF:-1 tvg-id="" tvg-name="WOOHOO ALTERNATIVO" tvg-logo="" group-title="Variedades / Música",WOOHOO ALTERNATIVO
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10758.ts
+#EXTINF:-1 tvg-id="" tvg-name="WOOHOO ALTERNATIVO 2" tvg-logo="" group-title="Canais Alternativos 2",WOOHOO ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25338.ts
+#EXTINF:-1 tvg-id="WooHoo" tvg-name="WOOHOO HD" tvg-logo="http://img.brgo.xyz/img/woohoo.png" group-title="Variedades / Música",WOOHOO HD
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10504.ts
+#EXTINF:-1 tvg-id="" tvg-name="WOOHOO HD ALTERNATIVO 2" tvg-logo="" group-title="Canais Alternativos 2",WOOHOO HD ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25337.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX - BRAZZERS TV SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNNhmQySJDGtLwfK2vnEJ_rcQrEyx6cG9fGU_mw61G7jeBbqIPvQ" group-title="Canais Adultos",XXX - BRAZZERS TV SD
+http://g5.club-server.co:25461/live/Gotischer/Bruno/18104.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX -  CENTOXCENTO TV SD" tvg-logo="" group-title="Canais Adultos",XXX -  CENTOXCENTO TV SD
+http://g5.club-server.co:25461/live/Gotischer/Bruno/18103.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX - DORCEL" tvg-logo="http://freezone.space/Dorcel%20X.png" group-title="Canais Adultos",XXX - DORCEL
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10498.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX - DUSK" tvg-logo="" group-title="Canais Adultos",XXX - DUSK
+http://g5.club-server.co:25461/live/Gotischer/Bruno/18102.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX - EROTIC 1" tvg-logo="" group-title="Canais Adultos",XXX - EROTIC 1
+http://g5.club-server.co:25461/live/Gotischer/Bruno/18101.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX - EROTIC 2" tvg-logo="" group-title="Canais Adultos",XXX - EROTIC 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/18100.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX - EROTIC 4" tvg-logo="" group-title="Canais Adultos",XXX - EROTIC 4
+http://g5.club-server.co:25461/live/Gotischer/Bruno/18099.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX - EROTIC 6" tvg-logo="" group-title="Canais Adultos",XXX - EROTIC 6
+http://g5.club-server.co:25461/live/Gotischer/Bruno/18098.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX - EROTIC 7" tvg-logo="" group-title="Canais Adultos",XXX - EROTIC 7
+http://g5.club-server.co:25461/live/Gotischer/Bruno/18097.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX - EROTIC 8" tvg-logo="" group-title="Canais Adultos",XXX - EROTIC 8
+http://g5.club-server.co:25461/live/Gotischer/Bruno/18096.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX - EROXXX" tvg-logo="" group-title="Canais Adultos",XXX - EROXXX
+http://g5.club-server.co:25461/live/Gotischer/Bruno/18095.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX - EROTIC SD" tvg-logo="" group-title="Canais Adultos",XXX - EROTIC SD
+http://g5.club-server.co:25461/live/Gotischer/Bruno/18111.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX - HOT" tvg-logo="https://2.bp.blogspot.com/-1wGO-f5ElZg/T_WD1FkE3aI/AAAAAAAACRY/tdQWIh7NYH4/s1600/HOT+logo.png" group-title="Canais Adultos",XXX - HOT
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10497.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX - HOT CLUB 01" tvg-logo="" group-title="Canais Adultos",XXX - HOT CLUB 01
+http://g5.club-server.co:25461/live/Gotischer/Bruno/18094.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX - HOT CLUB 06" tvg-logo="" group-title="Canais Adultos",XXX - HOT CLUB 06
+http://g5.club-server.co:25461/live/Gotischer/Bruno/18093.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX - HOT HD" tvg-logo="" group-title="Canais Adultos",XXX - HOT HD
+http://g5.club-server.co:25461/live/Gotischer/Bruno/18092.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX - HUSTLER HD" tvg-logo="" group-title="Canais Adultos",XXX - HUSTLER HD
+http://g5.club-server.co:25461/live/Gotischer/Bruno/18091.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX -  HUSTLER SD" tvg-logo="" group-title="Canais Adultos",XXX -  HUSTLER SD
+http://g5.club-server.co:25461/live/Gotischer/Bruno/18110.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX - PASSIE" tvg-logo="http://img.brgo.xyz/img/passiexxx.png" group-title="Canais Adultos",XXX - PASSIE
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10496.ts
+#EXTINF:-1 tvg-id="XXX - PassieXXX" tvg-name="XXX - PASSIEXXX" tvg-logo="http://img.brgo.xyz/img/passiexxx.png" group-title="Canais Adultos",XXX - PASSIEXXX
+http://g5.club-server.co:25461/live/Gotischer/Bruno/18090.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX - PASSIONXXX" tvg-logo="" group-title="Canais Adultos",XXX - PASSIONXXX
+http://g5.club-server.co:25461/live/Gotischer/Bruno/18089.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX - PENTHOUSE" tvg-logo="http://img.brgo.xyz/img/Penthouse_hd.png" group-title="Canais Adultos",XXX - PENTHOUSE
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10495.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX - PENTHOUSE HD" tvg-logo="" group-title="Canais Adultos",XXX - PENTHOUSE HD
+http://g5.club-server.co:25461/live/Gotischer/Bruno/18088.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX - PINK O" tvg-logo="" group-title="Canais Adultos",XXX - PINK O
+http://g5.club-server.co:25461/live/Gotischer/Bruno/18087.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX - PLAYBOY" tvg-logo="http://img.brgo.xyz/img/playboy.png" group-title="Canais Adultos",XXX - PLAYBOY
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10503.ts
+#EXTINF:-1 tvg-id="XXX - Playboy" tvg-name="XXX -  PLAYBOY SD" tvg-logo="http://img.brgo.xyz/img/playboy.png" group-title="Canais Adultos",XXX -  PLAYBOY SD
+http://g5.club-server.co:25461/live/Gotischer/Bruno/18109.ts
+#EXTINF:-1 tvg-id="XXX - Playboy" tvg-name="XXX - PLAYBOY ALTERNATIVO 2" tvg-logo="http://img.brgo.xyz/img/playboyhd.png" group-title="Canais Adultos",XXX - PLAYBOY ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25565.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX - REDLIGHT" tvg-logo="http://www.creativesatellite.co.uk/contents/media/l_redlight%20hd%20logo.png" group-title="Canais Adultos",XXX - REDLIGHT
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10499.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX - REDLIGHT HD" tvg-logo="" group-title="Canais Adultos",XXX - REDLIGHT HD
+http://g5.club-server.co:25461/live/Gotischer/Bruno/18086.ts
+#EXTINF:-1 tvg-id="SexPrive" tvg-name="XXX -  SEXPRIVE SD" tvg-logo="http://img.brgo.xyz/img/sexprive.png" group-title="Canais Adultos",XXX -  SEXPRIVE SD
+http://g5.club-server.co:25461/live/Gotischer/Bruno/18108.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX - SEXTREME" tvg-logo="http://img.brgo.xyz/img/sextreme.png" group-title="Canais Adultos",XXX - SEXTREME
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10502.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX -  SEXTREME SD" tvg-logo="" group-title="Canais Adultos",XXX -  SEXTREME SD
+http://g5.club-server.co:25461/live/Gotischer/Bruno/18107.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX - SEXTREME ALTERNATIVO 2" tvg-logo="" group-title="Canais Adultos",XXX - SEXTREME ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25388.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX - SEXY HOT" tvg-logo="http://img.brgo.xyz/img/sexyhot.png" group-title="Canais Adultos",XXX - SEXY HOT
+http://g5.club-server.co:25461/live/Gotischer/Bruno/10501.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX -  SEXY HOT SD" tvg-logo="" group-title="Canais Adultos",XXX -  SEXY HOT SD
+http://g5.club-server.co:25461/live/Gotischer/Bruno/18106.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX - SEXY HOT ALTERNATIVO 2" tvg-logo="" group-title="Canais Adultos",XXX - SEXY HOT ALTERNATIVO 2
+http://g5.club-server.co:25461/live/Gotischer/Bruno/25387.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX - SUPERONE" tvg-logo="" group-title="Canais Adultos",XXX - SUPERONE
+http://g5.club-server.co:25461/live/Gotischer/Bruno/18085.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX - TV JASMIM" tvg-logo="" group-title="Canais Adultos",XXX - TV JASMIM
